@@ -1,0 +1,3102 @@
+
+start:
+#  - play morningBGM:
+  - show school_morning: WITH FADE
+  - show socrates: happy AT CENTER WITH FADE
+  - socrates says: One, two, three what is become of the fourth,
+  - socrates says: my dear Timaeus, of our yesterday's guests and our entertainers
+  - socrates says: of to-day ?
+  - show socrates: AT LEFT WITH MOVE
+  - show timaeus: AT CENTER WITH FADE
+  - timaeus says: He has fallen sick, Sokrates...
+  - timaeus says: he would not willingly have been missing at this gathering.
+  - show timaeus: AT RIGHT WITH MOVE
+  - show socrates: AT CENTER WITH MOVE
+  - socrates says: Then it is for you and your companions, is it not,
+  - socrates says: to fulfil the part of our absent friend?
+  - show socrates: AT LEFT WITH MOVE
+  - show timaeus: AT CENTER WITH MOVE
+  - timaeus says: Unquestionably; and we will omit nothing that lies in our power.
+  - timaeus says: For indeed it would not be fair, seeing how well we were entertained
+  - timaeus says: by you yesterday, that the rest of us should not heartily requite you
+  - timaeus says: with a fitting return of hospitality.
+  - show timaeus: AT RIGHT WITH MOVE
+  - show socrates: AT CENTER WITH MOVE
+  - socrates says: Do you remember the extent and scope of the subjects I appointed for
+  - socrates says: your discussion?
+  - show socrates: AT LEFT WITH MOVE
+  - show timaeus: AT CENTER WITH MOVE
+  - timaeus says: In part we remember; and whatever we have
+  - timaeus says: forgotten, you are here to aid our memory. But I should
+  - timaeus says: prefer, if it is not troublesome, that you should briefly recapitu-
+  - timaeus says: late them from beginning to end, that they may be more firmly
+  - timaeus says: fixed in our minds.
+  - socrates says: I will. The main subject of my discourse
+  - socrates says: yesterday was a political constitution, and the kind of prin-
+  - socrates says: ciples and citizens which seemed to me likely to render it most
+  - socrates says: perfect.
+  - timaeus says: Yes, and what you said, Sokrates, was very much
+  - timaeus says: to the satisfaction of us all.
+  - socrates says: Was not our first step to separate the agricultural
+  - socrates says: class and tradesmen in general from those who were to be the
+  - socrates says: defenders of our state ?
+  - timaeus says:  It was.
+  - socrates says: And in assigning on natural principles but one
+  - socrates says: single pursuit or craft which was suited to each citizen severally,
+  - socrates says: we declared that those whose duty it was to fight on behalf of
+  - socrates says: the community must be guardians only of the city, in case any
+  - socrates says: one whether without or within her walls should seek to injure
+  - socrates says: her, and that they should give judgment mercifully to their
+  - socrates says: subjects and natural friends, but show themselves stern to the
+  - socrates says: enemies they met in battle.
+  - timaeus says: Quite true.
+  - socrates says: For we described, I think, a certain temperament
+  - socrates says: which the souls of our guardians must possess, combining in a
+  - socrates says: peculiar degree high spirit and thoughtfulness, that they might
+  - socrates says: be able to show a due measure of mildness or sternness to friend
+  - socrates says: or foe.
+  - timaeus says: Yes.
+  - socrates says: And what of their training ? were they not to
+  - socrates says: have been trained in gymnastic and music and all studies which
+  - socrates says: are connected with these ?
+  - timaeus says: Just so.
+  - socrates says: And those who had undergone this discipline, we
+  - socrates says: said, must not consider that they have any private property in
+  - socrates says: gold or silver or anything else whatsoever, but as auxiliaries
+  - socrates says: drawing from those whom they preserved so much pay in return
+  - socrates says: for their protection as was sufficient for temperate men, they
+  - socrates says: were to spend it in common and pass their lives in company
+  - socrates says: with one another, devoting themselves perpetually to the pursuit
+  - socrates says: of virtue and relieved from all other occupations.
+  - timaeus says: That also is the way it was put.
+  - socrates says: Moreover with regard to women we observed that
+  - socrates says: their natures must be brought into harmonious similarity with
+  - socrates says: those of men, and that the same employments must be assigned
+  - socrates says: to them all both in war and in their general mode of life.
+  - timaeus says: Yes, that was what we said.
+  - socrates says: And what were our rules concerning the pro-
+  - socrates says: creation of children ? This, I think, is easy of recollection
+  - socrates says: because of the novelty of our scheme. We ordained that the
+  - socrates says: rights of marriage and of children should be common to all, to
+  - socrates says: the end that no one should ever know his own offspring, but
+  - socrates says: that each should look upon all as his kindred, regarding as
+  - socrates says: sisters and brethren all such as were between suitable limits of
+  - socrates says: age, and those of the former and previous generations as parents
+  - socrates says: and grandparents, and those after them as children and children's
+  - socrates says: children.
+  - timaeus says: Yes, it is very easy to remember this too as you
+  - timaeus says: describe it.
+  - socrates says: Next with a view to securing immediately the
+  - socrates says: utmost possible perfection in their natures, do we not remember
+  - socrates says: that it was incumbent on the rulers of both sexes to make
+  - socrates says: provision for the contraction of marriages by some secret mode
+  - socrates says: of allotment, that to the good and bad separately might be
+  - socrates says: allotted mates of their own kind, and so no ill-feeling should
+  - socrates says: the allotment?
+  - socrates says: arise among them, supposing as they would that chance governed
+  - timaeus says: We remember that.
+  - socrates says: And the offspring of the good we said must be
+  - socrates says: reared, while that of the bad was to be secretly dispersed among
+  - socrates says: the other classes of the state ; and continually observing them
+  - socrates says: as they grew up, the rulers were to restore to their rank such as
+  - socrates says: were worthy, and in the places of those so promoted substitute
+  - socrates says: the unworthy in their own rank.
+  - timaeus says: Quite so.
+  - socrates says: Have we now said enough for a summary re-
+  - socrates says: capitulation of yesterday's discourse ? or do we feel that any-
+  - socrates says: thing is lacking, my dear Timaeus, to our account ?
+  - timaeus says: Not at all :- you have exactly described what was
+  - timaeus says: said, Sokrates.
+  # II.
+  - socrates says: Listen then and I will tell you in the next
+  - socrates says: place what I feel about the constitution which we described.
+  - socrates says: My feeling is something like this, suppose a man, on beholding
+  - socrates says: beautiful creatures, whether the work of the painter or really
+  - socrates says: alive but at rest, should conceive a desire to see them in motion
+  - socrates says: and putting into active exercise the qualities which seemed to
+  - socrates says: belong to their form this is just what I feel about our city
+  - socrates says: which we described : I would fain listen to one who depicted
+  - socrates says: her engaged in a becoming manner with other countries in those
+  - socrates says: struggles which cities must undergo, and going to war, and
+  - socrates says: when at war showing a result worthy of her training and educa-
+  - socrates says: tion, both when dealing in action and parleying in speech with
+  - socrates says: other cities. Now, Kritias and Hermokrates, my own verdict
+  - socrates says: upon myself is that I should never be capable of celebrating the
+  - socrates says: city and her people according to their merit. So far as concerns
+  - socrates says: me indeed, that is no marvel ; but I have formed the same
+  - socrates says: opinion about the poets, both past and present ; not that I
+  - socrates says: disparage the poetic race, but any one can see that the imitative
+  - socrates says: tribe will most easily and perfectly imitate the surroundings
+  - socrates says: amid which they have been brought up, but that which lies
+  - socrates says: outside the range of each man's experience is hard to imitate
+  - socrates says: correctly in actions and yet harder in words. As to the class of
+  - socrates says: sophists on the other hand, I have always held them to be well
+  - socrates says: furnished with many fine discourses on other subjects ; yet I am
+  - socrates says: afraid, seeing they wander from city to city and have never had
+  - socrates says: dwellings of their own to manage, they may somehow fall short
+  - socrates says: in their conception of philosophers and statesmen, as to what in
+  - socrates says: time of war and battles they would do and say in their dealings
+  - socrates says: and converse with divers people. One class then remains, those
+  - socrates says: who share your habit of mind, having by nature and training a
+  - socrates says: capacity for both philosophy and statecraft. Timaeus for in-
+  - socrates says: stance, belonging to an admirably governed state, the Italian
+  - socrates says: Lokris, and one of the foremost of its citizens in wealth and
+  - socrates says: birth, has filled offices of the highest authority and honour in
+  - socrates says: his native city, and has also in my judgment climbed to the
+  - socrates says: topmost peak of all philosophy : while at Athens we all know
+  - socrates says: that Kritias is no novice in any of the questions we are discuss-
+  - socrates says: ing -- of Hermokrates too we must believe on the evidence of
+  - socrates says: many witnesses that his genius and acquirements qualify him to
+  - socrates says: deal with all such matters. This was in my mind yesterday
+  - socrates says: when I willingly complied with your request that I should
+  - socrates says: repeat the conversation concerning the ideal polity ; for I knew
+  - socrates says: that no men were more competent than you, if you were willing,
+  - socrates says:   to supply the sequel -- no one else indeed at the present day
+  - socrates says:   could, after engaging our city in an honourable war, render her
+  - socrates says:   conduct worthy of her in all respects. So after saying all that
+  - socrates says:   was enjoined on me I in my turn enjoined upon you the task of
+  - socrates says:   which I now remind you. Accordingly you consulted together
+  - socrates says:   and agreed to entertain me at this time with a return ' feast of
+  - socrates says:   reason '. I am here then ready for it in festal array, and never
+  - socrates says:   was there a more eager guest.
+  - hermocrates says: Indeed, Sokrates, as Timaeus said, there will
+  be no lack of zeal on our part, nor can we attempt to excuse
+  ourselves from performing the task. In fact yesterday imme-
+  diately on leaving this spot, when we reached the guest-chamber
+  at the house of Kritias where we are staying, and even before
+  that on our way thither, we were discussing this very matter.
+  Kritias then told us a story from an old tradition, which you had
+  better repeat now, Kritias, to Sokrates, that he may help us to
+  judge whether it will answer the purpose for our present task or
+  not.
+
+  Kritias. So be it, if our third partner Timaeus agrees.
+
+  Timaeus. I quite agree.
+
+  Kritias. Listen then, Sokrates, to a tale which, strange
+  though it be, is yet perfectly true, as Solon, the wisest of the
+  seven, once affirmed. He was a relation and dear friend of
+  Dropides, my great-grandfather, as he says himself in man
+  passages of his poems : and Dropides told my grandfather
+  Kritias, who when advanced in life repeated it to us, that there
+  were great and marvellous exploits achieved by Athens in days
+  of old, which through lapse of time and the perishing of men
+  have vanished from memory : and the greatest of all is one
+  which it were fitting for us to narrate, and so at once discharge
+  our debt of gratitude to you and worthily and truly extol
+  the goddess in this her festival by a kind of hymn in her
+  honour.
+
+  Sokrates. A good proposal. But what was this deed which
+  Kritias described on the authority of Solon as actually performed
+  of old by this city, though unrecorded in history?
+
+  III. Kritias. I will tell an ancient story that I heard from
+  a man no longer young. For Kritias was then, as he said, hard
+  upon ninety years of age, while I was about ten. It happened
+  to be the 'children's day' of the Apaturia ; and then as usual
+  the boys enjoyed their customary pastime, our fathers giving us
+  prizes for reciting poetry. A great deal of poetry by various
+  authors was recited, and since that of Solon was new at the
+  time, many of us children sang his poems. So one of the clans-
+  men said, whether he really thought so or whether he wished to
+  please Kritias, he considered that Solon was not only in other
+  respects the wisest of mankind but also the noblest of all poets
+  The old man how well I recollect it was extremely pleased
+  and said smiling, Yes, Amynandros, if he had not treated poetry
+  merely as a by-work, but had made a serious business of it like
+  the rest, and if he had finished the legend which he brought
+  hither from Egypt, instead of being compelled to abandon it by
+  the factions and other troubles which he found here on his
+  return, my belief is that neither Hesiod nor Homer nor any
+  other poet would have enjoyed greater fame than he. What
+  was the legend, Kritias ? asked Amynandros. It concerned a
+  mighty achievement, he replied, and one that deserved to be the
+  most famous in the world ; a deed which our city actually per-
+  formed, but owing to time and the destruction of the doers
+  thereof the story has not lasted to our times. Tell us from the
+  beginning, said the other, what was the tale that Solon told, and
+  how and from whom he heard it as true.
+
+  There is in Egypt, said Kritias, in the Delta, at the apex of
+  which the stream of the Nile divides, a province called the
+  Saitic ; and the chief city of this province is Sais, the birthplace
+  of Amasis the king. The founder of their city is a goddess,
+  whose name in the Egyptian tongue is Neith, and in Greek, as
+  they aver, Athena: the people are great lovers of the Athenians
+  and claim a certain kinship with our countrymen. Now when
+  Solon travelled to this city he said he was most honourably
+  entreated by the citizens; moreover when he questioned con-
+  cerning ancient things such of the priests as were most versed
+  therein, he found that neither he nor any other Grecian man,
+  one might wellnigh say, knew aught about such matters. And
+  once, when he wished to lead them on to talk of ancient times,
+  he essayed to tell them of the oldest legends of Hellas, of
+  Phoroneus who was called the first man, and of Niobe; and
+  again he told the tale of Deukalion and Pyrrha, how they sur-
+  vived after the deluge, and he reckoned up their descendants, and
+  tried, by calculating the periods, to count up the number of
+  years that passed during the events he related. Then said one
+  of the priests, a man well stricken in years, O Solon, Solon, ye
+  Greeks are ever children, and old man that is a Grecian is there
+  none. And when Solon heard it, he said, What meanest thou
+  by this ? And the priest said, Ye are all young in your souls ;
+  for ye have not in them because of old tradition any ancient
+  belief nor knowledge that is hoary with eld. And the reason of
+  it is this: many and manifold are the destructions of mankind
+  that have been and shall be; the greatest are by fire and by
+  water; but besides these there are lesser ones in countless other
+  fashions. For indeed that tale that is also told among you, how
+  that Phaethon, the child of the Sun, yoked his father's chariot,
+  and for that he could not drive in his father's path, he burnt up
+  all things upon earth and himself was smitten by a thunderbolt
+  and slain this story, as it is told, has the fashion of a fable;
+  but the truth of it is a deviation of the bodies that move round
+  the earth in the heavens, whereby comes at long intervals of
+  time a destruction with much fire of the things that are upon
+  earth. Thus do such as dwell on mountains and in high places
+  and in dry perish more widely than they who live beside rivers
+  and by the sea. Now the Nile, which is in all else our preserver,
+  saves us then also from this distress by releasing his founts : but
+  when the gods send a flood upon the earth, cleansing her with
+  waters, those in the mountains are saved, the neatherds and
+  shepherds, but the inhabitants of the cities in your land are
+  swept by the rivers into the sea. But in this country neither
+  then nor at any time does water fall from on high upon the
+  fields, but contrariwise all rises up by nature from below.
+  Wherefore and for which causes the legends preserved here are
+  the most ancient that are told : but the truth is that in all places,
+  where exceeding cold or heat does not forbid, there are ever
+  human beings, now more, now fewer. Now whether at Athens
+  or in Egypt, or in any other place whereof we have tidings, any-
+  thing noble or great or otherwise notable has occurred, we have
+  all written down and preserved from ancient times in our temple
+  here. But with you and other nations the commonwealth has
+  only just been enriched with letters and all else that cities
+  require : and again after the wonted term of years like a recur-
+  ring sickness comes rushing on them the torrent from heaven ;
+  and it leaves only the unlettered and untaught among you, so
+  that as it were ye become young again with a new birth, know-
+  ing nought of what happened in the ancient times either in our
+  country or in yours. For instance the genealogies, Solon, which
+  yojj just now recounted, concerning the people of your country,
+  are little better than children's tales. For in the first place ye
+  remember but one deluge, whereas there had been many before
+  it ; and moreover ye know not that the fairest and noblest race
+  among mankind lived once in your country, whence ye sprang
+  and all your city which now is, from a very little seed that of
+  old was left over. Ye however know it not, because the sur-
+  vivors lived and died for many generations without utterance in
+  writing. For once upon a time, Solon, far back beyond the
+  greatest destruction by waters, that which is now the city of
+  the Athenians was foremost both in war and in all besides, and
+  her laws were exceedingly righteous above all cities. Her deeds
+  and her government are said to have been the noblest among all
+  under heaven whereof the report has come to our ears. And
+  Solon said that on hearing this he was astonished, and used all
+  urgency in entreating the priests to relate to him from beginning
+  to end all about those ancient citizens. So the priest said, I
+  grudge thee not, O Solon, and I will tell it for thy sake and for
+  the sake of thy city, and chiefly for the honour of the goddess
+  who was the possessor and nurse and instructress both of your
+  city and of ours ; for she founded yours earlier by a thousand
+  years, having taken the seed of you from Earth and Hephaistos;
+  and ours in later time. And the date of our city's foundation is
+  recorded in our sacred writings to be eight thousand years ago.
+  But concerning the citizens of Athens nine thousand years ago I
+  will inform you in brief of their laws and of the noblest of the
+  deeds which they performed : the exact truth concerning every-
+  thing we will examine in due order hereafter, taking the actual
+  records at our leisure.
+
+  Consider now their laws in comparison with those of our
+  country ; for you will find here at the present day many exam-
+  ples of the laws which then existed among you : first the
+  separation of the priestly caste from the rest ; next the distinc-
+  tion of the craftsmen, that each kind plies its own craft by itself
+  and mingles not with another ; and the class of shepherds and
+  of hunters and of husbandmen are set apart ; and that of the
+  warriors too you have surely noticed is here sundered from all
+  the other classes ; for on them the law enjoins to study the art
+  of war and nought else. Furthermore there is the fashion of
+  their arming with spears and shields, wherewith we have been
+  the first men in Asia to arm ourselves ; for the goddess taught
+  this to us, as she did first to you in that country of yours.
+  Again as regards knowledge, you see how careful our law is in
+  its. first principles, investigating the laws of nature till it arrives
+  at divination and medicine, the object of which is health, draw-
+  ing from these divine studies lessons useful for human needs,
+  and adding to these all the sciences that are connected there-
+  withal. With all this constitution and order the goddess estab-
+  lished you when she founded your nation first; choosing out
+  the spot in which ye were born because she saw that the mild
+  temperament of its seasons would produce the highest intelli-
+  gence in its people. Seeing then that the goddess was a lover
+  of war and of wisdom, she selected the spot that should bring
+  forth men likest to herself, and therein she first founded your
+  race. Thus then did ye dwell governed by such laws as I have
+  described, ay and even better still, surpassing all men in ex-
+  cellence, as was meet for them that were offspring and nurslings
+  of gods.
+
+  Many and mighty are the deeds of your city recorded here
+  for the marvel of men ; but one is there which for greatness and
+  nobleness surpasses all the rest. For our chronicles tell what a
+  power your city quelled of old, that marched in wanton inso-
+  lence upon all Europe and Asia together, issuing yonder from
+  the Atlantic ocean. For in those days the sea there could be
+  crossed, since it had an island before the mouth of the strait
+  which is called, as ye say, the pillars of Herakles. Now this
+  island was greater than Libya and Asia together ; and there-
+  from there was passage for the sea-farers of those times to the
+  other islands, and from the islands to all the opposite continent
+  which bounds that ocean truly named. For these regions that
+  lie within the strait aforesaid seem to be but a bay having a
+  narrow entrance ; but the other is ocean verily, and the land
+  surrounding it may with fullest truth and fitness be named a
+  continent. In this island Atlantis arose a great and marvellous
+  might of kings, ruling over all the island itself, and many other
+  islands, and parts of the mainland; and besides these, of the
+  lands east of the strait they governed Libya as far as Egypt, and
+  Europe to the borders of Etruria. So all this power gathered
+  itself together, and your country and ours and the whole region
+  within the strait it sought with one single swoop to enslave.
+  Then, O Solon, did the power of your city shine forth in all
+  men's eyes glorious in valour and in strength. For being fore-
+  most upon earth in courage and the arts of war, sometimes she
+  was leader of the Hellenes, sometimes she stood alone perforce,
+  when the rest fell away from her; and after being brought into
+  the uttermost perils, she vanquished the invaders and triumphed
+  over them : and the nations that were not yet enslaved she pre-
+  served from slavery; while the rest of us who dwell this side the
+  pillars of Herakles, all did she set free with ungrudging hand.
+  But in later time, after there had been exceeding great earth-
+  quakes and floods, there fell one day and night of destruction;
+  and the warriors in your land all in one body were swallowed up
+  by the earth, and in like manner did the island Atlantis sink
+  beneath the sea and vanish away. Wherefore to this day the
+  ocean there is impassable and unsearchable, being blocked by
+  very shallow shoals, which the island caused as she settled down.
+  IV. You have heard this brief statement, Sokrates, of what
+  the ancient Kritias reported that he heard from Solon : and
+  when you were speaking yesterday about the polity and the
+  men whom you described, I was amazed as I called to mind the
+  story I have just told you, remarking how by some miraculous
+  coincidence most of your account agreed unerringly with the
+  description of Solon. I was unwilling however to say anything
+  at the moment, for after so long a time my memory was at
+  fault. I conceived therefore that I must not speak until I had
+  thoroughly gone over the whole story by myself. Accordingly
+  I was quick to accept the task you imposed on us yesterday,
+  thinking that for the most arduous part of all such undertakings,
+  I mean supplying a story fitly corresponding to our intentions,
+  we should be fairly well provided. So then, as Hermokrates
+  said, as soon as ever I departed hence yesterday, I began to
+  repeat the legend to our friends as I remembered it; and when
+  I got home I recovered nearly the whole of it by thinking it
+  over at night. How true is the saying that what we learn in
+  childhood has a wonderful hold on the memory. Of what I
+  heard yesterday I know not if I could call to mind the whole :
+  but though it is so very long since I heard this tale, I should be
+  surprised if a single point in it has escaped me. It was with
+  much boyish delight that I listened at the time, and the
+  old man was glad to instruct me, (for I asked a great many
+  questions) ; so that it is indelibly fixed in my mind, like those
+  encaustic pictures which cannot be effaced. And I narrated the
+  story to the rest the first thing in the morning, that they might
+  share my affluence of words. Now therefore, to return to the
+  object of all our conversation, I am ready to speak, Sokrates,
+  not only in general terms, but entering into details, as I heard it.
+  The citizens and the city which you yesterday described to us
+  as in a fable we will transfer to the sphere of reality and to
+  our own country, and we will suppose that ancient Athens is
+  your ideal commonwealth, and say that the citizens whom you
+  imagined are those veritable forefathers of ours of whom the
+  priest spoke. They will fit exactly, and there will be nothing
+  discordant in saying that they were the men who lived in those
+  days. And dividing the work between us we will all endeavour
+  to render an appropriate fulfilment of your injunctions. So you
+  must consider, Sokrates, whether this story of ours satisfies you,
+  or whether we must look for another in its stead.
+
+  Sokrates, How could we change it for the better, Kritias ?
+  It is specially appropriate to this festival of the goddess, owing
+  to its connexion with her ; while the fact that it is no fictitious
+  tale but a true history is surely a great point. How shall we
+  find other such citizens if we relinquish these ? It cannot be :
+  so with Fortune's favour do you speak on, while I in requital for
+  my discourse of yesterday have in my turn the privilege of
+  listening in silence.
+
+  Kritias. Now consider, Sokrates, how we proposed to dis-
+  tribute your entertainment. We resolved that Timaeus, who is
+  the best astronomer among us, and who has most of all made it
+  his business to understand universal nature, should speak first,
+  beginning with the origin of the universe, and should end with
+  the birth of mankind : and that I should follow, receiving from
+  him mankind brought to being in theory, and from you a por-
+  tion of them exceptionally cultivated ; and that in accordance
+  with Solon's laws, no less than with his statement, I should
+  introduce them before our tribunal and make them our fellow-
+  citizens, as being the Athenians of bygone days, whom the
+  declaration of the sacred writings has delivered from their
+  oblivion ; and thenceforward we shall speak as if their claim to
+  Athenian citizenship were fairly established.
+
+  Sokrates. Ample and splendid indeed, it seems, will be the
+  banquet of discourse which I am to receive in my turn. So it
+  would seem to be your business to speak next, Timaeus, after
+  you have duly invoked the gods.
+
+  V. Timaeus. Yes indeed, Sokrates, that is what all do who
+  possess the slightest share of judgment ; at the outset of every
+  work, great or small, they always call upon a god : and seeing
+  that we are going to enter on a discussion of the universe, how
+  far it is created or perchance uncreate, unless we are altogether
+  beside ourselves, we must needs invoke the gods and goddesses
+  and pray above all that our discourse may be pleasing in their
+  sight, next that it may be consistent with itself. Let it suffice
+  then thus to have called upon the gods ; but we must call upon
+  ourselves likewise to conduct the discourse in such a way that
+  you will most readily comprehend me, and I shall most fully carry
+  out my intentions in expounding the subject that is before us.
+
+  First then in my judgment this distinction must be made.
+  What is that which is eternally and has no becoming, and again
+  what is that which comes to be but is never ? The one is com-
+  prehensible by thought with the aid of reason, ever changeless ;
+  the other opinable by opinion with the aid of reasonless sensa-
+  tion, becoming and perishing, never truly existent. Now all
+  that comes to be must needs be brought into being by some
+  cause : for it is impossible for anything without a cause to
+  attain to birth. Of whatsoever thing then the Artificer, looking
+  ever to the changeless and using that as his model, works out
+  the design and function, all that is so accomplished must needs
+  be fair : but if he look to that which has come to be, using the
+  created as his model, the work is not fair. Now as to the whole
+  heaven or order of the universe for whatsoever name is most
+  acceptable to it, be it so named by us we must first ask con-
+  cerning it the question which lies at the outset of every inquiry,
+  whether did it exist eternally, having no beginning of generation,
+  or has it come into being, starting from some beginning? It
+  has come into being : for it can be seen and felt and has body ;
+  and all such things are sensible, and sensible things, apprehen-
+  sible by opinion with sensation, belong, as we saw, to becoming
+  and creation. We say that what has come to be must be
+  brought into being by some cause. Now the maker and father
+  of this All it were a hard task to find, and having found him, it
+  were impossible to declare him to all men. However we must
+  again inquire concerning him, after which of the models did the
+  framer of it fashion the universe, after the changeless and abid-
+  ing, or after that which has come into being? If now this
+  universe is fair and its Artificer good, it is plain that he looked
+  to the eternal ; but if nay it may not even be uttered without
+  impiety, then it was to that which has come into being. Now
+  it is manifest to every one that he looked to the eternal : for the
+  universe is fairest of all things that have come to be, and he is
+  the most excellent of causes. And having come on this wise
+  into being it has been created in the image of that which is
+  comprehensible by reason and wisdom and changes never.
+  Granting this, it must needs be that this universe is a likeness of
+  something. Now it is all-important to make our beginning
+  according to nature: and this affirmation must be laid down
+  with regard to a likeness and its model, that the words must be
+  akin to the subjects of which they are the interpreters : there-
+  fore of that which is abiding and sure and discoverable by the
+  aid of reason the words too must be abiding and unchanging,
+  and so far as it lies in words to be incontrovertible and immova-
+  ble, they must in no wise fall short of this ; but those which deal
+  with that which is made in the image of the former and which is
+  a likeness must be likely and duly corresponding with their
+  subject : as being is to becoming, so is truth to belief. If then,
+  Sokrates, after so many men have said divers things concerning
+  the gods and the generation of the universe, we should not prove
+  able to render an account everywhere and in all respects con-
+  sistent and accurate, let no one be surprised ; but if we can
+  produce one as probable as any other, we must be content,
+  remembering that I who speak and you my judges are but men :
+  so that on these subjects we should be satisfied with the probable
+  story and seek nothing further.
+
+  Sokrates. Quite right, Timaeus ; we must accept it exactly
+  as you say. Your prelude is exceedingly welcome to us, so
+  please proceed with the strain itself.
+
+  VI. Timaeus. Let us declare then for what cause nature
+  and this All was framed by him that framed it. He was good,
+  and in none that is good can there arise jealousy of aught at
+  any time. So being far aloof from this, he desired that all things
+  should be as like unto himself as possible. This is that most
+  sovereign cause of nature and the universe which we shall most
+  surely be right in accepting from men of understanding. For
+  God desiring that all things should be good, and that, so far as
+  this might be, there should be nought evil, having received all
+  that is visible not in a state of rest, but moving without harmony
+  or measure, brought it from its disorder into order, thinking that
+  this was in all ways better than the other. Now it neither has
+  been nor is permitted to the most perfect to do aught but what
+  is most fair. Therefore he took thought and perceived that of
+  all things which are by nature visible, no work that is without
+  reason will ever be fairer than that which has reason, setting
+  whole against whole, and that without soul reason cannot dwell
+  in anything. Because then he argued thus, in forming the
+  universe he created reason in soul and soul in body, that he
+  might be the maker of a work that was by nature most fair and
+  perfect. In this way then we ought to affirm according to the
+  probable account that this universe is a living creature in very
+  truth possessing soul and reason by the providence of God.
+
+  Having attained thus far, we must go on to tell what follows :
+  after the similitude of what animal its framer fashioned it. To
+  none of these which naturally belong to the class of the partial
+  must we deign to liken it : for nothing that is like to the im-
+  perfect could ever become fair ; but that of which the other
+  animals severally and in their kinds are portions, to this above
+  all things we must declare that the universe is most like. For
+  that comprehends and contains in itself all ideal animals, even as
+  this universe contains us and all other creatures that have been
+  formed to be visible. For since God desired to liken it most
+  nearly to what is fairest of the objects of reason and in all respects
+  perfect, he made it a single visible living being, containing within
+  itself all animals that are by nature akin to it. Are we right
+  then in affirming the universe to be one, or had it been more true
+  to speak of a great and boundless number ? One it must be, if
+  it is to be created according to its pattern. For that which
+  comprehends all ideal animals that are could never be a second
+  in company of another: for there must again exist another
+  animal comprehending them, whereof the two would be parts,
+  and no longer to them but to that which comprehended them
+  should we more truly affirm the universe to have been likened.
+  To the end then that in its solitude this universe might be like
+  the all-perfect animal, the maker made neither two universes nor
+  an infinite number ; but as it has come into being, this universe
+  one and only-begotten, so it is and shall be for ever.
+
+  VII. Now that which came into being must be material and
+  such as can be seen and touched. Apart from fire nothing
+  could ever become visible, nor without something solid could it
+  be tangible, and solid cannot exist without earth : therefore did
+  God when he set about to frame the body of the universe form
+  it of fire and of earth. But it is not possible for two things
+  to be fairly united without a third; for they need a bond between
+  them which shall join them both. The best of bonds is that
+  which makes itself and those which it binds as complete a unity
+  as possible ; and the nature of proportion is to accomplish this
+  most perfectly. For when of any three numbers, whether ex-
+  pressing three or two dimensions, one is a mean term, so that as
+  the first is to the middle, so is the middle to the last ; and con-
+  versely as the last is to the middle, so is the middle to the first ; then
+  since the middle becomes first and last, and the last and the first
+  both become middle, of necessity all will come to be the same, and
+  being the same with one another all will be a unity. Now if the
+  body of the universe were to have been made a plane surface
+  having no thickness, one mean would have sufficed to unify itself
+  and the extremes ; but now since it behoved it to be solid,
+  and since solids can never be united by one mean, but require two
+  God accordingly set air and water betwixt fire and earth, and
+  making them as far as possible exactly proportional, so that fire
+  is to air as air to water, and as air is to water water is to earth,
+  thus he compacted and constructed a universe visible and tangible.
+  For these reasons and out of elements of this kind, four in
+  number, the body of the universe was created, being brought
+  into concord through proportion ; and from these it derived
+  friendship, so that coming to unity with itself it became in-
+  dissoluble by any force save the will of him who joined it.
+
+  Now the making of the universe took up the whole bulk of
+  each of these four elements. Of all fire and all water and air
+  and earth its framer fashioned it, leaving over no part nor power
+  without. Therein he had this intent : first that it might be
+  a creature perfect to the utmost with all its parts perfect; next
+  that it might be one, seeing that nothing was left over whereof
+  another should be formed ; furthermore that it might be free
+  from age and sickness ; for he reflected that when hot things
+  and cold and all such as have strong powers gather round a
+  composite body from without and fall unseasonably upon it,
+  they undermine it, and bringing upon it sickness and age cause
+  its decay. For such motives and reasons he fashioned it as one
+  whole, with each of its parts whole in itself, so as to be perfect
+  and free from age and sickness. And he assigned to it its
+  proper and natural shape. To that which is to comprehend all
+  animals in itself that shape seems proper which comprehends in
+  itself all shapes that are. Wherefore he turned it of a rounded
+  and spherical shape, having its bounding surface in all points at
+  an equal distance from the centre : this being the most perfect
+  and regular shape ; for he thought that a regular shape was
+  infinitely fairer than an irregular. And all round about he
+  finished off the outer surface perfectly smooth, for many
+  reasons. It needed not eyes, for naught visible was left
+  outside; nor hearing, for there was nothing to hear; and there
+  was no surrounding air which made breathing needful. Nor
+  must it have any organ whereby it should receive into itself its
+  sustenance, and again reject that which was already digested ;
+  for nothing went forth of it nor entered in from anywhere ; for
+  there was nothing. For by design was it created to supply its
+  own sustenance by its own wasting, and to have all its action
+  and passion in itself and by itself : for its framer deemed that
+  were it self-sufficing it would be far better than if it required
+  aught else. And hands, wherewith it had no need to grasp
+  aught nor to defend itself against another, he thought not fit idly
+  to bestow upon it, nor yet feet, nor in a word anything to serve
+  as the means of movement. For he assigned it that motion
+  which was proper to its bodily form, of all the seven that which
+  most belongs to reason and intelligence. Wherefore turning it
+  about uniformly in the same spot on its own axis, he made it to
+  revolve round and round ; but all the six motions he took away
+  from it and left it without part in their wanderings. And since
+  for this revolution there was no need of feet he made it without
+  legs and without feet.
+
+  VIII. So the universal design of the ever-living God, that
+  he planned for the God that was some time to be, made its
+  surface smooth and even, everywhere equally distant from the
+  centre, a body whole and perfect out of perfect bodies. And
+  God set soul in the midst thereof and spread her through all its
+  body and even wrapped the body about with her from without,
+  and he made it a sphere in a circle revolving, a universe one and
+  alone ; but for its excellence it was able to be company to itself
+  and needed no other, being sufficient for itself as acquaintance
+  and friend. For all these things then he created it a happy god.
+  But the soul was not made by God younger than the body,
+  even as she comes later in this account we are essaying to give ;
+  for he would not when he had joined them together have suffered
+  the elder to be governed by the younger : but we are far too
+  prone to a casual and random habit of mind which shows itself
+  in our speech. God made soul in birth and in excellence
+  earlier and elder than body, to be its mistress and governor ; and
+  he framed her out of the following elements and in the following
+  way. From the undivided and ever changeless substance and
+  that which becomes divided in material bodies, of both these he
+  mingled in the third place the form of Essence, in the midst
+  between the Same and the Other; and this he composed on such
+  wise between the undivided and that which is in material bodies
+  divided ; and taking them, three in number, he blended them
+  into one form, forcing the nature of the Other, hard as it was to
+  mingle, into union with the Same. And mingling them with
+  Essence and of the three making one, again he divided this into
+  as many parts as was meet, each part mingled of Same and
+  of Other and of Essence. And he began his dividing thus : first
+  he took one portion from the whole ; then he went on to take a
+  portion double of this ; and the third half as much again as the
+  second and triple of the first; the fourth double of the second ;
+  the fifth three times the third ; the sixth eight times the first,
+  the seventh twenty-seven times the first. After that, he filled up
+  the interval between the powers of two and of three by severing
+  yet more from the original mass and placing it between them in
+  such a manner that within each interval were two means, the
+  first exceeding one extreme in the same proportion as it was
+  exceeded by the other, the second by the same number exceed-
+  ing the one as it was exceeded by the other. And whereas by
+  these links there were formed in the original intervals new
+  intervals of f and f and , he went on to fill up all the intervals
+  of f with that of f, leaving in each a fraction over ; and the
+  terms of the interval forming this fraction are in the numerical
+  proportion of 2$6 to 243. By this time the mixture, whence he
+  cut off these portions, was all used up. Next he cleft the
+  structure so formed lengthwise into two halves, and laying the
+  two so as to meet in the centre in the shape of the letter X, he
+  bent them into a circle and joined them, causing them to meet
+  themselves and each other at a point opposite to that of their
+  original contact : and he comprehended them in the motion that
+  revolves uniformly on the same axis, and one of the circles he
+  made exterior and one interior. The exterior motion he named
+  the motion of the Same, the interior that of the Other. And
+  the circle of the Same he made revolve to the right by way of
+  the side, that of the Other to the left by way of the diagonal.
+  And he gave the supremacy to the motion of the same and
+  uniform, for he left that single and undivided ; but the inner
+  circle he cleft into seven unequal circles in the proportion of the
+  double and triple intervals severally, each being three in number;
+  and he appointed that the circles should move in opposite
+  directions, three at the same speed, the other four differing
+  in speed from the three and among themselves, yet moving in a
+  due ratio.
+
+  IX. Now after that the framing of the soul was finished to
+  the mind of him that framed her, next he fashioned within her
+  all that is bodily, and he drew them together and fitted them
+  middle to middle. And from the midst even unto the ends
+  of heaven she was woven in everywhere and encompassed it
+  around from without, and having her movement in herself
+  she began a divine beginning of endless and reasonable life for
+  ever and evermore. Now the body of the universe has been
+  created visible ; but she is invisible, and she, even soul, has part
+  in reason and in harmony. And whereas she is made by the
+  best of all whereunto belong reason and eternal being, so she is
+  the best of all that is brought into being. Therefore since she is
+  formed of the nature of Same and of Other and of Being, of these
+  three portions blended, in due proportion divided and bound
+  together, and turns about and returns into herself, whenever she
+  touches aught that has manifold existence or aught that has
+  undivided, she is stirred through all her substance, and she tells
+  that wherewith the thing is same and that wherefrom it is
+  different, and in what relation or place or manner or time
+  it comes to pass both in the region of the changing and in the
+  region of the changeless that each thing affects another and
+  is affected. This word of hers is true alike, whether it deal with
+  Same or with Other, without voice or sound in the Self-moved
+  arising ; and when she is busied with the sensible, and the circle
+  of the Other, being true, announces it throughout all the soul,
+  then are formed sure opinions and true beliefs ; and when she is
+  busy with the rational, and the circle of the Same declares
+  it, running smoothly, then reason and knowledge cannot but be
+  made perfect. And in whatsoever existing thing these two are
+  found, if a man affirm it is aught but soul, what he says will be
+  anything rather than the truth.
+
+  X. And when the father who begat it perceived the created
+  image of the eternal gods, that it had motion and life, he re-
+  joiced and was well pleased ; and he bethought him to make it
+  yet more nearly like its pattern. Now whereas that is a living
+  being eternally existent, even so he essayed to make this All the
+  like to the best of his power. Now so it was that the nature of
+  the ideal was eternal. But to bestow this attribute altogether
+  upon a created thing was impossible ; so he bethought him to
+  make a moving image of eternity, and while he was ordering
+  the universe he made of eternity that abides in unity an eternal
+  image moving according to number, even that which we have
+  named time. For whereas days and nights and months and
+  years were not before the universe was created, he then devised
+  the generation of them along with the fashioning of the universe.
+  Now all these are portions of time, and was and shall be are
+  forms of time that have come to be, although we wrongly
+  ascribe them unawares to the eternal essence. For we say that
+  it was and is and shall be, but in verity is alone belongs to it :
+  and was and shall be it is meet should be applied only to
+  Becoming which moves in time ; for these are motions. But
+  that which is ever changeless without motion must not become
+  elder or younger in time, neither must it have become so in the
+  past nor be so in the future ; nor has it to do with any attributes
+  that Becoming attaches to the moving objects of sense : these
+  have come into being as forms of time, which is the image of
+  eternity and revolves according to number. Moreover we say
+  that the become is the become, and the becoming is the be-
+  coming, and that which shall become is that which shall become,
+  and not-being is not-being. In all this we speak incorrectly.
+  But concerning these things the present were perchance not the
+  right season to inquire particularly.
+
+  XI. Time then has come into being along with the universe,
+  that being generated together, together they may be dissolved,
+  should a dissolution of them ever come to pass ; and it was
+  made after the pattern of the eternal nature, that it might be as
+  like to it as was possible. For the pattern is existent for all
+  eternity ; but the copy has been and is and shall be throughout
+  all time continually. So then this was the plan and intent of
+  God for the generation of time ; the sun and the moon and five
+  other stars which have the name of planets have been created
+  for defining and preserving the numbers of time. And when
+  God had made their several bodies, he set them in the orbits
+  wherein the revolution of the Other was moving, in seven circles
+  seven stars. The moon he placed in that nearest the earth, and
+  in the second above the earth he set the sun ; and the morning-
+  star and that which is held sacred to Hermes he assigned to
+  those that moved in an orbit having equal speed with the sun,
+  but having a contrary tendency : wherefore the sun and Hermes
+  and the morning star in like manner overtake and are over-
+  taken one by another. And as to the rest, were we to set forth
+  all the orbits wherein he put them and the causes wherefore he
+  did so, the account, though only by the way, would lay on us a
+  heavier task than that which was our chief object in giving it.
+  These things perhaps may hereafter, when we have leisure, find
+  a fitting exposition.
+
+  But when each of the beings which were to join in creating
+  time had arrived in its proper orbit, and had been generated as
+  animate creatures, their bodies secured with living bonds, and
+  had learnt their appointed task ; then in the motion of the
+  Other, which was slanting and crossed the motion of the Same
+  and was thereby controlled, whereas one of these planets had a
+  larger, another a smaller circuit, the lesser orbit was completed
+  more swiftly, the larger more slowly : but because of the motion
+  of the Same those which revolved most swiftly seemed to be
+  overtaken by those that went more slowly, though really they
+  overtook them. For the motion of the Same, twisting all their
+  circles into spirals, because they have a separate and simul-
+  taneous motion in the opposite way, being of all the swiftest
+  displays closest to itself that which departs most slowly from
+  it. And that there might be some clear measure of the relative
+  swiftness and slowness with which they moved in their eight
+  revolutions, God kindled a light in the second orbit from the
+  earth, which we now have named the sun, in order that it might
+  shine most brightly to the ends of heaven, and that living
+  things, so many as was meet, should possess number, learning it
+  from the motion of the same and uniform. Night then and day
+  have been created in this manner and for these causes ; and
+  this is one revolution of the undivided and most intelligent
+  circuit ; and a month is fulfilled when the moon, after com-
+  pleting her own orbit, overtakes the sun ; a year, when the sun
+  has completed his own course. But the courses of the others
+  men have not taken into account, save a few out of many ; and
+  they neither give them names nor measure them against one
+  another, comparing them by means of numbers nay I may
+  say they do not know that time arises from the wanderings of
+  these, which are incalculable in multitude and marvellously
+  intricate. None the less however can we observe that the
+  perfect number of time fulfils the perfect year at the moment
+  when the relative swiftnesses of all the eight revolutions ac-
+  complish their course together and reach their starting-point,
+  being measured by-the circle of the same and uniformly moving.
+  In this way then and for these causes were created all such of
+  the stars as wander through the heavens and turn about therein,
+  in order that this universe may be most like to the perfect and
+  ideal animal by its assimilation to the eternal being.
+
+  XII. Now up to the generation of time all else had been
+  accomplished in the likeness of that whereunto it was likened :
+  but in that it did not yet contain all living creatures created
+  within it, herein it was still unlike. So he went on to complete
+  this that remained unfinished, moulding it after the nature of the
+  pattern. So many forms then as Mind perceived to exist in the
+  ideal animal, according to their variety and multitude, such
+  kinds and such a number did he think fit that this universe
+  should possess. These are fourfold : first the race of the
+  heavenly gods, next the winged tribe whose path is in the air,
+  third whatso dwells in the water, and fourth that which goes
+  upon dry land. The visible form of the deities he created
+  chiefly of fire, that it might be most radiant and most fair to
+  behold ; and likening it to the All he shaped it like a sphere
+  and assigned it to the intelligence of the supreme to follow after
+  it ; and he disposed it throughout all the firmament of heaven,
+  to be an adornment of it in very truth, wrought cunningly over
+  the whole expanse. And he bestowed two movements upon
+  each, one in the same spot and uniform, whereby it should be
+  ever constant to its own thoughts concerning the same thing;
+  the other forward, but controlled by the revolution of the same
+  and uniform : but for the other five movements he made it
+  motionless and still, that each star might attain the highest
+  completeness of perfection. From which cause have been
+  created all the stars that wander not but abide fast for ever,
+  living beings divine and eternal and in one spot revolving :
+  while those that move in a circle and wander as aforesaid have
+  come into being on those principles which in the foregoing we
+  have declared.
+
+  And the earth our foster-mother, that is globed round the
+  axis stretched from pole to pole of the universe, her he fashioned
+  to be the guardian and creator of night and day, the first and
+  most august of the gods that have been created within the
+  heavens. But the circlings of them and their crossings one of
+  another, and the manner of the returning of their orbits upon
+  themselves and their approximations, and which of the deities
+  meet in their conjunctions and which are in opposition, and how
+  they pass before and behind each other, and at what times they
+  are hidden from us and again reappearing send to them who
+  cannot calculate their motions panics and portents of things to
+  come to declare all this without visible illustrations of their
+  very movements were labour lost. So let thus much suffice on
+  this head and let our exposition concerning the nature of the
+  gods visible and created be brought to an end.
+
+  XIII. But concerning the other divinities, to declare and
+  determine their generation were a task too mighty for us :
+  therefore we must trust in those who have revealed it here-
+  tofore, seeing that they are offspring, as they said, of gods, and
+  without doubt know their own forefathers. We cannot then
+  mistrust the children of gods, though they speak without pro-
+  bable or inevitable demonstrations ; but since they profess to
+  announce what pertains to their own kindred, we must conform
+  to usage and believe them. Let us then accept on their word
+  this account of the generation of these gods. Of Earth and
+  Heaven were born children, Okeanos and Tethys ; of these
+  Phorkys and Kronos and Rhea and all their brethren : and of
+  Kronos and Rhea, Zeus and Hera and all whom we know to be
+  called their brothers ; and they in their turn had children after
+  them.
+
+  Now when all the gods had come to birth, both those who
+  revolve before our eyes and those who reveal themselves in so far
+  as they will, he who begat this universe spake to them these words:
+  Gods of gods, whose creator am I and father of works, which
+  by me coming into being are indissoluble save by my will :
+  Behold, all which hath been fastened may be loosed, yet to
+  loose that which is well fitted and in good case were the will of
+  an evil one. Wherefore, forasmuch as ye have come into being,
+  immortal ye are not, nor indissoluble altogether ; nevertheless
+  shall ye not be loosed nor meet with the doom of death, having
+  found in my will a bond yet mightier and more sovereign than
+  those that ye were bound withal when ye came into being.
+  Now therefore hearken to the word that I declare unto you.
+  Three kinds of mortal beings are yet uncreate. And if these
+  be not created, the heaven will be imperfect; for it will not
+  have within it all kinds of living things; yet these it must have,
+  if it is to be perfect. But if these were created by my hands
+  and from me received their life, they would be equal to gods.
+
+  Therefore in order that they may be mortal, and that this All
+  may be truly all, turn ye according to nature unto the creation
+  of living things, imitating my power that was put forth in the
+  generation of you. Now such part of them as is worthy to
+  share the name of the immortals, which is called divine and
+  governs in the souls of those that are willing ever to follow
+  after justice and after you, this I, having sown and provided it,
+  will deliver unto you : and ye for the rest, weaving the mortal
+  with the immortal, shall create living beings and bring them to
+  birth, and giving them sustenance shall ye increase them, and
+  when they perish receive them back again.
+
+  XIV. Thus spake he ; and again into the same bowl wherein
+  he mingled and blended the universal soul he poured what was
+  left of the former, mingling it somewhat after the same manner,
+  yet no longer so pure as before but second and third in pure-
+  ness. And when he had compounded the whole, he portioned
+  off souls equal in number to the stars and distributed a soul to
+  each star, and setting them in the stars as though in a chariot,
+  he shewed them the nature of the universe and declared to
+  them its fated laws; how that the first incarnation should be
+  ordained to be the same for all, that none might suffer dis-
+  advantage at his hands ; and how they must be sown into the
+  instruments of time, each into that which was meet for it, and
+  be born as the most god-fearing of all living creatures ; and
+  whereas human nature was twofold, the stronger was that race
+  which should hereafter be called man. When therefore they
+  should be of necessity implanted in bodily forms, and of their
+  bodies something should ever be coming in and other passing
+  away, in the first place they must needs all have innate one and
+  the same faculty of sense, arising from forcible affections ; next
+  love mingled with pleasure and pain ; and besides these fear
+  and wrath and all the feelings that accompany these and such
+  as are of a contrary nature : and should they master these
+  passions, they would live in righteousness ; if otherwise, in un-
+  righteousness. And he who lived well throughout his allotted
+  time should be conveyed once more to a habitation in his
+  kindred star, and there should enjoy a blissful and congenial
+  life: but failing of this, he should pass in the second incar-
+  nation into the nature of a woman ; and if in this condition he
+  still would not turn from the evil of his ways, then, according
+  to the manner of his wickedness, he should ever be changed
+  into the nature of some beast in such form of incarnation as
+  fitted his disposition, and should not rest from the weariness of
+  these transformations, until by following the revolution that is
+  within him of the same and uniform, he should overcome by
+  reason all that burden that afterwards clung around him of fire
+  and water and air and earth, a troublous and senseless mass,
+  and should return once more to the form of his first and best
+  nature.
+
+  And when he had ordained all these things for them, to the
+  end that he might be guiltless of all the evil that should be in
+  each of them, God sowed some in the earth, some in the moon,
+  and some in the other instruments of time. And what came
+  after the sowing he gave into the hands of the young gods, to
+  mould mortal bodies, and having wrought all the residue of
+  human soul that needed yet to be added, to govern and guide
+  as nobly and perfectly as they could the mortal creature, in so
+  far as it brought not evil upon its own head.
+
+  XV. So when he had made all these ordinances for them
+  God was abiding after the manner of his own nature : and as he
+  so abode, the children thinking on the command of their father
+  were obedient to it, and having received the immortal principle
+  of a mortal creature, imitating their own artificer, they bor-
+  rowed from the universe portions of fire and of earth and of
+  water and of air, on condition that they should be returned
+  again, and they cemented together what they took, not with the
+  indissoluble bonds wherewithal they themselves were held to-
+  gether, but welding it with many rivets, invisible for smallness,
+  and making of all the elements one body for each creature, they
+  confined the revolutions of the immortal soul in a body in-
+  flowing and out-flowing continually. And they, being confined
+  in a great river, neither controlled it nor were controlled, but
+  bore and were borne violently to and fro ; so that the whole
+  creature moved, but advanced at random without order or
+  method, having all the six motions : for they moved forward
+  and backward and again to right and to left and downward and
+  upward, and in every way went straying in the six directions.
+  For great as was the tide sweeping over them and flowing off
+  which brought them sustenance, a yet greater tumult was caused
+  by the effects of the bodies that struck against them ; as when
+  the body of any one came in contact with some alien fire that
+  met it from without, or with solid earth, or with liquid glidings
+  of water, or if he were caught in a tempest of winds borne on
+  the air, and so the motions from all these elements rushing
+  through the body penetrated to the soul. This is in fact the
+  reason why these have all alike been called and still are called
+  sensations (atcr^o-et?). Then too did they produce the most
+  wide and vehement agitation for the time being, joining with the
+  perpetually streaming current in stirring and violently shaking
+  the revolutions of the soul, so that they altogether hindered the
+  circle of the Same by flowing contrary to it, and they stopped
+  it from governing and from going ; while the circle of the Other
+  they displaced, so that the double and triple intervals, being
+  three of each sort, and the means and junctures of f and f and ,
+  since they could not be utterly undone save by him that joined
+  them, were forced by them to turn in all kinds of ways and to
+  admit all manner of breaking and twisting of the circles, in
+  every possible form, so that they can barely hold to one another,
+  and though they are in motion, it is motion without law, some-
+  times reversed, now slanting, and now inverted. It is as though
+  a man should stand on his head, resting it on the earth and
+  supporting his feet against something aloft ; in this case the man
+  in such condition and the spectators would reciprocally see right
+  and left reversed in the persons of each other. The same and
+  similar effects are produced with great intensity in the soul's
+  revolutions : and when from external objects there meets them
+  anything that belongs to the class of the Same or to that of the
+  Other, then they declare its relative sameness or difference quite
+  contrariwise to the truth, and show themselves false and irra-
+  tional ; and no circuit is governor or leader in them at that
+  time. And whenever sensations from without rushing up and fall-
+  ing upon them drag along with them the whole vessel of the soul,
+  then the circuits seem to govern though they really are governed.
+  On account then of all these experiences the soul is at first
+  bereft of reason, now as in the beginning, when she is confined in
+  a mortal body. But when the stream of growth and nutriment
+  flows in with smaller volume, and the revolutions calming down
+  go their own way and become settled as time passes on, then
+  the orbits are reduced to the form that belongs to the several
+  circles in their natural motion, and declaring accurately the
+  Other and the Same, they set their possessor in the way to
+  become rational. And if any just discipline of education help
+  this process, he becomes whole altogether without a blemish,
+  having made his escape from the most grievous of plagues ; but
+  if he neglect it, he passes the days of his life halt and maimed,
+  and unhallowed and unreasonable he comes again to Hades.
+  These things however belong to a later time : we must discuss
+  more exactly the subject immediately before us. And as to
+  the matters which are previous to this, concerning the genera-
+  tion of the body in all its parts and concerning soul, and the
+  reasons and designs of the gods whereby they have come into
+  being, we must cling to the most probable theory, and by pro-
+  ceeding in this way so give an account of all.
+
+  XVI. Imitating the shape of the universe, which was sphe-
+  rical, they confined the two divine revolutions in a globe-shaped
+  body, the same that we now call the head, which is the divinest
+  part of us and has dominion over all our members. To this the
+  gods gave the whole body, when they had put it together, to
+  minister to it, reflecting that it possessed all the motions that
+  should be. In order then that it might not have to roll upon
+  the earth, which has hills and hollows of all kinds, nor be at
+  a loss to surmount the one and climb out of the other, they gave
+  it the body for a conveyance and for ease of going : whence the
+  body was endowed with length and grew four limbs that could
+  be stretched and bent, which the god devised for it to go withal,
+  and by means of which clinging and supporting itself it is
+  enabled to pass through every place, bearing at the top of us
+  the habitation of the most divine and sacred element. In this
+  way then and for these reasons were legs and hands added to
+  all mankind ; and the gods, deeming that the front was more
+  honourable than the back and more fit to lead, made us to move
+  for the most part in this direction. So it behoved man to have
+  the front part distinguished and unlike the back. Therefore
+  having set the face upon the globe of the head on that side, they
+  attached to it organs for all the forethought of the soul, and
+  they ordained that this which had the faculty of guidance should
+  be by nature the front. And first of the organs they wrought light-
+  giving eyes, which they fixed there on the plan I shall explain.
+  Such sort of fire as had the property of yielding a gentle light
+  but not of burning, they contrived to form into a substance akin
+  to the light of every day. The fire within us, which is akin to
+  the daylight, they made to flow pure smooth and dense through
+  the eyes, having made close the whole fabric of the eyes and
+  especially the pupils, so that they kept back all that was coarser
+  and suffered only this to filter through unmixed and pure.
+  Whenever then there is daylight surrounding the current of
+  vision, then this issues forth as like into like, and coalescing with
+  the light is formed into one uniform substance in the direct line
+  of vision, wherever the stream issuing from within strikes upon
+  some external object that falls in its way. So the whole from
+  its uniformity becomes sympathetic ; and whenever it comes in
+  contact with anything else, or anything with it, it passes on the
+  motions thereof over the whole body until they reach the soul,
+  and thus causes that sensation which we call seeing. But when
+  its kindred fire departs into night, the visual current is cut off:
+  for issuing into an alien element it is itself changed and quenched,
+  having no longer a common nature with the surrounding air,
+  which has in it no fire. Therefore it ceases from seeing and
+  moreover becomes an allurement to sleep. For the gods had
+  devised as a safeguard of the sight the structure of the eyelids ;
+  and when these are closed, they shut up the force of fire within ;
+  and this smoothes and calms the motions within ; and when
+  these are calmed, quiet ensues. And if the quiet is profound,
+  sleep with few dreams falls on us ; but if some of the stronger
+  motions are left, according to their nature and the places where
+  they remain, they engender visions corresponding in kind and in
+  number; which are images within us, and when we awake are
+  remembered as outside us. Now the explanation of reflections
+  in mirrors and all bright smooth surfaces is no longer hard to
+  discern. For because of the communion of the internal and
+  external fire, which again is united on the smooth surface and in
+  manifold ways deflected, all these reflections take place ; the fire
+  that belongs to the face coalescing with the fire of the visual
+  current upon the surface of the smooth bright object. And left
+  appears right and right left, because mutually opposite particles
+  of the visual current and of the object seen come into contact,
+  contrary to the wonted mode of collision. On the other hand right
+  appears as right and left as left, when in the act of combination
+  with that wherewith it combines the ray changes sides. This
+  happens when the smooth surface of the mirror is curved up-
+  wards on each side and so throws the right portion of the visual
+  current to the left side and the ccfoiverse. But if it is turned
+  lengthwise to the face, it makes this same reflection appear
+  completely upside down, thrusting the lower portion of the ray
+  to the upper end and the upper to the lower.
+
+  All these things are among the secondary causes which God
+  uses to serve him in carrying out the idea of the best so far
+  as is possible. But the multitude regard them not as secondary
+  but as primary causes, which act by cooling and heating, con-
+  densing and rarefying, and all such processes. Yet they are
+  incapable of all reason or thought for any purpose. For the
+  only existing thing to which belongs the possession of reason
+  we must affirm to be soul : and this is invisible, whereas fire
+  and water and air and earth are all visible creations. Now
+  the lover of reason and knowledge must first seek for the
+  causes which belong to the rational order ; and only in the
+  second place those which belong to the class of things which
+  are moved by others and move others in turn. This then is
+  what we must also do : we must declare both classes of causes,
+  distinguishing between those which with the aid of reason are
+  the creators of fair things and good, and those which being
+  destitute of reason produce from time to time chance effects
+  without design. Enough then of the auxiliary causes which
+  combine in giving the eyes the power they now possess ; but
+  the great result, for the sake of which God bestowed them on
+  us, must be our next theme. Sight, according to my judgment,
+  has been the cause of the greatest blessing to us, inasmuch
+  as of our present discourse concerning the universe not one
+  word would have been uttered had we never seen the stars and
+  the sun and the heavens. But now day and night, being seen
+  of us, and months and the revolution of the years have created
+  number, and they gave us the notion of time and the power of
+  searching into the nature of the All ; whence we have derived
+  philosophy, than which no greater good has come neither shall
+  come hereafter as the gift of heaven to mortal man. This I
+  declare to be the chiefest blessing due to the eyes : on the rest
+  that are meaner why should we descant ? let him who loves not
+  wisdom, if he be blinded of these, lament with idle moan. But
+  on our part let this be affirmed to be the cause of vision, for
+  these ends : God discovered and bestowed sight upon us in
+  order that we might observe the orbits of reason which are
+  in heaven and make use of them for the revolutions of thought
+  in our own souls, which are akin to them, the troubled to the
+  serene; and that learning them and acquiring natural truth
+  of reasoning we might imitate the divine movements that are
+  ever unerring and bring into order those within us which are
+  all astray. And of sound and hearing again the same account
+  must be given : to the same ends and with the same intent
+  they have been bestowed on us by the gods. For not only
+  has speech been appointed for this same purpose, whereto it
+  contributes the largest share, but all such music as is expressed
+  in sound has been granted, for the sake of harmony : and
+  harmony, having her motions akin to the revolutions in our
+  own souls, has been bestowed by the Muses on him who with
+  reason seeks their help, not for any senseless pleasure, such
+  as is now supposed to be its chiefest use, but as an ally against
+  the discord which has grown up in the revolution of our soul,
+  to bring her into order and into unison with herself: and
+  rhythm too, because our habit of mind is mostly so faulty
+  of measure and lacking in grace, is a succour bestowed on us
+  by the same givers for the same ends.
+
+  XVII. Now in our foregoing discourse, with few exceptions,
+  we have been declaring the creations wrought through mind :
+  we must now set by their side those things which come into
+  being through necessity. For the generation of this universe
+  was a mixed creation by a combination of necessity and reason.
+  And whereas reason governed necessity, by persuading her
+  to guide the greatest part of created things to the best end,
+  on such conditions and principles, through necessity overcome
+  by reasonable persuasion, this universe was fashioned in the
+  beginning. If then we would really declare its creation in
+  the manner whereby it has come to be, we must add also the
+  nature of the Errant Cause, and its moving power. Thus then
+  let us return upon our steps, and when we have found a second
+  fitting cause for the things aforesaid, let us once more, pro-
+  ceeding in the present case as we did in the former, begin over
+  again from the beginning. Now we must examine what came
+  before the creation of the heavens, the very origin of fire and
+  water and air and earth, and the conditions that were before
+  them. For now no one has declared the manner of their
+  generation ; but we speak as if men knew what is fire and
+  each of the others, and we treat them as beginnings, as elements
+  of the whole ; whereas by one who has ever so little intelligence
+  they could not plausibly be represented as belonging even to
+  the class of syllables. Now however let our say thus be said.
+  The first principle or principles or whatever we may hold it
+  to be which underlies all things we must not declare at present,
+  for no other reason but that it is difficult according to the
+  present method of our exposition to make clear our opinion.
+  You must not then deem that I ought to discourse of this,
+  nor could I persuade myself that I should be right in essaying
+  so mighty a task. But holding fast the principle we laid down
+  at the outset, the value of a probable account, I will strive to
+  give an explanation that is no less probable than another, but
+  more so ; returning back to describe from the beginning each
+  and all things. So now again at the outset of our quest let
+  us call upon God to pilot us safe through a strange and un-
+  familiar discourse to the haven of probability ; and thus let
+  us begin once more.
+
+  XVIII. Our new exposition of the universe then must be
+  founded on a fuller classification than the former. Then we
+  distinguished two forms, but now a third kind must be disclosed.
+  The two were indeed enough for our former discussion, when
+  we laid down one form as the pattern, intelligible and change-
+  less, the second as a copy of the pattern, which comes into
+  being and is visible. A third we did not then distinguish,
+  deeming that the two would suffice : but now, it seems, by
+  constraint of our discourse we must try to express and make
+  manifest a form obscure and dim. What power then must we
+  conceive that nature has given it ? something like this. It is
+  the receptacle, and as it were the nurse, of all becoming. This
+  saying is true, but we must put it in clearer language : and this
+  is hard ; especially as for the sake of it we must needs inquire
+  into fire and the substances that rank with fire. For it is hard
+  to say which of all these we ought to call water any more than
+  fire, or indeed which we ought to call by any given name,
+  rather than all and each severally, in such a way as to employ
+  any truthful and trustworthy mode of speech. How then are we
+  to deal with this point, and what is the question that we should
+  properly raise concerning it ? In the first place, what we now have
+  named water, by condensation, as we suppose, we see turning
+  to stones and earth ; and by rarefying and expanding this same
+  element becomes wind and air ; and air when inflamed becomes
+  fire : and conversely fire contracted and quenched returns again
+  to the form of air; also air concentrating and condensing
+  becomes cloud and mist ; and from these yet further com-
+  pressed comes flowing water ; and from water earth and stones
+  once more : and so, it appears, they hand on one to another
+  the cycle of generation. Thus then since these several bodies
+  never assume one constant form, which of them can we posi-
+  tively affirm to be really this and not another without being
+  shamed in our own eyes ? It cannot be : it is far the safest
+  course when we make a statement concerning them to speak
+  as follows. What we see in process of perpetual transmutation,
+  as for instance fire, we must not call this, but such-tike is the
+  appellation we must confer on fire ; nor must we call water
+  this, but always such; nor must we apply to anything, as if
+  it had any stability, such predicates as we express by the
+  use of the terms this and that and suppose that we signify
+  something thereby. For it flees and will not abide such
+  terms as this and that and relative to this, and every phrase
+  which represents it as stable. The word this we must not
+  use of any of them; but such, applying in the same sense to
+  all their mutations, we must predicate of each and all : fire we
+  must call that which universally has that appearance ; and so
+  must we name all things such as come into being. That
+  wherein they come to be severally and show themselves, and
+  from whence again they perish, in naming that alone must
+  we use the words that and this; but whatever has any quality,
+  such as white or hot or any of two opposite attributes, and all
+  combinations of these, we must denote by no such term.
+
+  But we must try to speak yet more clearly on this matter.
+  Suppose a man having moulded all kinds of figures out of
+  gold should unceasingly remould them, interchanging them
+  all with one another, it were much the safest thing in view
+  of truth to say that it is gold ; but as to the triangles or any
+  other shapes that were impressed on it, never to speak of
+  them as existing, seeing that they change even as we are in
+  the act of defining them ; but if it will admit the term such with
+  any tolerable security, we must be content. The same lan-
+  guage must be applied to the nature which receives into it
+  all material things : we must call it always the same ; for it
+  never departs from its own function at all. It ever receives
+  all things into it and has nowhere any form in any wise like
+  to aught of the shapes that enter into it. For it is as the
+  substance wherein all things are naturally moulded, being
+  stirred and informed by the entering shapes ; and owing to
+  them it appears different from time to time. But the shapes
+  which pass in and out are likenesses of the eternal existences,
+  being copied from them in a fashion wondrous and hard to
+  declare, which we will follow up later on. For the present how-
+  ever we must conceive three kinds : first that which comes
+  to be, secondly that wherein it comes to be, third that from
+  which the becoming is copied when it is created. And we
+  may liken the recipient to a mother, the model to a father,
+  and that which is between them to a child ; and we must
+  remember that if a moulded copy is to present to view
+  all varieties of form, the matter in which it is moulded cannot
+  be rightly prepared unless it be entirely bereft of all those
+  forms which it is about to receive from without. For were
+  it like any one of the entering shapes, whenever that of an op-
+  posite or entirely different nature came upon it, it would in
+  receiving it give the impression badly, intruding its own form.
+  Wherefore that which shall receive all forms within itself must
+  be utterly without share in any of the forms ; just as in the
+  making of sweet unguents, men purposely contrive, as the
+  beginning of the work, to make the fluids that are to receive
+  the perfumes perfectly scentless : and those who set about
+  moulding figures in any soft substance do not suffer any shape
+  to show itself therein at the beginning, but they first knead it
+  smooth and make it as uniform as they can. In the same way
+  it behoves that which is fitly to receive many times over its
+  whole extent likenesses of all things, that is of all eternal ex-
+  istences, to be itself naturally without part or lot in any of the
+  forms. Therefore the mother and recipient of creation which is
+  visible and by any sense perceptible we must call neither earth
+  nor air nor fire nor water, nor the combinations of these nor the
+  elements of which they are formed : but we shall not err in
+  affirming it to be a viewless nature and formless, all-receiving,
+  in some manner most bewildering and hard to comprehend par-
+  taking of the intelligible. But so far as from what has been said
+  we may arrive at its nature, this would be the most just account
+  of it. That part of it which is enkindled from time to time
+  appears as fire, and that which is made liquid as water, and as
+  earth and air such part of it as receives the likenesses of these.
+
+  But in our inquiry concerning these we must deliver a
+  stricter statement. Is there an absolute idea of fire, and do all
+  those absolute ideas exist to which in every case we always
+  ascribe absolute being ? Or do those things which we actually
+  see or perceive with any other bodily sense alone possess such
+  reality ? and is it true that there are no manner of real existences
+  beyond these at all, but we talk idly when we speak of an in-
+  telligible idea as actually existent, whereas it was nothing but a
+  conception ? Now it does not become us either to dismiss the
+  present question unjudged and undecided, simply asserting that
+  the ideas exist, nor yet must we add to our already long dis-
+  course another as long which is subordinate. But if we could
+  see our way to a great definition couched in brief words, that
+  would be most seasonable for our present purpose. Thus then
+  do I give my own verdict : if reason and true opinion are of two
+  different kinds, then the ideas do surely exist, forms not per-
+  ceptible by our senses, the objects of thought alone ; but if, as
+  some hold, true opinion differs nothing from reason, then all
+  that we apprehend by our bodily organs we must affirm to be
+  the most real existence. Now we must declare them to be two,
+  because they are different in origin and unlike in nature. The
+  one is engendered in us by instruction, the other by persuasion ;
+  the one is ever accompanied by right understanding, the other is
+  without understanding; the one is not to be moved by per-
+  suasion, the other yields to persuasion ; true opinion we must
+  admit is shared by all men, but reason by the gods alone and a
+  very small portion of mankind. This being so, we must agree
+  that there is first the unchanging idea, unbegotten and imperish-
+  able, neither receiving aught into itself from without nor itself
+  entering into aught else, invisible, nor in any wise perceptible
+  even that whereof the contemplation belongs to thought. Second
+  is that which is named after it and is like to it, sensible, created,
+  ever in motion, coming to be in a certain place and again from
+  thence perishing, apprehensible by opinion with sensation. And
+  the third kind is space everlasting, admitting not destruction, but
+  affording place for all things that come into being, itself appre-
+  hensible without sensation by a sort of bastard reasoning, hardly
+  matter of belief. It is with this in view that dreaming we say
+  that all which exists must be in some place and rilling some
+  space, and that what is neither on earth nor in heaven anywhere
+  is nought. All these and many kindred fancies have we even
+  concerning that unsleeping essence and truly existing, for that
+  by reason of this dreaming state we become impotent to arouse
+  ourselves and affirm the truth ; namely, that to an image it
+  belongs, seeing that it is not the very model of itself, on which
+  itself has been created, but is ever the fleeting semblance of
+  another, in another to come into being, clinging to existence as
+  best it may, on pain of being nothing at all ; but to the really
+  existent essence reason in all exactness true comes as an ally,
+  declaring that so long as one thing is one and another thing
+  is other, neither of them shall come to be in the other, so that
+  the same becomes at once one and two.
+
+  XIX. Such then is the statement for which I give my
+  sentence, as we have briefly reasoned it out: that there are
+  Being and Space and Becoming, three in number with threefold
+  nature, even before the heavens were created. And the nurse
+  of becoming, being made liquid and fiery and putting on the
+  forms of earth and air, and undergoing all the conditions that
+  attend thereupon, displays to view all manner of semblances ;
+  and because she is filled with powers that are not similar nor
+  equivalent, she is at no part of her in even balance, but being
+  swayed in all directions unevenly, she is herself shaken by the
+  entering forms, and by her motion shakes them again in turn :
+  and they, being thus stirred, are carried in different directions
+  and separated, just as by sieves and instruments for winnowing
+  corn the grain is shaken and sifted, and the dense and heavy
+  parts go one way, and the rare and light are carried to a different
+  place and settle there. Even so when the four kinds are shaken
+  by the recipient, which by the motion she has received acts as
+  an instrument for shaking, she separates the most dissimilar
+  elements furthest apart from one another, and the most similar
+  she draws chiefly together ; for which cause these elements had
+  different regions even before the universe was ordered out of
+  them and created. Before that came to pass all these things
+  were without method or measure ; but when an essay was being
+  made to order the universe, first fire and water and earth and air,
+  which had certain vestiges of their own nature, yet were alto-
+  gether in such a condition as we should expect for everything
+  when God is not in it, being by nature in the state we have said,
+  were then first by the creator fashioned forth with forms and
+  numbers. And that God formed them to be most fair and perfect,
+  not having been so heretofore, must above all things be the
+  foundation whereon our account is for ever based. But now the
+  disposition of each and their generation is what I must strive to
+  make known to you in speech unwonted : but seeing ye are no
+  strangers to the paths of learning, through which my sayings
+  must be revealed to you, ye will follow me.
+
+  XX. In the first place, that fire and earth and water and air
+  are material bodies is evident to all. Every form of body has
+  depth: and depth must be bounded by plane surfaces. Now
+  every rectilinear plane is composed of triangles. And all
+  triangles are derived from two triangles, each having one right
+  angle and the others acute: and one triangle has on each side a
+  moiety of a right angle marked off by equal sides, the other
+  has it divided into unequal parts by unequal sides. These
+  we conceive to be the basis of fire and the other bodies, follow-
+  ing up the probable account which is concerned with necessity:
+  but the principles yet more remote than these are known but to
+  God and to whatsoever man is a friend of God. Now we must
+  declare what are the four fairest bodies that could be created,
+  unlike one another, but capable, some of them, of being gene-
+  rated out of each other by their dissolution : for if we succeed in
+  this, we have come at the truth concerning earth and fire
+  and the intermediate proportionals. For we will concede to
+  no one that there exist any visible bodies fairer than these, each
+  after its own kind. We must do our diligence then to put
+  together these four kinds of bodies most excellent in beauty,
+  and so we shall say that we have a full comprehension of their
+  nature.
+
+  Now of the two triangles the isosceles has but one kind,
+  but the scalene an endless number. Out of this infinite multi-
+  tude then we must choose the fairest, if we are to begin upon
+  our own principles. If then any man can tell of a fairer kind
+  that he has selected for the composition of these bodies, it
+  is no enemy but a friend who vanquishes us : however of
+  all these triangles we declare one to be the fairest, passing
+  over the rest; that namely of which two conjoined form an
+  equilateral triangle. The reason it were too long to tell : but if
+  any man convict us in this and find that it is not so, the
+  palm is ready for him with our right good will. Let then
+  two triangles be chosen whereof the substance of fire and of the
+  other elements has been wrought ; the one isosceles, the other
+  always having the square on the greater side three times
+  the square on the lesser. And now we must more strictly define
+  something which we expressed not quite clearly enough before.
+  For it appeared as though all the four classes had generation
+  through each other and into each other, but this appearance was
+  delusive. For out of the triangles we have chosen arise four
+  kinds, three from one of them, that which has unequal sides,
+  and the fourth one alone composed of the isosceles triangle. It
+  is not then possible for all of them by dissolution to pass
+  one into another, a few large bodies being formed of many
+  small, and the converse: but for three of them it is possible.
+
+  For since they all arise from one basis, when the larger bodies
+  are broken up, a number of small ones will be formed from
+  the same elements, putting on the shapes proper to them;
+  and again when a number of small bodies are resolved into
+  their triangles, they will become one in number and constitute a
+  single large body of a different form. So much for their gene-
+  ration into one another : the next thing will be to say what
+  is the form in which each has been created, and by the com-
+  bination of what numbers. We will begin with the form which
+  is simplest and smallest in its construction. Its element is the
+  triangle which has the hypotenuse double of the shorter side
+  in length. If a pair of these are put together so that their
+  hypotenuses coincide, and this is done three times, in such
+  a way that the hypotenuses and the shorter sides meet in
+  one point as a centre, thus one equilateral triangle has been
+  formed out of the other six triangles: and if four equilateral
+  triangles are combined, so that three plane angles meet in
+  a point, they make at each point one solid angle, that which
+  comes immediately next to the most obtuse of plane angles;
+  and when four such angles are produced there is formed the first
+  solid figure, dividing its whole surface into four equal and similar
+  parts. The second is formed of the same triangles in sets of
+  eight equilateral triangles, bounding every single solid angle by
+  four planes ; and with the formation of six such solid angles the
+  second figure is also complete. The third is composed of 120
+  of the elementary triangles united, and of twelve solid angles,
+  each contained by five plane equilateral triangles ; and it has
+  twenty equilateral surfaces. And the first element, when it had
+  generated these figures, had done its part : the isosceles triangle
+  generated the fourth, combined in sets of four, with the right
+  angles meeting at the centre, thus forming a single square. Six
+  of these squares joined together formed eight solid angles, each
+  produced by three plane right angles : and the shape of the
+  body thus formed was cubical, having six square planes for its
+  surfaces. And whereas a fifth figure yet alone remained, God
+  used it for the universe in embellishing it with signs.
+
+  XXI. Now if any man, reflecting upon all these things,
+  should fairly ask himself whether the number of cosmic systems
+  is indefinite or definite, he would deem that to believe them in-
+  definite was the opinion of one who thought very indefinitely on
+  a matter where he ought to be most definitely informed : but
+  whether we ought to say that there is but one, or that there are
+  really in nature five, he might, if he stopped short there, with
+  more justice feel doubtful. Our verdict declares that according
+  to the probable theory it is by nature one ; another however,
+  looking to some other guide, may have a different view. But
+  no more of him ; let us assign the figures that have come into
+  being in our theory to fire and earth and water and air. To
+  earth let us give the cubical form ; for earth is least mobile
+  of the four and most plastic of bodies : and that substance must
+  possess this nature in the highest degree which has its bases
+  most stable. Now of the triangles which we assumed as our
+  starting-point that with equal sides is more stable than that
+  with unequal ; and of the surfaces composed of the two triangles
+  the equilateral quadrangle necessarily is more stable than the
+  equilateral triangle, both in its parts and as a whole. There-
+  fore in assigning this to earth we preserve the probability of our
+  account ; and also in giving to water the least mobile and to fire
+  the most mobile of those which remain ; while to air we give
+  that which is intermediate. Again we shall assign the smallest
+  figure to fire, and the largest to water and the intermediate to
+  air: and the keenest to fire, the next to air, and the third to
+  water. Now among all these that which has the fewest bases
+  must naturally in all respects be the most cutting and keen of
+  all, and also the most nimble, seeing it is composed of the small-
+  est number of similar parts; and the second must have these
+  same qualities in the second degree, and the third in the third
+  degree. Let it be determined then, according to the right ac-
+  count and the probable, that the solid body which has taken
+  the form of the pyramid is the element and seed of fire ; and
+  the second in order of generation let us say to be that of air, and
+  the third that of water. Now all these bodies we must conceive
+  as being so small that each single body in the several kinds
+  cannot for its smallness be seen by us at all ; but when many
+  are heaped together, their united mass is seen : and we must
+  suppose that the due proportion in respect of their multitude
+  and motions and all their other powers, when God had com-
+  pleted them with all perfection, in so far as the nature of neces-
+  sity, consenting and yielding to persuasion, suffered, were every-
+  where by him ordained in fitting measure.
+
+  XXII. From all that we have already said in the matter of
+  these four kinds, the facts would seem to be as follows. When
+  earth meets with fire and is dissolved by the keenness of it, it
+  would drift about, whether it were dissolved in fire itself, or in
+  some mass of air or water, until the parts of it meeting and again
+  being united became earth once more ; for it never could pass
+  into any other kind. But when water is divided by fire or by
+  air, it may be formed again and become one particle of fire and
+  two of air : and the divisions of air may become for every particle
+  broken up two particles of fire. And again when fire is caught
+  in air or in waters or in earth, a little in a great bulk, moving
+  amid a rushing body, and contending with it is vanquished and
+  broken up, two particles of fire combine into one figure of
+  air: and when air is vanquished and broken small, from two
+  whole and one half particle one whole figure of water will be
+  composed. Let us also reckon it once again thus : when any
+  of the other kinds is intercepted in fire and is divided by it
+  through the sharpness of its angles and its sides, if it forms into
+  the shape of fire, it at once ceases from being divided : for a
+  kind which is uniform and identical, of whatever sort it be, can
+  neither be the cause of any change nor can it suffer any from
+  that which is identical and uniform with itself; but so long as
+  passing into another kind a lesser bulk contends with the
+  greater, it ceases never from being broken. And when the
+  smaller figures few in number are caught in a multitude of
+  larger figures and are being broken in pieces and quenched, if
+  they consent to combine into the form of the stronger they
+  then and there cease from being quenched ; and from fire arises
+  air, from air water. But if they assail the others, and another
+  sort meet and contend with them, they cease not from being
+  shattered until, being entirely repelled and dissolved, they find
+  refuge with some of their own kind, or being overcome, form
+  from many of their own figures one similar to the victorious
+  element, and there remain and abide with it. Moreover on
+  account of these conditions they all are changing their places ;
+  for the bulk of every kind are sorted into separate regions of
+  their own through the motion of the recipient : and those which
+  are altered from their own nature and made like some other
+  are carried by reason of this movement to the region proper to
+  the element to which they are assimilated.
+
+  All unmixed and primary bodies have thus come into being
+  through the causes we have described : but for the fact that
+  within the several classes different kinds exist we must assign as
+  its cause the structure of the elementary triangles ; it does not
+  originally produce in each kind of triangle one and the same
+  size only, but some greater and some less ; and there are just so
+  many sizes as there are kinds in the classes : and when these
+  are mixed up with themselves or with one another, an endless
+  diversity arises, which must be examined by those who would
+  put forward a probable theory concerning nature.
+
+  XXIII. Now concerning rest and motion, how they arise
+  and under what conditions, we must come to an agreement, else
+  many difficulties will stand in the way of our argument that is
+  to follow. This has been already in part set forth, but we have
+  yet to add that in uniformity no movement will ever exist. For
+  that what is to be moved should exist without that which is to
+  move it, or what is to move without that which is to be moved,
+  is difficult or rather impossible : but without these there can be
+  no motion, and for these to be uniform is not possible. So
+  then let us always assign rest to uniformity and motion to its
+  opposite. Now the opposite of uniformity is caused by in-
+  equality ; and of inequality we have discussed the origin. But
+  how it comes to pass that all bodies are not sorted off into
+  their several kinds and cease from passing through one another
+  and changing their place, this we have not explained. Let us
+  put it again in this way. The revolution of the whole, when it
+  had embraced the four kinds, being circular, with a natural
+  tendency to return upon itself, compresses everything and suffers
+  no vacant space to be left. Therefore fire penetrates most of
+  all through all things, and in the second degree air, since it is
+  second in fineness, and the rest in proportion. For the sub-
+  stances which are formed of the largest parts have the most
+  void left in their structure, and those made of the smallest have
+  the least. Now the constriction of this contracting force thrusts
+  the small particles into the interspaces between the larger : so
+  that when small are set side by side with great, and the lesser
+  particles divide the greater, while the greater compress the
+  smaller, all things keep rushing backwards and forwards to their
+  own region; since in changing its bulk each changes its proper
+  position in space. Thus owing to these causes a perpetual dis-
+  turbance of uniformity is always kept up and so preserves the
+  perpetual motion of matter now and henceforth without cessation.
+  XXIV. Next we must remember that of fire there are many
+  kinds: for instance flame and that effluence from flame, which
+  burns not but gives light to the eyes, and that which remains in
+  the embers when the flame is out And so with air : the purest
+  is that which is called by the name of aether, and the most
+  turbid is mist and gloom ; and there are other kinds which have
+  no name, arising from the inequality of the triangles. Of water
+  there are two primary divisions, the liquid and the fusible kind.
+  The liquid sort owes its nature to possessing the smaller kinds
+  of watery atoms, unequal in size ; and so it can readily either
+  move of itself or be moved by something else, owing to its lack
+  of uniformity and the peculiar shape of its atoms. But that
+  which consists of larger and uniform particles is more stable
+  than the former and heavy, being stiffened by its uniformity:
+  but when fire enters into it and breaks it up, it loses its uni-
+  formity and gains more power of motion : and as soon as it has
+  become mobile, it is thrust by the surrounding air and spread
+  out upon the earth: and it has received names descriptive of
+  either process, melting of the dissolution of the mass, flowing
+  of the extension on the ground. But when the fire goes forth
+  from it again, seeing that it does not issue into empty space, the
+  neighbouring air receives a thrust, and while the liquid mass is
+  still mobile, it forces it to fill up the vacant places of the fire and
+  unites it with itself. And being thus compressed and recovering
+  its uniformity, seeing that fire the creator of inequality is
+  quitting it, it settles into its normal state. And the departure of
+  fire we call cooling, and the contraction that ensues on its with-
+  drawal we class as solidification. Of all the substances which
+  we have ranked as fusible kinds of water, that which is densest
+  and formed of the finest and most uniform particles, a unique
+  kind, combining brightness with a yellow hue, is gold, a most
+  precious treasure, which has filtered through rocks and there
+  congealed : and the ' offspring of gold ', which is extremely hard
+  owing to its density and has turned black, is called adamant.
+  Another has particles resembling those of gold, but more than
+  one kind; in density it even surpasses gold and has a small
+  admixture of fine earth, so that it is harder, but lighter, because
+  it has large interstices within ; this formation is one of the
+  shining and solid kinds of water and is called bronze. The
+  earth which is mingled with it, when the two through age begin
+  to separate again, becomes visible by itself and is named rust.
+  And it were no intricate task to explain all the other substances
+  of this kind, following the outline of our probable account.
+  For if we pursue this as a recreation, and while laying down the
+  principles of eternal being find in plausible theories of becoming
+  a pleasure that brings no remorse in its train, we may draw from
+  it a sober and sensible amusement during our life. Now there-
+  fore setting out in this way let us go on to discuss the proba-
+  bilities that lie next on the same subject.
+
+  Water mingled with fire, such as is rare and liquid (owing to
+  its mobility and its way of rolling along the ground, which gets
+  it the name of liquid), and is also soft, because its bases give way,
+  being less stable than those of earth, when relinquished by fire
+  and deserted of air, becomes more uniform and is compressed
+  by the outgoing elements ; thus it is congealed, and when above
+  the earth this process takes place in an extreme degree, the result
+  is hail ; if upon the earth, it is ice : but when the process has not
+  gone so far but leaves it half-congealed, above the earth it is snow,
+  and when congealed from dew upon the earth, it is called hoar-
+  frost. Most forms of water, which are intermingled with one
+  another, filtered through the plants of the earth, are called by the
+  class-name of saps ; but owing to their intermixture they are all of
+  diverse natures and the great multitude of them are accordingly
+  unnamed : four kinds however which are of a fiery nature, being
+  more conspicuous, have obtained names : one that heats the soul
+  and body together, namely wine ; next a kind which is smooth
+  and divides the visual current and therefore appears bright and
+  shining to view and glistening, I mean the class of oils, resin
+  and castor oil and olive oil itself and all others that have the
+  same properties ; thirdly that which expands the contracted
+  pores of the mouth to their natural condition, and by this
+  property produces sweetness to the taste, of this honey is the
+  most general appellation ; lastly that which corrodes the flesh
+  by burning, a sort of frothy substance, distinct from all the other
+  saps, which has been named verjuice.
+
+  XXV. Of the different kinds of earth, that which is strained
+  through water becomes a stony mass in the following way.
+  When the commingled water is broken up in the mixing, it
+  changes into the form of air ; and having become air it darts up
+  to its own region. Now there was no void surrounding it ; ac-
+  cordingly it gives a thrust to the neighbouring air. And the air,
+  being weighty, when it is thrust and poured around the mass of
+  earth, presses it hard and squeezes it into the spaces which the
+  new-made air quitted. Thus earth, when compressed by air
+  into a mass that will not dissolve in water, forms stone ; of
+  which the transparent sort made of equal and uniform particles
+  is fairer, while that of the opposite kind is less fair. But that
+  which is suddenly deprived of all its moisture by the rapid
+  action of fire and is become more brittle than the first forms
+  the class to which we have given the name of earthenware.
+  Again when some moisture is left behind, earth, after having
+  been fused by fire and again cooled, becomes a certain stone
+  of a black colour. There are also two sorts which in the
+  same manner after the admixture are robbed of a great part
+  of the water, being formed of the finer particles of earth with
+  a saline taste, and becoming only half solid and soluble
+  again by water; of these what purifies from oil and earth is
+  alkali ; while that which easily blends with all the combinations
+  of tastes on the palate is, in the words of the ordinance, the god-
+  beloved substance of salt. The bodies which are composed of
+  earth and water combined cannot be dissolved by water, but
+  by fire alone for the following reason. A mass of earth is
+  resolved neither by fire nor by air, because their atoms are
+  smaller than the interstices in its structure, so that they have
+  abundant room to move in and do not force their way, wherefore
+  instead of breaking it up they leave it undissolved : but whereas
+  the parts of water are larger, they make their passage by force
+  and dissolve the mass by breaking it up. Earth then, when it
+  is not forcibly solidified, is thus dissolved by water only; but
+  when it is solidified, only by fire, for no entrance is left except
+  to fire. And of water the most forcible congelation is melted by
+  fire alone, but the more feeble both fire and air break up ; the
+  latter by the interstices, the former by the triangles as well. Air,
+  when forcibly condensed, can only be resolved into the ele-
+  mentary triangles, and when uncondensed fire alone dissolves
+  it. In the case of a substance formed of water and earth com-
+  bined, so long as water occupies the spaces in it that are
+  forcibly compressed, the particles of water arriving from without
+  find no entrance but simply flow round and leave the whole
+  bulk undissolved; but those of fire enter into the interstices of the
+  water, and acting upon it as water does upon earth, can alone
+  cause the combined mass to melt and become liquid. In this
+  class those which have less water than earth are all kinds of glass
+  and all stones that are called fusible; and those which contain
+  more water include all formations like wax and frankincense.
+
+  XXVI. Now all the manifold forms that arise from diverse
+  shapes and combinations and changes from one to another have
+  been pretty fully set forth; next we must try to explain their
+  affections and the causes that lead to them. First we must
+  assign to all the substances we have described the property of
+  causing sensation. But the origin of flesh and all that belongs
+  to it and of the mortal part of soul we have not yet discussed.
+
+  Now this cannot be adequately dealt with apart from the
+  affections of sense, nor yet can the latter without the former ;
+  yet to treat them both at once is hardly possible. We must
+  assume one side then, and afterwards we will return to examine
+  what we assumed. In order then that the properties of the
+  several elements may be discussed in due order, let us first as-
+  sume the nature of body and soul. First then let us see what
+  we mean by calling fire hot ; which we must consider in the
+  following way, remembering the power of dividing and cutting
+  which fire exercises upon our body. That the sensation is a
+  sharp one we are all well enough aware : and the fineness of
+  the edges and sharpness of the angles, besides the smallness
+  of its particles and the swiftness of its motion, all of which
+  qualities combine to render it so vehement and piercing as
+  keenly to cut whatever meets it all this we must take into
+  account, remembering the nature of its figure, that this more
+  than any other kind penetrates our body and minutely divides
+  it, whence the sensation that we now call heat justly derives
+  its quality and its name. The opposite condition, though
+  obvious enough, still must not lack an explanation. When
+  the larger particles of moisture which surround the body enter
+  into it, they displace the smaller, and because they are not
+  able to pass into their places, they compress the moisture within
+  us ; and whereas it was irregular and mobile, they render it
+  immovable owing to uniformity and contraction, and so it
+  becomes rigid. And what is against nature contracted in
+  obedience to nature struggles and thrusts itself apart ; and to
+  this struggling and quaking has been given the name of
+  trembling and shivering : and both the effect and the cause
+  of it are in all cases termed ' cold '.
+
+  ' Hard ' is the name given to all things to which our flesh
+  yields ; and ' soft ' to those which yield to the flesh ; and so also
+  they are termed in their relation to each other. Those which
+  yield are such as have a small base of support; and the figure
+  with square surfaces, as it is most firmly based, is the most
+  stubborn form ; so too is whatever from the intensity of its com-
+  pression offers the strongest resistance.
+
+  Of 'heavy' and 'light' we shall find the clearest explanation
+  if we examine them together with the so-called 'below' and
+  ' above'. That there are naturally two opposite regions, dividing
+  the universe between them, one the lower, to which sink all
+  things that have material bulk, the other upper, to which every-
+  thing rises against its will, is altogether a false opinion. For
+  since the form of the universe is spherical, all the extreme points,
+  being equally distant from the centre, are by their very nature
+  equally extreme ; and the centre, being equally distant from
+  all the extremes, ought to be regarded as opposite to all such
+  points. This being the nature of the universe, how can one
+  describe any of the said points as upper or lower, without justly
+  being censured for using irrelevant terms ? For the centre
+  cannot properly be described as being above or below, but
+  simply at the centre ; while the circumference is neither itself
+  central nor has any difference between the points on its sur-
+  face, so that one has a different relation to the centre from
+  an opposite point. Since then it is everywhere uniform, how
+  and in what sense can we suppose we are speaking correctly
+  if we use terms which imply opposition ? For suppose in the
+  midst of the universe there were a solid body in equilibrium,
+  it would have no tendency towards any point in the circum-
+  ference, owing to the absolute uniformity of the whole : indeed
+  if we were to walk round the sphere, frequently, as we stood
+  at the antipodes of our former position, we should call the
+  same point on its surface successively 'above' and 'below'. For
+  this universe being spherical, as we just now said, no rational
+  man can speak of one region as upper, of another as lower: how-
+  ever whence these names were derived and under what conditions
+  we use them to express this division of the entire universe,
+  we may explain on the following hypothesis. In that region
+  of the universe which is specially allotted to the element of
+  fire, where indeed the greatest mass would be collected of that
+  to which it is attracted, if one should attain to this place, and,
+  acquiring the needful power, should separate portions of fire
+  and weigh them in scales, when he raises the balance and
+  forcibly drags the fire into the alien air, evidently he overpowers
+  the smaller portion more easily than the larger : for when two
+  masses are raised at once by the same force, necessarily the
+  smaller yields more readily to the force, the larger, owing to
+  its resistance, less readily : hence the larger mass is said to be
+  heavy and to tend downwards, the smaller to be light and
+  to tend upwards. This is exactly what we ought to detect
+  ourselves doing in our own region. Moving as we do on the
+  earth, we separate portions of earthy substances or sometimes
+  earth itself, and drag them into the alien air with unnatural
+  force, for each portion clings to its own kind. Now the smaller
+  mass yields more readily to our force than the larger and follows
+  quicker into the alien element ; therefore we call it ' light ', and
+  the place into which we force it ' above ' ; while to the opposite
+  conditions we apply the terms 'heavy' and 'below'. Now
+  that these mutual relations should vary is inevitable, because
+  the bulk of the several elements occupy contrary positions in
+  space. For as between a body that is light in one region and
+  a body that is light in the opposite region, or as between two
+  that are heavy, as well as upper and lower, all the lines of
+  attraction will be found to become and remain relatively con-
+  trary and transverse and different in every possible way. But
+  with all of them this one principle is to be borne in mind, that
+  in every case it is the tendency towards the kindred element
+  that makes us call the falling body heavy, and the place to
+  which it falls, below ; while to the reverse relations we apply
+  the opposite names. So much then for the causes of these
+  conditions. Of the qualities of smooth and rough any one
+  could perceive the cause and explain it to another: the latter
+  is produced by a combination of hardness and irregularity, the
+  former by a combination of uniformity and density.
+
+  XXVII. We have yet to consider the most important point
+  relating to the affections which concern the whole body in com-
+  mon ; that is, the cause of pleasure and pain accompanying
+  the sensations we have discussed : and also the affections which
+  produce sensation by means of the separate bodily organs and
+  which involve attendant pains and pleasures. This then is how
+  we must conceive the causes in the case of every affection,
+  sensible or insensible, recollecting how we defined above the
+  source of mobility and immobility : for this is the way we must
+  seek the explanation we hope to find. When that which is
+  naturally mobile is impressed by even a slight affection, it spreads
+  abroad the motion, the particles one upon another producing
+  the same effect, until coming to the sentient part it announces
+  the property of the agent : but a substance that is immobile
+  is too stable to spread the motion round about, and thus merely
+  receives the affection but does not stir any neighbouring part;
+  so that as the particles do not pass on one to another the
+  original impulse which affected them, they keep it untransmitted
+  to the entire creature and thus leave the recipient of the af-
+  fection without sensation. This takes place with our bones and
+  hair and all the parts we have which are formed mostly of
+  earth : while the former conditions apply in the highest degree
+  to sight and hearing, because they contain the greatest pro-
+  portion of fire and air. The nature of pleasure and pain must
+  be conceived thus : an affection contrary to nature, when it takes
+  place forcibly and suddenly within us, is painful ; a sudden
+  return to the natural state is pleasant; a gentle and gradual
+  process is imperceptible; and one of an opposite character is per-
+  ceptible. Now a process which takes place with perfect facility
+  is perceptible in a high degree, but is accompanied neither by
+  pleasure nor by pain. An example will be found in the affec-
+  tions of the visual current, which we said above was in the day-
+  time a material body cognate with ourselves. In this cutting and
+  burning and any other affection cause no, pain; nor does pleasure
+  ensue when it returns to its normal state : but its perceptions
+  are most vivid and accurate of whatsoever impresses it or what-
+  soever itself meets and touches. For its dilation and contraction
+  are entirely free from violence. On the other hand bodies
+  formed of larger particles, reluctantly yielding to the agent, and
+  spreading the motions through the whole frame, cause pleasure
+  and pain ; when they are disturbed giving pain, and pleasure
+  in being restored to their proper state. Those things which
+  suffer a gradual withdrawing and emptying, but have their
+  replenishment sudden and on a large scale, are insensible to
+  the emptying but sensible of the replenishment ; so that while
+  they cause no pain to the mortal part of the soul, they produce
+  very intense pleasure. This is to be observed in the case of
+  sweet smells. But when the parts are disturbed suddenly, but
+  gradually and laboriously restored to their- former condition,
+  they afford exactly the opposite result to the former : this may
+  be seen in the case of burns and cuts on the body.
+
+  XXVIII. Now the affections common to the body as a
+  whole and the names that have been given to the agents which
+  produce them have been well-nigh expounded : next we must
+  try to explain, if we can, what takes place in the separate parts
+  of us, both as to the affections of them and the causes on the
+  part of the agents. First then we must set forth to the best
+  of our p3wer all that we left unsaid concerning tastes, which
+  are affections peculiar to the tongue. It appears that these,
+  like most other things, are brought about by contraction and
+  dilation, besides which they have more to do than other sen-
+  sations with roughness and smoothness in the agents. For
+  whenever earthy particles enter in by the little veins which are
+  a kind of testing instruments of the tongue, stretched to the
+  heart, and strike upon the moist and soft parts of the flesh,
+  these particles as they are being dissolved contract and dry
+  the small veins ; and if they are very rough, they are termed
+  'astringent'; if less so 'harsh'. Such substances again as are
+  detergent and rinse the whole surface of the tongue, if they
+  do this to an excessive degree and encroach so as to dissolve
+  part of the structure of the flesh, as is the property of alka-
+  lies all such are termed 'bitter': but those which fall short of
+  the alkaline quality and rinse the tongue only to a moderate
+  extent are saline without bitterness and seem to us agreeable
+  rather than the reverse. Those which share the warmth of
+  the mouth and are softened by it, being simultaneously in-
+  flamed and themselves in turn scorching that which heated
+  them, and which owing to their lightness fly upward to the
+  senses of the head, penetrating all that is in their path owing
+  to these properties all such substances are called ' pungent '.
+  But sometimes these same substances, having been already
+  refined by decomposition, enter into the narrow veins, being
+  duly proportioned to the earthy particles and the particles of
+  air which are there, so that they set them in motion and mingle
+  them together, and thereby cause them to jostle against one
+  another and taking up other positions to form new hollows
+  extended round the entering particles which hollows consist
+  of a film of moisture, sometimes earthy, sometimes pure, em-
+  bracing a volume of air ; and thus they form moist capsules con-
+  taining air : in some cases the films are of pure moisture and
+  transparent and are called bubbles ; in others they are of earthy
+  liquid which effervesces and rises all together, when the name
+  of seething and fermentation is given to it : and the cause
+  of all these conditions is termed ' acid '. The opposite affection
+  to all those which have been described is produced by an oppo-
+  site cause : when the structure of the entering particles amid
+  the moisture, having a natural affinity to the tongue's normal
+  condition, smooths it by mollifying the roughened parts, and
+  relaxes or contracts what is unnaturally contracted or expanded,
+  and settles everything as much as possible in its natural state.
+  Every such remedy of violent affections is to all of us pleasant
+  and agreeable, and has received the name of ' sweet '.
+
+  XXIX. Enough of this subject. As regards the faculty
+  of the nostrils no classification can be made. For smells are
+  of a half-formed nature : and no class of figure has the adap-
+  tation requisite for producing any smell, but our veins in this
+  part are formed too narrow for earth and water, and too wide
+  for fire and air: for which cause no one ever perceived any
+  smell of these bodies ; but smells arise from substances which
+  are being either liquefied or decomposed or dissolved or evapo-
+  rated : for when water is changing into air and air into water,
+  odours arise in the intermediate condition ; and all odours are
+  vapour or mist, mist being the conversion of air into water, and
+  vapour the conversion of water into air ; whence all smells are
+  subtler than water and coarser than air. This is proved when
+  any obstacle is placed before the passages of respiration, and
+  then one forcibly inhales the air : for then no smell filters through
+  with it, but the air bereft of all scent alone follows the inhala-
+  tion. For this reason the complex varieties of odour are un-
+  named, and are ranked in classes neither numerous nor simple :
+  only two conspicuous kinds are in fact here distinguished, plea-
+  sant and unpleasant. The latter roughens and irritates all the
+  cavity of the body that is between the head and the navel ; the
+  former soothes this same region and restores it with contentment
+  to its own natural condition.
+
+  A third organ of sensation in us which we have to examine
+  is that of hearing, and we must state the causes whence arise the
+  affections connected with it. Let us in general terms define
+  sound as a stroke transmitted through the ears by the air and
+  passed through the brain and the blood to the soul; while the
+  motion produced by it, beginning in the head and ending in the
+  region of the liver, is hearing. A rapid motion produces a shrill
+  sound, a slower one a deeper sound; regular vibration gives an
+  even and smooth sound, and the opposite a harsh one; if the
+  movement is large, the sound is loud; if otherwise, it is slight.
+  Concerning accords of sound we must speak later on in our
+  discourse.
+
+  XXX. A fourth faculty of sense yet remains, the intricate
+  varieties of which it is our part to classify. To these we have
+  given the name of colours, which consist of a flame streaming off
+  from every object, having its particles so adjusted to those of
+  the visual current as to excite sensation. We have already set
+  forth the causes which gave origin to vision: thus therefore it
+  will be most natural and fitting for a rational theory to treat of
+  the question of colours. The particles which issue from outward
+  objects and meet the visual stream are some of them smaller,
+  some larger, and some equal in size to the particles of that
+  stream. Those of equal size cause no sensation, and these we
+  call transparent; but the larger and smaller, in the one case by
+  contracting, in the other by dilating it, produce effects akin to
+  the action of heat and cold on the flesh, and to the action on
+  the tongue of astringent tastes and the heating sensations which
+  we termed pungent. These are white and black, affections
+  identical with those just mentioned, but occurring in a different
+  class and seeming to be different for the causes aforesaid. We
+  must then classify them as follows. What dilates the visual
+  stream is white, and the opposite thereof is black. A swifter
+  motion belonging to a different kind of fire, which meets and
+  penetrates the visual stream quite up to the eyes, and forcibly
+  displaces and decomposes the pores of the eyes themselves,
+  draws from thence a combined body of fire and water, which
+  we call a tear: and whereas this agent is itself fire, meeting
+  the other from the opposite direction, and one fire leaps forth
+  as lightning from the eyes, while the other enters in and is
+  quenched in the moisture, all manner of colours arise in this
+  commixture; and to the sensation we give the name of dazzling,
+  and the agent which produces it we call bright and shining. A
+  kind of fire which is intermediate between the two former, when
+  it reaches the moisture of the eye and is mingled with it, but
+  does not flash, produces a blood-like colour by the mixture of
+  fire with the gleam of the moisture, and the name we give it
+  is red. Bright combined with red and white makes yellow. In
+  what proportion they are mingled, it were not reasonable to say,
+  even if we knew; for there is neither any inevitable law nor any
+  probable account thereof which we might properly declare. Red
+  mingled with black and white becomes purple, which turns to
+  dark violet when these ingredients are more burnt and a greater
+  quantity of black is added. Chestnut arises from the mixture
+  of yellow and grey, and grey from white and black : pale buff is
+  from white mixed with yellow. When bright meets white and
+  is steeped in intense black, a deep blue colour is the result; and
+  deep blue mingled with white produces pale blue; and chestnut
+  with black makes green. And for the remaining colours, it is
+  pretty clear from the foregoing to what combinations we ought
+  to assign them so as to preserve the probability of our account:
+  but if a man endeavour to make practical trial of these theories
+  he will prove himself ignorant of the difference between divine
+  and human intelligence : that God has sufficient understanding
+  and power to blend the many into one and again to resolve the
+  one into many; but no man is able to do either of these, now or
+  henceforth for ever.
+
+  All these things being thus constituted by necessity, the
+  creator of the most fair and perfect in the realm of becoming
+  took them over, when he was generating the self-sufficing and
+  most perfect god, using the forces in them as subservient causes,
+  but himself working out the good in all things that come into
+  being. Wherefore we must distinguish two kinds of causes, one
+  of necessity and one of God: and the divine we must seek in all
+  things for the sake of winning a happy life, so far as our nature
+  admits of it; and the necessary for the sake of the divine, reflect-
+  ing that without these we cannot apprehend by themselves the
+  other truths, which are the object of our serious study, nor grasp
+  them nor in any other way attain to them.
+
+  XXXI. Now therefore that the different kinds of causes lie
+  ready sorted to our hand, like wood prepared for a carpenter, of
+  which we must weave the web of our ensuing discourse, let us in
+  brief speech return to the beginning and proceed once more to
+  the spot whence we arrived at our present point; and so let us
+  endeavour to add an end and a climax to our story conformable
+  with what has gone before.
+
+  As was said then at the beginning, when God found these
+  things without order either in the relation of each thing to itself
+  or of one to another, he introduced proportion among them, in
+  as many kinds and ways as it was possible for them to be pro-
+  portionate and harmonious. For at that time neither had they
+  any proportion, except by mere chance, nor did any of the
+  bodies that now are named by us deserve the name, such as fire
+  and water and the other elements : but first he ordered all these,
+  and then out of them wrought this universe, a single living crea-
+  ture containing within itself all living creatures, mortal and
+  immortal, that exist. And of the divine he himself was the
+  creator; but the creation of mortals he delivered over to his own
+  children to work out. And they, in imitation of him, having
+  received from him the immortal principle of soul, fashioned
+  round about her a mortal body and gave her all the body to
+  ride in; and beside her they built in another kind of soul, even
+  that which is mortal, having within itself dread and inevitable
+  passions first pleasure, the strongest allurement of evil, next
+  pains, that scare good things away; confidence moreover and
+  fear, a yoke of thoughtless counsellors ; wrath hard to assuage
+  and hope that lightly leads astray; and having mingled all these
+  perforce with reasonless sensation and love that ventures all
+  things, so they fashioned the mortal soul. And for this cause,
+  in awe of defiling the divine, so far as was not altogether neces-
+  sary, they set the mortal kind to dwell apart from the other in
+  another chamber of the body, having built an isthmus and
+  boundary between the head and the breast, setting the neck
+  between them to keep them apart. So in the breast, or the
+  thorax as it is called, they confined the mortal kind of soul.
+  And whereas one part of -it was nobler, the other baser, they
+  built a party-wall across the hollow of the chest, as if they were
+  marking off an apartment for women and another for men, and
+  they put the midriff as a fence between them. That part of the
+  soul which shares courage and anger, seeing that it is warlike,
+  they planted nearer the head, between the midriff and the neck,
+  that it might be within hearing of the reason and might join it
+  in forcibly keeping down the tribe of lusts, when they would in
+  no wise consent to obey the order and word of command from
+  the citadel. And the heart, which is the knot of the veins and
+  the fount of the blood which rushes vehemently through all the
+  limbs, they made into the guardhouse, that whensoever the fury
+  of anger boiled up at the message from the reason, that some
+  unrighteous dealing is being wrought around them, either with-
+  out, or, it may be, by the lusts within, swiftly through all the
+  narrow channels all the sensitive power in the body might be
+  aware of the admonitions and threats and be obedient to them
+  and follow them altogether, and so permit the noblest part to be
+  leader among them all.
+
+  For the throbbing of the heart in the anticipation of danger
+  or the excitement of wrath, since they foreknew that all such
+  swelling of passion should come to pass by means of fire, they
+  devised a plan of relief, and framed within us the structure of
+  the lungs, which in the first place is soft and void of blood, and
+  next is perforated within with cavities like those of a sponge, in
+  order that receiving the breath and the drink it might cause
+  coolness and give rest and relief in the burning. Wherefore
+  they made the windpipe for a channel to the lungs, which they
+  set around the heart, as it were a soft cushion to spring upon ;
+  so that when wrath was at its height therein, the heart might
+  leap upon a yielding substance and become cooled, and thus
+  being less distressed it might together with the emotions be
+  better enabled to obey the reason.
+
+  XXXII. But that part of the soul which lusts after meat
+  and drink and all things whereof it has need owing to the
+  body's nature, this they set between the midriff and the navel
+  as its boundary, constructing in all this region as it were a
+  manger for the sustenance of the body : and here they chained
+  it like a wild beast, which must yet be reared in conjunction
+  with the rest, if a mortal race were to be at all. To the end
+  then that always feeding at its stall and dwelling as far as
+  possible from the seat of counsel, it might produce the least
+  possible tumult and uproar and allow the noblest part to con-
+  sult in peace for the common weal, here they assigned it its
+  place. And knowing that it would have no comprehension of
+  reason, and that even if it did in some way gain any perception
+  of rational thoughts, it was not in its nature to take heed to
+  any such things, but that it would be entirely led away by
+  images and shadows both by night and by day, God devised as
+  a remedy for this the nature of the liver, which he constructed
+  and set in its dwelling place : and he made it a body dense and
+  smooth and bright and sweet with a share of bitterness. This
+  he did to the end that the influence of thoughts proceeding
+  from the brain, when the liver received outlines of them, as if in
+  a mirror, and exhibited reflections to view, might strike terror
+  into the appetitive part, whenever making use of the bitter
+  element akin to its own dark nature and threatening with stern
+  approach, diffusing the bitterness swiftly throughout the whole
+  liver it displayed a bilious colour, and contracting it made it
+  all rough and wrinkled, and reaching the lobe and the vessels
+  and the inlet, twisted the first from its right position and con-
+  torted it, while at the same time it obstructed and closed up the
+  two latter, thereby producing pain and nausea : and on the
+  other hand in order that, whenever a breath of mildness from
+  the reason copied off on the liver visions of an opposite kind,
+  giving relief from the bitterness, because it will not excite a
+  nature opposite to its own nor have dealing with it, but using
+  upon the liver the sweetness that exists therein and soothing
+  everything till all is straight and smooth and free, it might
+  render gentle and calm that part of the soul which is settled
+  about the liver, and might enable it to secure a sober amuse-
+  ment at night, enjoying divination during sleep, in recompense
+  for its deprivation of intelligence and wisdom. For our creators,
+  because they remembered the behest of their father, when he
+  commanded them to make the mortal race as perfect as they
+  were able, in this wise redeeming even the baser part of us,
+  that it might have in some way a hold on the truth, placed in
+  this region the seat of divination.
+
+  Now that divination is the gift of God to human folly, this is
+  a sufficient proof. No man in his sound senses deals in true
+  and inspired divination, but when the power of his under-
+  standing is fettered in sleep or by sickness, or if he has become
+  distraught by some divine possession. The part of the sane
+  man is to remember and interpret all things that are declared,
+  dreaming or waking, by the prophetic and inspired nature ; and
+  whatsoever visions are beheld by the seer, to determine by
+  reason in what way and to whom they betoken good or ill in
+  the future or the present or the past : but it is not for him who
+  has become mad and still is in that state to judge his own
+  visions and utterances ; the old saying remains true, that only
+  for the sane man is it meet to act and to be the judge of his
+  own actions and of himself. Whence has arisen the custom .of
+  setting up interpreters as judges of inspired prophecy : these are
+  themselves called prophets by some who are altogether un-
+  aware that they are but the expounders of mystic speech and
+  visions, and ought not in strict accuracy to be called prophets,
+  but interpreters of the prophecies.
+
+  Such is the nature of the liver and its situation that we
+  have described, for the purpose of prophecy as aforesaid. And
+  while each body has life, this organ displays the signs clearly
+  enough ; but when deprived of life, it is become blind and gives
+  the token too dimly to afford any plain meaning. And the
+  structure of the neighbouring organ and its position on the left
+  has been planned for the sake of the liver, in order to keep it
+  always bright and clean, as a napkin is prepared and laid ready
+  for the cleansing of a mirror. Wherefore whenever any im-
+  purities arise in the region of the liver owing to sickness of the
+  body, all is received and purified by the fine substance of the
+  spleen, which is woven hollow and void of blood. This, when it
+  is filled with the impurities from the liver, waxes swollen and
+  festered ; and again, when the body is purged, it is reduced and
+  sinks again to its natural state.
+
+  XXXIII. Now as concerning soul, how far she has a mortal,
+  how far a divine nature, and in what wise and with what con-
+  junctions and for what causes she has her separate habitations,
+  only when God has confirmed our statement can we confidently
+  aver that it is true : nevertheless that we have given the probable
+  account we may venture to say even now and still more on
+  further meditation, and so let it be said. But what follows
+  upon the foregoing is the next object of our research : this
+  was the manner wherein the rest of the body has come into
+  being.
+
+  The following is the design on which it were most fitting
+  to conceive that it is constructed. They who framed our race
+  knew the intemperance in meat and drink that would prevail
+  in us, and that for greed we should use far more than was
+  moderate or necessary. In order then that swift destruction
+  through sickness might not fall upon us, and that the mortal
+  race might not perish out of hand before coming to com-
+  pletion, foreseeing the danger they made the abdomen, as it is
+  called, a receptacle to contain the superfluity of food and drink,
+  and coiled the bowels round about therein, lest the food passing
+  speedily through should compel the body quickly to stand in
+  need of a fresh supply, and thus producing an insatiable craving
+  should render the whole race through gluttony devoid of phi-
+  losophy and letters and disobedient to the highest part of our
+  nature.
+
+  Concerning the bones and flesh and all such substances the
+  case stands thus. The foundation of all these is the marrow :
+  for the bonds of life whereby the soul is bound to the body
+  were fastened in it throughout and planted therein the roots
+  of human nature. But the marrow itself comes from other
+  sources. Such of the primal triangles as were unwarped and
+  smooth and thus able to produce fire and water and air and
+  earth of the purest quality, these God selected and set apart,
+  each from its own class, and mingling them in proportion one
+  with another, to make a common seed for all the race of mortals,
+  he formed of them the marrow ; and thereafter he implanted
+  and fastened in it the several kinds of soul ; and according to
+  the number and fashion of the shapes that the soul should have
+  corresponding to her kinds, into so many similar forms did he
+  divide the marrow at the very outset of his distribution. And
+  that which should be as it were a field to contain in it the divine
+  seed he moulded in a spherical form all round ; and this part of
+  the marrow he called the brain, with the view that, when each
+  animal was completed, the vessel containing it should be the
+  head. But that which was to have the mortal part of soul
+  which remained he distributed into moulds that were at once
+  round and elongated : but he called all these forms marrow ;
+  and from these, as though from anchors, he put forth bonds to
+  fasten all the soul, and then he wrought the entire body round
+  about it, first building to fence it a covering of bone. And
+  bone he formed in this way : having sifted out earth that was
+  pure and smooth he kneaded and soaked it with marrow, and
+  after that he placed it in fire ; and next he set it in water, and
+  again in fire, and once more in water : and thus having shifted
+  it many times from one to another he made it indissoluble by
+  either. Making use of this, he carved a bony sphere thereof to
+  surround the brain, but on one side he left a narrow outlet ; and
+  around the marrow of the neck and back he made vertebrae of
+  bone and set them to serve as pivots, beginning at the head and
+  carrying them through the whole length of the body. Thus to
+  preserve all the seed he enclosed it in a strong envelope, and he
+  made joints in it, using the power of the Other as an inter-
+  mediary between the parts, for the sake of moving and bending
+  them. But deeming that the structure of bone was too rigid
+  and inflexible, and that should it be inflamed and cooled again,
+  it would rot away and quickly destroy the seed within it, for this
+  cause God devised the sinews and the flesh, that binding all the
+  limbs together with the former he might by their tension and
+  relaxation round their pivots enable the body to bend and ex-
+  tend itself; while the flesh he designed as a defence against
+  heat and a shelter from cold ; and moreover that it might be,
+  like coverings of felt, a protection against falls, gently and easily
+  yielding to external bodies; and containing a warm moisture
+  within itself, in summer it might exude this, and spreading
+  dampness on the surface might diffuse a natural coolness over
+  all the body; but in winter on the other hand it might by its
+  own fire afford a fair protection against the frost that assailed
+  and surrounded it from without Considering this, he that
+  moulded us like wax made a mixture and blending of water
+  and fire and earth ; and compounding a ferment of acid and salt
+  he mingled it with them and produced soft flesh full of sap : the
+  sinews he composed of bone and unfermented flesh, a separate
+  substance having an intermediate function; and to this he added
+  a yellow colour. Accordingly the sinews received a power more
+  firm and tenacious than the flesh, but more soft and flexible
+  than the bones.
+
+  With these God covered the bones and marrow; and after he
+  had bound one part to another with sinews, he enveloped them
+  over all with flesh. Those bones which were chiefly inhabited
+  by soul, he enclosed with the smallest amount of flesh ; but
+  those wherein was least soul he covered most abundantly and
+  densely with it : moreover at the joints of the bones, save where
+  reason showed that it ought to be there, he put but little flesh,
+  that neither it might render the body unwieldy by hindering its
+  flexions and impeding its .motions, nor again that a dense mass
+  of flesh piled together, producing by its hardness a dulness of
+  sensation, might render the faculties of the mind too slow of
+  memory and hard of apprehension. Wherefore the thighs and
+  the shins and the parts about the hips and the bones in the
+  upper arms and the fore-arms and all parts of our limbs which
+  are without joints, and all bones which are devoid of intelligence
+  owing to the small amount of soul inhering in marrow within
+  them, all these are abundantly furnished with flesh; but those
+  which are the seat of intelligence have less: except in cases
+  where God has formed the flesh to be in itself an organ of
+  sensation, as for instance the tongue: in most however it is as
+  aforesaid; for this material nature which comes into being by
+  the law of necessity and is reared with us does not allow dense
+  bone and much flesh to be accompanied by ready and keen per-
+  ception. For had these two conditions consented to combine,
+  the structure of the head would have displayed them in the
+  highest degree ; and the human being, bearing upon it a fleshy
+  head, sinewy and strong, would have enjoyed a life twice, nay
+  many times as long as now, besides being much more healthy
+  and free from pain. But as it is, the creators who brought us to
+  being considered whether they should make a long-lived race
+  that was inferior, or one more short-lived which was nobler, and
+  they agreed that every one must by all means choose a shorter
+  and nobler life in preference to a longer but baser. Therefore
+  they covered the head with thin bone, but not with flesh
+  nor sinews, since it has no flexions. On all these grounds the
+  head that is set upon the body of every man is much quicker of
+  apprehension and understanding, but much weaker. For these
+  reasons and in this manner God placed the sinews all round the
+  base of the head about the neck and cemented them with
+  uniformity; and he fastened the extremities of the jaw : bones to
+  them just under the face; and the rest he distributed over all
+  the limbs, uniting joint to joint. And our framers ordained the
+  functions of the mouth, furnishing it with teeth and tongue and
+  lips, in the way it is now arranged, combining in their purpose
+  the necessary and the best; for they devised the incoming with
+  the necessary in view, but the outgoing with the most excellent.
+  For all that enters in to give sustenance to the body is of neces-
+  sity; but the stream of speech which flows out and ministers to
+  understanding is of all streams the most noble and excellent.
+  But as to the head, it was neither possible to leave it of bare
+  bone, owing to the extremes of heat and cold in the seasons;
+  nor yet by covering it over to allow it to become dull and sense-
+  less through the burden of flesh. Of the fleshy material as it was
+  drying a larger film formed on the surface and separated itself;
+  this is what is now called skin. This by the influence of the
+  moisture of the brain combined and grew up and clothed the
+  head all round: and the moisture rising up under the sutures
+  saturated and closed it in on the crown, fastening it together
+  like a knot. Now the form of the sutures is manifold, owing to
+  the power of the soul's revolutions and of the aliment; if these
+  contend more vehemently one with another, the sutures are more
+  in number; but if less so, they are fewer. Now the whole of
+  this skin was pricked all about with fire by the divine part: and
+  when it v/as pierced and the moisture issued forth through it, all
+  the moisture and heat which was pure vanished away; but that
+  which was mingled with the substances whereof the skin was
+  formed, being lifted up by the impulse, stretched far outwards,
+  in fineness equalling the size of the puncture; but owing to the
+  slowness of its motion it was thrust back by the surrounding air,
+  and being forced in and rolled up under the skin it took root
+  there. Under these conditions hair grows up in the skin, being
+  of similar nature but of threadlike appearance, and made harder
+  and denser by the contraction of cooling: for every hair in being
+  separated from the skin was cooled and contracted. Hereby
+  has our creator made our.head hairy, using the means aforesaid,
+  and conceiving that this instead of flesh should be a covering for
+  the protection of the brain, being light and capable of affording
+  shade from heat and shelter from cold, while it would be no
+  hindrance in the way of ready apprehension. The threefold
+  combination of sinew skin and bone in the fabric of the fingers,
+  when dried, forms out of all a single hard skin, for the construc-
+  tion of which these substances served as means, but the true
+  cause and purpose of its formation was the welfare of races not
+  yet existing. For our creators were aware that men should pass
+  into women, and afterwards into beasts; and they knew that
+  many creatures would need the aid of nails for many purposes :
+  wherefore at the very birth of the human race they fashioned
+  the rudiments of nails. On such reasoning and with such
+  purposes did they form skin and hair, and on the extremities of
+  the limbs nails.
+
+  XXXIV. Now when all the parts and members of the
+  mortal being were created in union, and since his life was made
+  perforce dependent upon fire and air, and therefore his body
+  suffered waste through being dissolved and left void by these,
+  the gods devised succour for him. They engendered another
+  nature akin to the nature of man, blending it with other forms
+  and sensations, so as to be another kind of animal. These are
+  the cultivated trees and plants and seeds, which are now trained
+  by culture and domesticated with us ; but formerly there existed
+  only the wild kinds, which are older than the cultivated. For
+  indeed everything which partakes of life may with perfect
+  justice and fitness be termed an animal; but the kind of which
+  we are now speaking shares only the third form of soul, which
+  our theory says is seated between the midriff and the navel, and
+  which has nothing to do with opinion and reasoning and
+  thought, but only with sensation, pleasant or painful, with
+  appetites accompanying. For it ever continues passively re-
+  ceptive of all sensations, and having its circulation in itself
+  about its own centre, it rejects all motion from without and uses
+  only its own ; but its nature has not bestowed upon it any power
+  of observing its own being and reflecting thereon. Wherefore
+  it is indeed alive and in no wise differs from an animal, but it is
+  stationary and rooted fast, because it has been denied the power
+  of self-motion.
+
+  XXXV. Thus did the higher powers create all these kinds
+  as sustenance for us who were feebler; and next they made
+  canals in the substance of our body, as though they were
+  cutting runnels in a garden, that it might be irrigated as by an
+  inflowing stream. And first they carried like hidden rills, under
+  the place where the skin and the flesh are joined, two veins
+  down the back, following the twofold division of the body into
+  right and left. These they brought down on either side of the
+  spine and the seminal marrow, first in order that this might be
+  most vigorous, next that the current might have an easy flow
+  downwards and render the irrigation regular. After that, they
+  cleft the veins around the head, and interweaving them crossed
+  them in opposite directions, carrying these from the right side of
+  the body to the left and those from the left to the right. This
+  they did, partly in order that together with the skin they might
+  form a bond to fasten the head to the body, seeing that it was
+  not set round with sinews on the crown ; and also that this
+  might be a means of distributing from each side throughout
+  the whole body the sensation due to the perceptions. And
+  next to this they designed the irrigation on a kind of plan
+  which we shall better discern by assuming the following premises.
+  All bodies which are composed of smaller particles exclude the
+  larger, but the larger cannot exclude the smaller. Fire is com-
+  posed of finer particles than any other element, whence it
+  penetrates through water and earth and air and whatever is
+  composed of them, and nothing can keep it out. This rule
+  must also be applied to the human belly ; when food and
+  drink enter into it, it keeps them in ; but air and fire, being
+  finer than its own structure, it cannot keep in. Accordingly
+  God used these two elements for the conveyance of liquid
+  from the belly to the veins, weaving of air and fire a network
+  like a fish-trap or'weel, having two lesser weels within with a
+  double inlet ; one of which inlets he again wove with two pas-
+  sages ; and from the lesser weels he stretched as it were cords
+  on all sides to the extremities of the network. All the inner
+  part of the net he constructed of fire, but the lesser weels and
+  the envelope he made of airy substance ; and he took the net
+  and wrapped it in manner following about the animal he had
+  moulded. The structure of the lesser weels he carried into the
+  mouth : and, these being twofold, he let down one of them by
+  the windpipe into the lungs, the other past the windpipe into
+  the belly. The one weel he split in two, and let both inlets
+  meet by the passages of the nostrils, so that when the first
+  inlet was not in action by way of the mouth, all its currents also
+  might be replenished from the second. But with the general
+  surface of the network he enveloped all the hollow part of our
+  body; and all this, seeing it was air, he now caused to flow
+  gently into the lesser weels, now made them flow back upon it ;
+  and since the body is of porous texture, the network passes
+  through it inward and again outward, and the beams of fire
+  which are confined within follow the air as it moves in either
+  direction : and this never ceases to go on so long as the mortal
+  creature holds together. To this process he who appointed
+  names gave, we say, the titles of inspiration and expiration :
+  and from this condition, both active and passive, it has come
+  about that our body, deriving moisture and coolness, has its
+  sustenance and life. For when, as the respiration passes in and
+  out, the interwoven fire within follows it and entering the belly
+  swings up and down and meets the food and drink, it dis-
+  solves them, and reducing them to small particles, drives them
+  along the channels through which it flows, pumping them into
+  the veins like spring-water into conduits, and so it makes the
+  current of the veins flow through the body as through an
+  aqueduct.
+
+  XXXVI. Let us once more examine the process of respira-
+  tion and the causes which have led to its present conditions.
+  These are as follows. Since there is no void into which any
+  moving body could enter, and since the breath issues forth
+  from us, the consequence is clear to every one : instead of
+  entering into a void space it thrusts the neighbouring matter out
+  of its place. And this, yielding to the thrust, drives before it
+  that which is immediately nearest ; and all being driven round
+  by this compulsion enters into the place whence the breath
+  came forth, and replenishing the same follows after the breath ;
+  and this whole process goes on like the rotation of a wheel,
+  because there is no void. Therefore when the cavity of the
+  chest and the lungs send forth the breath, they are again re-
+  plenished by the air surrounding the body, which penetrates
+  inwards through the flesh, seeing it is porous, and is forced
+  round in a circuit. And again when the air returns and passes
+  forth through the body, it thrusts the breath back again in-
+  wards through the passages of the mouth and nostrils. The
+  cause which sets this principle in action we may describe thus.
+  In every animal the inner parts about the blood and veins are
+  the hottest, as if there were a fount of fire contained in it. This
+  is what we compare to the network of the weel, supposing
+  that all the part extending from the middle to the sides
+  is woven of fire, but the outer part of air. Now we must
+  admit that the heat naturally tends outwards to its own region
+  and its own kin. And whereas there are two means of egress,
+  one out through the body, the other by way of the mouth and
+  nostrils, when it makes for one exit, it impels the air round
+  towards the other. And the air so impelled falling into the fire
+  is heated, but that which passes out is cooled. So the heat
+  changes its position and the parts about the other outlet be-
+  come warmer ; therefore the heat now has a stronger tendency in
+  the new direction, seeking its own affinity, and impels the air by
+  the other passage : and this, undergoing the same change and
+  reproducing the same process, is thus by these two impulses
+  converted into a wheel swaying backwards and forwards, and so
+  it gives rise to respiration.
+
+  XXXVII. In the same direction are we to look for the
+  explanation of the phenomena of medical cupping-glasses and
+  of swallowing and of projected bodies, whether cast through the
+  air or moving along the ground ; and of sounds too, which
+  from their swiftness and slowness seem to us shrill or deep,
+  sometimes having no harmony in their movements owing to the
+  irregularity of the vibrations they produce in us, sometimes
+  being harmonious through regularity. For the slower sounds
+  overtake the motions of the first and swifter sounds, when
+  these are already beginning to die away and have become
+  assimilated to the motions which the slower on their arrival
+  impart to them : and on overtaking them they do not produce
+  discord by the intrusion of an alien movement, but adding the
+  commencement of a slower motion, which corresponds to that
+  of the swifter now that the latter is beginning to cease, they
+  form one harmonious sensation by the blending of shrill and
+  deep. Thereby they afford pleasure to the foolish, but to the
+  wise joy, through the imitation of the divine harmony which is
+  given by mortal motions. And the flowing of all waters, the
+  fall of thunderbolts, and the wonderful attracting power of
+  amber and of the loadstone all these are due to no drawing
+  power, but to two causes: first there is no void, and the
+  atoms jostle one upon another ; secondly when they are divided
+  or contracted they change places and move severally towards
+  their own region ; and by the complication of such conditions
+  all these wonders arise, as will be plain to him who examines
+  them by the proper method.
+
+  XXXVIII. The process of respiration then, whence this
+  discussion arose, rests on the principles and causes which have
+  been set forth : fire divides the food, following the air as it
+  sways up and down within ; and through this oscillation it re-
+  plenishes the veins from the belly by pumping into them from
+  thence the comminuted food. In this way throughout the whole
+  body of all animals the streams of nourishment are kept con-
+  stantly supplied. And the particles of food, being freshly severed
+  and from kindred substances some from fruits and some from
+  herbs, which God planted just to be our sustenance, have all
+  manner of colours owing to their intermixture; but a red hue per-
+  vades them most of all, through the natural contrivance whereby
+  the fire divides the food and imprints its own hue upon it :
+  whence the colour of the fluid that circulates through the body
+  has the appearance we have described. This we call blood,
+  which is the sustenance of the flesh and of all the body, and
+  from which all parts draw moisture to fill up the places that are
+  left void. And the mode of replenishment and evacuation is
+  like the motion of all things in the universe, whereby all kindred
+  substances seek each other. The elements that surround us
+  without are constantly dissolving our substance and distributing
+  it to its several kinds, returning each to its own kindred : and
+  again the particles of blood, being minutely divided within us
+  and enveloped in every creature by the body, as though by a
+  heaven surrounding them, are forced to copy the universal
+  motion. Therefore each of the divided particles within us is
+  carried to its own kind and thus replenishes again what was left
+  void. Now when the loss is greater than the replenishment,
+  everything diminishes, but when less, it increases. The young
+  frame then of the entire creature, having the triangles of its ele-
+  ments still as if fresh from the workshop, has them firmly linked
+  one to another ; but the whole mass is soft in substance, seeing
+  that it has been newly formed out of marrow and nurtured upon
+  milk. Now forasmuch as the triangles of the substances com-
+  posing the food and drink, which enter from without and are
+  received within the young creature, are older and feebler than
+  those of the latter, it divides and subdues them with its new
+  triangles, and by the assimilation of a large number nourishes
+  and increases the animal : but when the exact outline of the
+  triangles is blunted, because they have been for a long time
+  struggling with many others, they are not able as of old to
+  comminute and assimilate the entering aliment, but are them-
+  selves easily divided by the incoming particles. At such a time
+  every living thing is enfeebled and wastes away; and this con-
+  dition is termed old age. Finally when the bonds of the tri-
+  angles belonging to the ma/row no longer hold to their fasten-
+  ings but snap asunder with the stress, they loose in their turn
+  the bonds of the soul ; and she, being in the course of nature
+  released, flies away with gladness. For all that is contrary to
+  nature is painful ; but whatsoever takes place in the natural way
+  is pleasant. On the same principle death which ensues upon
+  sickness or wounds is painful and violent ; but that which draws
+  to the natural end in the course of old age is of all deaths the
+  least distressing and is accompanied rather by pleasure than by
+  pain.
+
+  XXXIX. Now the cause whence sicknesses arise is doubt-
+  less evident to all. For seeing there are four elements of which
+  the body is composed, earth fire water and air, any unnatural
+  excess or defect of these or change of position from their own
+  to an alien region, and also since there are more than one
+  kind of fire and the other elements the reception by each of
+  an unfitting kind, and other such causes, all combine to pro-
+  duce discord and disease. For when any of them changes
+  its nature and position, the parts that formerly were cool are
+  heated, and those that were dry become afterwards moist, and
+  the light become heavy, and all undergo every kind of change.
+  The only way we allow in which one and the same substance
+  can remain whole and unchanged and sound is that the same
+  element should be added to it or taken away from it on the
+  same principle and in the same manner and proportion; and
+  whatsoever errs in any of these points in its outgoings or in-
+  comings causes a vast diversity of vicissitudes and diseases and
+  destructions. Next in the secondary structures which are in a
+  natural state of union a second class of diseases may be dis-
+  cerned by one who would scrutinise them. For whereas marrow
+  and bone and flesh and sinew are composed of the four elements,
+  and blood is formed of the same though in a different way, most
+  of the diseases arise in the manner before explained, but the
+  gravest afflict them with especial severity in the following way :
+  that is to say, when the order of their generation is reversed,
+  these structures are then destroyed. For in the course of nature
+  flesh and sinews arise from blood, the sinews from the fibrine,
+  owing to their affinity; the flesh from the clots which are formed
+  when the fibrine is separated. From the sinews and flesh again
+  proceeds a glutinous and oily fluid, which not only cements the
+  flesh to the structure of the bones and itself gives nourishment
+  and growth to the bone which encloses the marrow, but also so
+  much of it as filters through the dense substance of the bones,
+  being formed of the purest and smoothest and most slippery
+  kind of the triangles, as it distils and oozes from the bones,
+  irrigates the marrow. When these structures are produced in
+  this order, health is the result as a rule ; but when this is re-
+  versed, sickness ensues. For when the flesh decomposes and
+  returns the deliquescent matter to the veins, then is mingled
+  with air in the veins much blood of manifold kinds, with
+  diverse hues and bitter qualities, as well as acid and saline
+  properties ; and this contains all kinds of bile and serum and
+  phlegm. For as all these are going the wrong way and have
+  become corrupt, first they ruin the blood itself, and furnishing
+  no nutriment to the body rush in all directions through the
+  veins, paying no heed to the periods appointed by nature, but
+  at war one with another, because they have no gcod of each
+  other ; at war also with all that is established and fixed in the
+  body, which they corrupt and dissolve. Now when the oldest
+  part of the flesh is decomposed, being hard to soften, it turns
+  black through long-continued burning, and through being every-
+  where corroded it is bitter and dangerous to whatever part of
+  the body it attacks which is not yet corrupted. Sometimes this
+  black sort is acid instead of bitter, when the bitterness is more
+  refined away ; and again the bitter sort being steeped in blood
+  gains a redder hue; and when black is mingled with this, it is
+  greenish : sometimes too a yellow colour is added to the bitter-
+  ness, when new flesh is decomposed by the fire of the inflam-
+  mation. To all these symptoms the general name of bile has
+  been given, either by physicians, or by some one who in looking
+  at many dissimilar appearances was able to see one universal
+  quality pervading them all which deserved a name. All other
+  kinds of bile which are reckoned have their several descriptions
+  according to their colour. Of lymph, one kind is the mild
+  serum of blood, the other is an acrid secretion of black and
+  acid bile, when that is blended through inflammation with a
+  saline property : this kind is called acid phlegm. But that
+  which is formed in conjunction with air by the liquefaction
+  of new and tender flesh, when it is inflated with air en-
+  veloped by moisture, and through this condition bubbles are
+  formed, invisible separately because of their smallness, but all
+  together becoming visible in the mass and presenting a white
+  colour to view by the formation of froth this liquefaction of
+  tender flesh in combination with air we term white phlegm.
+  And the serum of freshly formed phlegm is sweat and tears,
+  and whatever other secretions purify the body from day to day.
+  All these become a means of disease, when the blood is not
+  replenished from the food and drink in the natural way, but
+  receives its volume in the contrary manner in despite of nature's
+  laws. Now when the flesh is anywhere pierced by disease, but
+  the foundations of it remain intact, the malady has only half its
+  power; for there is still the prospect of ready recovery. But
+  when that which unites the flesh to the bones is diseased, and
+  in turn no longer by distilling both from the fibres and sinews
+  nourishes the bones and cements the flesh to them, but
+  instead of being oily and smooth and glutinous becomes harsh
+  and saline and shrivelled through an unhealthy habit of life,
+  under these conditions all that substance crumbles away under
+  the flesh and the sinews and separates from the bones; while
+  the flesh, falling away from its foundations, leaves the sinews
+  bare and full of brine, and itself falling back into the current of
+  the blood aggravates the diseases that have been described.
+  But distressing as are these symptoms which affect the body,
+  yet more serious are those which are prior in order ; when the
+  bones, owing to denseness of the flesh, cannot get sufficient air
+  and becoming mouldy and heated decay away, and while they
+  will not receive their nourishment, crumble down and return by
+  a reversed process into their nourishing fluid, and that in its turn
+  passing into flesh, and the flesh into blood, they render all the
+  diseases more virulent than those already mentioned. The most
+  desperate case of all is when the substance of the marrow be-
+  comes diseased by any defect or excess : this produces the most
+  serious and fatal disorders, seeing that the whole nature of the
+  body is forced to proceed in a backward course.
+
+  XL. A third class of diseases we must conceive as occurring
+  in three ways : one by the agency of air, the second of phlegm,
+  the third of bile. For when the lungs, which are the dispensers
+  of air to the body, do not keep their passages clear, because
+  they are impeded by catarrhs, the air, failing to pass through
+  some, and in others entering with a volume unduly great, causes
+  the decomposition of the parts which lack their supply of air,
+  and forces its way through the channels of the veins and dis-
+  locates them, and dissolving the body it is confined amid its
+  substance, occupying the midriff; and so countless painful
+  diseases are produced from these causes, accompanied by
+  excessive sweat. Often too when the flesh is broken up, air
+  is formed in the body, and being unable to find an exit it pro-
+  duces the same torments as are caused by the air which enters
+  in ; the most severe of all, when gathering and swelling up
+  around the sinews and the blood-vessels in these parts it strains
+  the tendons of the shoulders and the muscles attached to them
+  in a backward direction : and owing to the intense strain pro-
+  duced in this condition these affections are called tetanus and
+  opisthotonus. For these the remedy is severe : for in fact fevers
+  supervening chiefly give relief in such cases. The white phlegm
+  when intercepted is dangerous owing to the air in the bubbles :
+  but when it finds an escape to the surface of the body it is more
+  mild ; yet it disfigures the person by engendering scabs and
+  leprosies and kindred maladies. Sometimes it is mingled with
+  black bile and is shed upon the revolutions in the head, which
+  are the most divine, and confounds them ; and if this occurs
+  during sleep, the effects are milder, but if in the waking hours, it
+  is harder to relieve. This, as affecting the sacred part, is justly
+  called the sacred disease. Acid and saline phlegm is the source
+  of all diseases that take the form of catarrh : and these have
+  received manifold names according to the diverse places in
+  which the discharge takes place. Inflammations in various parts
+  of the body, so called from the heat and burning that occurs,
+  are all due to bile. When they have egress, they seethe up and
+  send forth all kinds of pustules ; but if they are suppressed
+  within, they cause many inflammatory diseases ; of which the
+  worst is when the inflammation entering into pure blood carries
+  away from its proper place the fibrine which was distributed
+  through the blood in order that it might preserve a due measure
+  of thinness and thickness and neither be so much liquefied by
+  heat as to flow out through the porous texture of the body, nor
+  become sluggish from excessive density and circulate with
+  difficulty in the veins. Now the fibrine by the nature of its
+  composition preserves the due mean in these respects. For if
+  from blood that is dead and beginning to cool the fibrine be
+  gathered apart, the rest of the blood is dissipated ; but if the
+  fibrine be allowed to remain, by the help of the cold air sur-
+  rounding, it quickly congeals it. The fibrine then in the blood
+  having this property, bile which is naturally formed of old blood
+  and is dissolved again into blood out of the flesh, enters warm
+  and liquid into the blood, at first gradually, and is condensed by
+  the power of the fibrine ; and as it is condensed and forced to
+  cool, it produces internal chill and shivering. But when a
+  greater quantity flows in, it subdues the fibrine with its heat,
+  and boiling up scatters it abroad ; and if it is able to obtain the
+  mastery to the end, it penetrates to the substance of the marrow,
+  and consuming it looses from thence the bonds of the soul, as it
+  were the moorings of a ship, and sets her free. But when the
+  bile is too feeble for this, and the body holds out against the
+  dissolution, itself is vanquished, and either is expelled by an
+  eruption over the whole body, or is driven through the veins
+  into the lower or upper belly, like an exile banished from a city
+  that has been at civil war ; and as it issues forth from the body,
+  it causes diarrhoea and dysentery and all diseases of that kind.
+  When a body has been stricken with sickness chiefly through
+  excess of fire, it exhibits continued inflammations and fevers ;
+  excess of air causes quotidian fevers ; excess of water tertian,
+  because it is more sluggish than air or fire ; excess of earth,
+  which is by four measures most sluggish of all, being purged
+  in a fourfold period of time, gives rise to quartan fevers, and is
+  with difficulty banished.
+
+  XLI. Such are the conditions connected with diseases of the
+  body; those of the soul depend upon bodily habit in the following
+  way. We must allow that disease of the soul is senselessness; and
+  of this there are two forms, madness and stupidity. Every con-
+  dition then in which a man suffers from either of these must be
+  termed a disease. We must also affirm that the gravest maladies
+  of the soul are excessive pleasures or pains. For if a man is
+  under the influence of excessive joy, o,r, on the other hand, of
+  extreme pain, and is eager unduly to grasp the one or shun the
+  other, he is able neither to see nor to hear anything aright ; he is
+  delirious, and at that moment entirely unable to obey reason.
+
+  In whomsoever the seed in the region of the marrow is abundant
+  and fluid and like a tree that is fruitful beyond due measure, he
+  feels from time to time many a sore pang and many a delight
+  amid his passions and their fruits ; and he becomes mad for the
+  greater part of his life owing to the intensity of pleasures and
+  pains, keeping his soul in a state of disease and derangement
+  through the power of the body ; he is not however regarded as
+  sick, but as willingly vicious. But the truth is that incontinence
+  in sensual pleasures is a disease of the soul for the most part
+  arising from the fluid and moist condition of one element in
+  the body owing to porousness of the bones. So it is too with
+  nearly all intemperance in pleasure ; and the reproach attaching
+  thereto, as if men were willingly vicious, is incorrectly brought
+  against them. For no one is willingly wicked ; but it is owing
+  to some bad habit of body and unenlightened training that the
+  wicked man becomes wicked ; and these are always unwelcome
+  and imposed against his will. And where pains are concerned,
+  the soul likewise derives much evil from the body. For where
+  the humours of acid and salt phlegms and those that are bitter
+  and bilious roam about the body and find no outlet to the sur-
+  face, but being pent up within and blending their own exhala-
+  tions with the movement of the soul are mingled therewith, they
+  induce all kinds of mental diseases, more or less violent and
+  serious : and rushing to the three regions of the soul, in the part
+  which each attacks they multiply manifold forms of moroseness
+  and melancholy, of rashness and timidity, of forgetfulness and
+  dulness. And when, besides these vicious conditions, there are
+  added bad governments and bad principles maintained in public
+  and private speech ; when moreover no studies to be an antidote
+  are pursued from youth up, then it is that all of us who are
+  wicked become so, owing to two causes entirely beyond our own
+  control. The blame must lie rather with those who train than
+  with those who are trained, with the educators than the educa-
+  ted : however we must use our utmost zeal by education, pur-
+  suits, and studies to shun vice and embrace virtue. This subject
+  however belongs to a different branch of inquiry.
+
+  XLII. The counterpart to what has been said, the treatment
+  of body and mind and the principles by which they are pre-
+  served, were the proper and fitting complement of our dis-
+  course : for it is more just to dwell upon good than upon evil.
+  All that is good is fair, and what is fair is not disproportionate.
+  Accordingly an animal that is to be fair must, we affirm, be
+  well-proportioned. Now the smaller proportions we discern and
+  reason upon them ; but of the greatest and most momentous we
+  take no account. For in view of health and sickness and virtue
+  and vice no proportion or disproportion is more important than
+  that existing between body and soul themselves : yet we pay no
+  heed to these, nor do we reflect that if a feebler and smaller
+  frame be the vehicle of a soul that is strong and mighty in all
+  respects; or if the relation between the two be reversed, then
+  the entire creature is not fair ; for it is defective in the most
+  essential proportions. But the opposite condition is to him who
+  can discern it of all sights the fairest and loveliest. For ex-
+  ample, a body which possesses legs of excessive length or which
+  is unsymmetrical owing to any other disproportion, is not only
+  ugly, but in taking its share of labour brings infinite distress
+  on itself, suffering frequent fatigue and spasms, and often falling
+  in consequence of inability to control its motions: the same
+  then we must suppose to hold good of the combination of soul
+  and body which we call an animal ; when the soul in it is more
+  powerful than the body and of ardent temperament, she agitates it
+  and fills it from within with sickness; and when she impetuously
+  pursues some study or research, she wastes the body away :
+  and in giving instruction and conducting discussions private or
+
+  public in a spirit of contention and rivalry, she inflames and
+  weakens its fabric and brings on chills ; and thus deceiving most
+  of the so-called physicians induces them to assign causes for the
+  malady which are really in no way concerned with it. When on
+  the other hand a large body, too great for the soul, is joined
+  with a small and feeble mind, two kinds of appetites being
+  natural to mankind, on account of the body a craving for nourish-
+  ment and on account of the divinest part of us for knowledge
+  the motions of the stronger prevail and strengthen their faculty,
+  but that of the soul they render dull and slow of learning and of
+  recollection, and so produce stupidity, the most grievous of
+  maladies. There is but one safeguard against both these mis-
+  fortunes : neither should the soul be exercised without the body
+  nor the body without the soul, in order that they may be a
+  match for each other and attain balance and health. So the
+  mathematician, or whosoever is intensely absorbed in any intel-
+  lectual study, must allow corresponding exercise to his body,
+  submitting to athletic training ; while he who is careful in forming
+  his body must in turn give due exercise to his soul, calling in
+  the aid of art and of all philosophy, if he is justly to be called
+  at once fair and in the true sense good. The same treatment
+  too should be applied to the separate parts, in imitation of the
+  fashion of the All. For as the body is inflamed and cooled
+  within by the particles that enter, and again is dried and
+  moistened by those that are outside, and by the agency of these
+  two forces suffers all that ensues upon these conditions, if we
+  submit the body passively to the forces aforesaid, it is overcome
+  and destroyed : but if we imitate what we have called the fostress
+  and nurse of the All, and allow the body, if possible, never to be
+  inactive, but keep it astir and, exciting continual vibrations in it,
+  furnish it with the natural defence against the motions from
+  without and within ; and by moderately exercising it bring into
+  orderly relation with each other according to their affinities
+  the affections and particles that are going astray in the body ;
+  then, as we have already described in speaking of the universe,
+  we shall not suffer mutually hostile particles to be side by side
+  and to engender discord and disease in the body, but we shall
+  set friend beside friend so as to bring about a healthy state.
+  Of all motions that which arises in any body by its own action
+  is the best (for it is most nearly allied to the motion of thought
+  and of the All), but that which is brought about by other
+  agency is inferior ; and the worst of all is that which, while the
+  body is lying still, is produced by other agents which move
+  it piecemeal. Accordingly of all modes of purifying and
+  restoring the body gymnastic is the best ; the next best is
+  any swinging motion such as of sailing or any other con-
+  veyance of the body which does not tire it: a third kind is
+  useful sometimes under absolute necessity, but in no other cir-
+  cumstances should be employed by a judicious person, I mean
+  medical purgation effected by drugs. No disease, not in-
+  volving imminent danger, should be irritated by drugs. For
+  every form of sickness has a certain correspondence to the
+  nature of living creatures. Their constitution is so ordered as
+  to have definite periods of life both for the kind and for the
+  individual, which has its own fixed span of existence, always
+  excepting inevitable accidents. For the triangles of each
+  creature are composed at the very outset with the capacity of
+  holding out for a certain definite time ; beyond which its life
+  cannot be prolonged. The same applies also to the constitution
+  of diseases ; if these are interfered with by medicine to the dis-
+  regard of their appointed period, it often happens that a few
+  slight maladies are rendered numerous and grave. Wherefore
+  we should guide all such sicknesses by careful living, so far as
+  we have time to attend to it, and not provoke a troublesome
+  mischief by medical treatment.
+
+  XLIII. Now so far as concerns the animate creature and
+  the bodily part of it, how a man, guiding the latter and by him-
+  self being guided, should live a most rational life, let this dis-
+  cussion suffice. But the part which is to guide the body must
+  beforehand be trained with still greater care to be most perfect
+  and efficient for education. To deal with this subject minutely
+  would in itself be a sufficient task : but if we may merely touch
+  upon it in conformity with our previous discourse, we should
+  find a consistent answer to the question from the following
+  reflections. As we have often said, three forms .of soul with
+  threefold functions are implanted in us, and each of these has its
+  proper motions. Accordingly we may say as briefly as possible
+  that whichever of these continues in idleness and keeps its own
+  motions inactive, this must needs become the weakest ; but that
+  which is in constant exercise waxes strongest : wherefore we
+  must see that they exercise their motions in due proportion.
+  As to the supreme form of soul that is within us, we must
+  believe that God has given it to each of us as a guiding genius
+  even that which we say, and say truly, dwells in the summit of
+  our body and raises us from earth towards our celestial affinity,
+  seeing we are of no earthly, but of heavenly growth : since to
+  heaven, whence in the beginning was the birth of our soul, the
+  diviner part attaches the head or root of us and makes our whole
+  body upright. Now whoso is busied with appetites or ambitions
+  and labours hard after these, all the thoughts of his heart must
+  be altogether mortal ; and so far as it is possible for him to be-
+  come utterly mortal, he falls no whit short of this ; for this is
+  what he has been fostering. But he whose heart has been set
+  on the love of learning and on true wisdom, and has chiefly
+  exercised this part of himself, this man must without fail have
+  thoughts that are immortal and divine, if he lay hold upon
+  the truth ; and so far as it lies in human nature to possess im-
+  mortality, he lacks nothing thereof; and seeing that he ever
+  cherishes the divinest part and keeps in good estate the guardian
+  spirit that dwells in him, he must be happy above all. And the
+  care of this is always the same for every man, to wit that he
+  assign to every part its proper exercise and nourishment. To
+  the divine part of us are akin the thoughts and revolutions of
+  the All : these every man should follow, restoring the revolu-
+  tions in the head, that are marred through our earthly birth, by
+  learning to know the harmonies and revolutions of the All, so as
+  to render the thinking soul like the object of its thought ac-
+  cording to her primal nature : and when he has made it like, so
+  shall he have the fulfilment of that most excellent life that was
+  set by the gods before mankind for time present and time to
+  come.
+
+  XLIV. Thus then the task laid upon us at the begin-
+  ning, to set forth the nature of the universe down to the gene-
+  ration of man, seems wellnigh to have reached its fulfilment.
+  For the manner of the generation of other animals we may deal
+  with in brief, so there be no need to speak at length : thus shall
+  we in our own eyes preserve due measure in our account of
+  them. Let us then state it in this way. Of those who were
+  born as men, such as were cowardly and spent their life in
+  unrighteousness, were, according to the probable account, trans-
+  formed into women at the second incarnation. At that time
+  the gods for these reasons invented the love of sexual inter-
+  course, in that they created one kind of animate nature in men
+  and another in women, which two they formed in the following
+  way. To the channel of the drink, where it receives the fluid
+  passing down through the lungs beneath the kidneys into the
+  bladder and sends it forth by pressure of the air, they opened a
+  passage into the column of marrow which runs from the head
+  down the neck and along the spine, and which we have already
+  termed the seed. This, being quick with soul and finding an
+  outlet, gave to the part where it found the outlet a lively desire
+  of egress and produced a longing to generate. Wherefore the
+  nature of the generative part in man is disobedient and head-
+  strong, like a creature that will not listen to reason, and en-
+  deavours to have all its will because of its frantic passions ; and
+  again for the same reason what is called the matrix and womb
+  in women, which is in them a living nature appetent of child-
+  bearing, when it is a long time fruitless beyond the due season,
+  is distressed and sorely disturbed, and straying about in the
+  body and cutting off the passages of the breath it impedes
+  respiration and brings the sufferer into the extremest anguish
+  and provokes all manner of diseases besides ; until the passion
+  and love of both unite them, and, as it were plucking fruit from
+  a tree, sow in the womb, as if in a field, living things invisible
+  for smallness and unformed, and again separating them nourish
+  them within till they grow large, and finally bringing them to
+  light complete the birth of a living creature. Such is the nature
+  of women and all that is female. The tribe of birds was trans-
+  formed, by growing feathers instead of hair, from men that were
+  harmless but light-minded ; who were students of the heavenly
+  bodies, but fancied in their simpleness that the demonstrations
+  were most sure concerning them which they obtained through
+  the sight. And the race of brutes that walk on dry land comes
+  from those who sought not the aid of philosophy at all nor
+  inquired into the nature of the universe, because they used no
+  longer the revolutions in the head, but followed as their guides
+  the parts of the soul that are in the breast. From these practices
+  their front limbs and their heads were by their natural affinity
+  drawn towards the ground and there supported ; and their heads
+  were lengthened out and took all sorts of forms, just as the orbits
+  in each were crushed out of shape through disuse. For the same
+  reason such races were made four-footed and many-footed ; for
+  God gave many props to the more senseless creatures, that
+  they might the more be drawn earthward. As to the most
+  senseless of all, whose whole bodies were altogether stretched
+  at length on the earth, seeing they had no longer any need
+  of feet, God made them footless to crawl upon the ground. And
+  the fourth class that lives in the water was formed of the most
+  utterly foolish and senseless of all, whom they that transfigured
+  them thought not worthy even of pure respiration, because their
+  soul was polluted with all manner of iniquity ; but in place of
+  inhaling the fine pure element of air they were thrust into the
+  turbid and lowly respiration of water. Hence is the tribe of
+  fishes and of all shell-fish that live in the water ; which have the
+  uttermost dwelling-place in penalty for the uttermost folly. In
+  such manner then and now all creatures change places one with
+  another, rising or falling with the loss or gain of understanding
+  or of folly.
+
+  And now let us declare that our discourse concerning this
+  All has reached its end. Having received all mortal and
+  immortal creatures and being therewithal replenished, this uni-
+  verse hath thus come into being, living and visible, containing
+  all things that are visible, the image of its maker, a god per-
+  ceptible, most mighty and good, most fair and perfect, even this
+  one and only-begotten world that is.
+  - effect ROLLINGCREDITS:
+    endGame: true
+    text:
+      - OpenTimaeus developed by
+      - null
+      - Anderson Evans
+      - and
+      - MODERN AEON
+      - null
+      - null
+      - WEBSITES
+      - opentimae.us
+      - modernaeon.com
+      - null
+      - null
+      - RenJS developed by
+      - lunafromthemoon

@@ -3,18 +3,62 @@ backgrounds:
   room: assets/backgrounds/room_day.jpg
   room_night: assets/backgrounds/room_night.jpg
   room_night_light: assets/backgrounds/room_night_light.jpg
-  school_morning: assets/backgrounds/school_corridor.jpg
-  school_afternoon: assets/backgrounds/school_corridor_afternoon.jpg
+  school_morning: assets/backgrounds/tim-alpha2.jpg
+  act_two_bg: assets/backgrounds/tim-alpha3.jpg
+  act_three_bg: assets/backgrounds/act-3-bg.jpg
+  school_afternoon: assets/backgrounds/tim-alpha3.jpg
   street_morning: assets/backgrounds/school_front_morning.jpg
   street_afternoon: assets/backgrounds/school_front_afternoon.jpg
   store: assets/backgrounds/store.jpg
 characters:
+  socrates:
+    displayName: Socrates
+    speechColour: "#ffffff"
+    looks:
+      normal: assets/characters/SocChar2.png
+      quiet: assets/characters/SocChar2.png
+      happy: assets/characters/SocChar.png
+      angry: assets/characters/SocChar.png
+      normalC: assets/characters/SocChar.png
+      happyC: assets/characters/SocChar.png
+      angryC: assets/characters/SocChar.png
+  timaeus:
+    displayName: Timaeus
+    speechColour: "#ffffff"
+    looks:
+      normal: assets/characters/TimChar.png
+      talk: assets/characters/TimChar2.png
+      happy: assets/characters/TimChar.png
+      angry: assets/characters/TimChar.png
+      normalC: assets/characters/TimChar.png
+      happyC: assets/characters/TimChar.png
+      angryC: assets/characters/TimChar.png
+  hermocrates:
+    displayName: Hermocrates
+    speechColour: "#ffffff"
+    looks:
+      normal: assets/characters/HermChar.png
+      happy: assets/characters/HermChar.png
+      angry: assets/characters/HermChar.png
+      normalC: assets/characters/HermChar.png
+      happyC: assets/characters/HermChar.png
+      angryC: assets/characters/HermChar.png
+  critias:
+    displayName: Critias
+    speechColour: "#ffffff"
+    looks:
+      normal: assets/characters/CritChar.png
+      happy: assets/characters/CritChar.png
+      angry: assets/characters/CritChar.png
+      normalC: assets/characters/CritChar.png
+      happyC: assets/characters/CritChar.png
+      angryC: assets/characters/CritChar.png
   deuzi:
     displayName: Deuzilene
     speechColour: "#ca90cf"
     looks:
       normal: assets/characters/Char3NormalSchool.png
-      happy: assets/characters/Char3HappySchool.png
+      happy: assets/characters/SocChar.png
       angry: assets/characters/Char3AngrySchool.png
       normalC: assets/characters/Char3Normal.png
       happyC: assets/characters/Char3Happy.png
@@ -82,7 +126,7 @@ cgs:
   lessonGUIMenu: assets/lessons/lessonGUIMenu.png
   lessonGUISliders: assets/lessons/lessonGUISliders.png
 music:
-  rollingCredits: assets/audio/Evan_Schaeffer_-_01_-_Aqueduct.mp3
+  rollingCredits: assets/audio/littlebroth.mp3
   morningBGM: assets/audio/Evan_Schaeffer_-_03_-_Glow.mp3
   storeBGM: assets/audio/Evan_Schaeffer_-_18_-_Big_Tree.mp3
   cicadas: assets/audio/Cicada.mp3

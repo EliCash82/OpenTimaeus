@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'audimat-mono';
-  src: url('audimat-mono.ttf');
-  src: url('audimat-mono.ttf').format('truetype');
+  font-family: 'PressStart2P-Regular';
+  src: url('PressStart2P-Regular.ttf');
+  src: url('PressStart2P-Regular.ttf').format('truetype');
   font-weight: normal;
   font-style: normal;
 }
