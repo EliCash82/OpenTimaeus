@@ -6,6 +6,7 @@ backgrounds:
   school_morning: assets/backgrounds/tim-alpha2.jpg
   act_two_bg: assets/backgrounds/tim-alpha3.jpg
   act_three_bg: assets/backgrounds/act-3-bg.jpg
+  act_four_bg: assets/backgrounds/act-4-bg.jpg
   school_afternoon: assets/backgrounds/tim-alpha3.jpg
   street_morning: assets/backgrounds/school_front_morning.jpg
   street_afternoon: assets/backgrounds/school_front_afternoon.jpg
@@ -37,22 +38,24 @@ characters:
     displayName: Hermocrates
     speechColour: "#ffffff"
     looks:
-      normal: assets/characters/HermChar.png
-      happy: assets/characters/HermChar.png
-      angry: assets/characters/HermChar.png
-      normalC: assets/characters/HermChar.png
-      happyC: assets/characters/HermChar.png
-      angryC: assets/characters/HermChar.png
+      normal: assets/characters/HermChar2.png
+      talk: assets/characters/HermChar.png
+      happy: assets/characters/HermChar2.png
+      angry: assets/characters/HermChar2.png
+      normalC: assets/characters/HermChar2.png
+      happyC: assets/characters/HermChar2.png
+      angryC: assets/characters/HermChar2.png
   critias:
     displayName: Critias
     speechColour: "#ffffff"
     looks:
-      normal: assets/characters/CritChar.png
-      happy: assets/characters/CritChar.png
-      angry: assets/characters/CritChar.png
-      normalC: assets/characters/CritChar.png
-      happyC: assets/characters/CritChar.png
-      angryC: assets/characters/CritChar.png
+      normal: assets/characters/CritChar2.png
+      talk: assets/characters/CritChar.png
+      happy: assets/characters/CritChar2.png
+      angry: assets/characters/CritChar2.png
+      normalC: assets/characters/CritChar2.png
+      happyC: assets/characters/CritChar2.png
+      angryC: assets/characters/CritChar2.png
   deuzi:
     displayName: Deuzilene
     speechColour: "#ca90cf"

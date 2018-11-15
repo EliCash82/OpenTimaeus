@@ -14,43 +14,43 @@ start:
   - show socrates: happy AT CENTER WITH MOVE
   - socrates says: Then it is for you and your companions, is it not,
   - socrates says: to fulfil the part of our absent friend?
-  - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show socrates: quiet AT LEFT WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Unquestionably; and we will omit nothing that lies in our power.
   - timaeus says: For indeed it would not be fair, seeing how well we were entertained
   - timaeus says: by you yesterday, that the rest of us should not heartily requite you
   - timaeus says: with a fitting return of hospitality.
-  - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show timaeus: happy AT RIGHT WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: Do you remember the extent and scope of the subjects I appointed for
   - socrates says: your discussion?
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: In part we remember; and whatever we have
   - timaeus says: forgotten, you are here to aid our memory. But I should
   - timaeus says: prefer, if it is not troublesome, that you should briefly recapitu-
   - timaeus says: late them from beginning to end, that they may be more firmly
   - timaeus says: fixed in our minds.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: I will. The main subject of my discourse
   - socrates says: yesterday was a political constitution, and the kind of prin-
   - socrates says: ciples and citizens which seemed to me likely to render it most
   - socrates says: perfect.
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Yes, and what you said, Socrates, was very much
   - timaeus says: to the satisfaction of us all.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: Was not our first step to separate the agricultural
   - socrates says: class and tradesmen in general from those who were to be the
   - socrates says: defenders of our state?
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says:  It was.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: And in assigning on natural principles but one
   - socrates says: single pursuit or craft which was suited to each citizen severally,
   - socrates says: we declared that those whose duty it was to fight on behalf of
@@ -60,30 +60,30 @@ start:
   - socrates says: subjects and natural friends, but show themselves stern to the
   - socrates says: enemies they met in battle.
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Quite true.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: For we described, I think, a certain temperament
   - socrates says: which the souls of our guardians must possess, combining in a
   - socrates says: peculiar degree high spirit and thoughtfulness, that they might
   - socrates says: be able to show a due measure of mildness or sternness to friend
   - socrates says: or foe.
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
-  - show timaeus: AT RIGHT WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
+  - show timaeus: talk AT RIGHT WITH MOVE
   - show socrates: AT CENTER WITH MOVE
   - timaeus says: Yes.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: And what of their training? were they not to
   - socrates says: have been trained in gymnastic and music and all studies which
   - socrates says: are connected with these?
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Just so.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: And those who had undergone this discipline, we
   - socrates says: said, must not consider that they have any private property in
   - socrates says: gold or silver or anything else whatsoever, but as auxiliaries
@@ -93,19 +93,19 @@ start:
   - socrates says: with one another, devoting themselves perpetually to the pursuit
   - socrates says: of virtue and relieved from all other occupations.
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: That also is the way it was put.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: Moreover with regard to women we observed that
   - socrates says: their natures must be brought into harmonious similarity with
   - socrates says: those of men, and that the same employments must be assigned
   - socrates says: to them all both in war and in their general mode of life.
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Yes, that was what we said.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: And what were our rules concerning the pro-
   - socrates says: creation of children ? This, I think, is easy of recollection
   - socrates says: because of the novelty of our scheme. We ordained that the
@@ -117,11 +117,11 @@ start:
   - socrates says: and grandparents, and those after them as children and children's
   - socrates says: children.
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Yes, it is very easy to remember this too as you
   - timaeus says: describe it.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: Next with a view to securing immediately the
   - socrates says: utmost possible perfection in their natures, do we not remember
   - socrates says: that it was incumbent on the rulers of both sexes to make
@@ -131,10 +131,10 @@ start:
   - socrates says: the allotment?
   - socrates says: arise among them, supposing as they would that chance governed
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: We remember that.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: And the offspring of the good we said must be
   - socrates says: reared, while that of the bad was to be secretly dispersed among
   - socrates says: the other classes of the state ; and continually observing them
@@ -142,19 +142,19 @@ start:
   - socrates says: were worthy, and in the places of those so promoted substitute
   - socrates says: the unworthy in their own rank.
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Quite so.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - socrates says: Have we now said enough for a summary re-
   - socrates says: capitulation of yesterday's discourse ? or do we feel that any-
   - socrates says: thing is lacking, my dear Timaeus, to our account?
   - show socrates: AT LEFT WITH MOVE
-  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER WITH MOVE
   - timaeus says: Not at all - you have exactly described what was
   - timaeus says: said, Socrates.
   - show timaeus: AT RIGHT WITH MOVE
-  - show socrates: AT CENTER WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
   - hide school_morning: WITH FADE
   - show act_two_bg: WITH FADE
   - socrates says: Listen then and I will tell you in the next
@@ -209,7 +209,7 @@ start:
   - socrates says: reason '. I am here then ready for it in festal array, and never
   - socrates says: was there a more eager guest.
   - show socrates: AT CENTER WITH MOVE
-  - show hermocrates: AT LEFT WITH FADE
+  - show hermocrates: talk AT LEFT WITH FADE
   - hermocrates says: Indeed, Socrates, as Timaeus said, there will
   - hermocrates says: be no lack of zeal on our part, nor can we attempt to excuse
   - hermocrates says: ourselves from performing the task. In fact yesterday imme-
@@ -224,15 +224,17 @@ start:
   - show socrates: AT RIGHT WITH MOVE
   - show hermocrates: AT CENTER WITH MOVE
   - show critias: AT LEFT WITH FADE
+  - show critias: talk AT LEFT
   - critias says: So be it, if our third partner Timaeus agrees.
   - hide critias: WITH FADE
   - show hermocrates: AT LEFT WITH MOVE
   - show socrates: AT CENTER WITH MOVE
-  - show timaeus: AT RIGHT WITH FADE
+  - show timaeus: talk AT RIGHT WITH FADE
   - timaeus says: I quite agree.
+  - show timaeus: AT RIGHT
   - hide hermocrates: WITH FADE
   - show socrates: AT CENTER WITH MOVE
-  - show critias: AT LEFT WITH FADE
+  - show critias: talk AT LEFT WITH FADE
   - critias says: Listen then, Socrates, to a tale which, strange
   - critias says: though it be, is yet perfectly true, as Solon, the wisest of the
   - critias says: seven, once affirmed. He was a relation and dear friend of
@@ -246,6 +248,8 @@ start:
   - critias says: our debt of gratitude to you and worthily and truly extol
   - critias says: the goddess in this her festival by a kind of hymn in her
   - critias says: honour.
+  - show critias: AT LEFT
+  - show socrates: happy AT CENTER
   - socrates says: A good proposal. But what was this deed which
   - socrates says: Critias described on the authority of Solon as actually performed
   - socrates says: of old by this city, though unrecorded in history?
@@ -253,7 +257,7 @@ start:
   - show act_three_bg: WITH FADE
   - hide timaeus: WITH FADE
   - hide socrates: WITH FADE
-  - show critias: AT CENTER WITH MOVE
+  - show critias: talk AT CENTER WITH MOVE
   - critias says: I will tell an ancient story that I heard from
   - critias says: a man no longer young. For Critias was then, as he said, hard
   - critias says: upon ninety years of age, while I was about ten. It happened
@@ -437,6 +441,83 @@ start:
   - critias says: beneath the sea and vanish away. Wherefore to this day the
   - critias says: there is impassable and unsearchable, being blocked by
   - critias says: very shallow shoals, which the island caused as she settled down.
+  - show critias: normal AT CENTER
+  - hide act_three_bg: WITH FADE
+  - show act_four_bg: WITH FADE
+  - show critias: talk AT CENTER
+  - critias says: IV. You have heard this brief statement, Socrates, of what
+  - critias says: the ancient Kritias reported that he heard from Solon -- and
+  - critias says: when you were speaking yesterday about the polity and the
+  - critias says: men whom you described, I was amazed as I called to mind the
+  - critias says: story I have just told you, remarking how by some miraculous
+  - critias says: coincidence most of your account agreed unerringly with the
+  - critias says: description of Solon. I was unwilling however to say anything
+  - critias says: at the moment, for after so long a time my memory was at
+  - critias says: fault. I conceived therefore that I must not speak until I had
+  - critias says: thoroughly gone over the whole story by myself. Accordingly
+  - critias says: I was quick to accept the task you imposed on us yesterday,
+  - critias says: thinking that for the most arduous part of all such undertakings,
+  - critias says: I mean supplying a story fitly corresponding to our intentions,
+  - critias says: we should be fairly well provided. So then, as Hermokrates
+  - critias says: said, as soon as ever I departed hence yesterday, I began to
+  - critias says: repeat the legend to our friends as I remembered it; and when
+  - critias says: I got home I recovered nearly the whole of it by thinking it
+  - critias says: over at night. How true is the saying that what we learn in
+  - critias says: childhood has a wonderful hold on the memory. Of what I
+  - critias says: heard yesterday I know not if I could call to mind the whole -
+  - critias says: but though it is so very long since I heard this tale, I should be
+  - critias says: surprised if a single point in it has escaped me. It was with
+  - critias says: much boyish delight that I listened at the time, and the
+  - critias says: old man was glad to instruct me, (for I asked a great many
+  - critias says: questions) ; so that it is indelibly fixed in my mind, like those
+  - critias says: encaustic pictures which cannot be effaced. And I narrated the
+  - critias says: story to the rest the first thing in the morning, that they might
+  - critias says: share my affluence of words. Now therefore, to return to the
+  - critias says: object of all our conversation, I am ready to speak, Socrates,
+  - critias says: not only in general terms, but entering into details, as I heard it.
+  - critias says: The citizens and the city which you yesterday described to us
+  - critias says: as in a fable we will transfer to the sphere of reality and to
+  - critias says: our own country, and we will suppose that ancient Athens is
+  - critias says: your ideal commonwealth, and say that the citizens whom you
+  - critias says: imagined are those veritable forefathers of ours of whom the
+  - critias says: priest spoke. They will fit exactly, and there will be nothing
+  - critias says: discordant in saying that they were the men who lived in those
+  - critias says: days. And dividing the work between us we will all endeavour
+  - critias says: to render an appropriate fulfilment of your injunctions. So you
+  - critias says: must consider, Socrates, whether this story of ours satisfies you,
+  - critias says: or whether we must look for another in its stead.
+  - show critias: AT LEFT WITH MOVE
+  - show socrates: happy AT CENTER WITH FADE
+  - socrates says: How could we change it for the better, Kritias ?
+  - socrates says: It is specially appropriate to this festival of the goddess, owing
+  - socrates says: to its connexion with her ; while the fact that it is no fictitious
+  - socrates says: tale but a true history is surely a great point. How shall we
+  - socrates says: find other such citizens if we relinquish these ? It cannot be -
+  - socrates says: so with Fortune's favour do you speak on, while I in requital for
+  - socrates says: my discourse of yesterday have in my turn the privilege of
+  - socrates says: listening in silence.
+  - show socrates: AT RIGHT WITH MOVE
+  - show critias: talk AT CENTER WITH MOVE
+  - critias says: Now consider, Socrates, how we proposed to dis-
+  - critias says: tribute your entertainment. We resolved that Timaeus, who is
+  - critias says: the best astronomer among us, and who has most of all made it
+  - critias says: his business to understand universal nature, should speak first,
+  - critias says: beginning with the origin of the universe, and should end with
+  - critias says: the birth of mankind - and that I should follow, receiving from
+  - critias says: him mankind brought to being in theory, and from you a por-
+  - critias says: tion of them exceptionally cultivated ; and that in accordance
+  - critias says: with Solon's laws, no less than with his statement, I should
+  - critias says: introduce them before our tribunal and make them our fellow-
+  - critias says: citizens, as being the Athenians of bygone days, whom the
+  - critias says: declaration of the sacred writings has delivered from their
+  - critias says: oblivion ; and thenceforward we shall speak as if their claim to
+  - critias says: Athenian citizenship were fairly established.
+  - show critias: AT LEFT WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
+  - socrates says: Ample and splendid indeed, it seems, will be the
+  - socrates says: banquet of discourse which I am to receive in my turn. So it
+  - socrates says: would seem to be your business to speak next, Timaeus, after
+  - socrates says: you have duly invoked the gods.
   - effect ROLLINGCREDITS:
     endGame: true
     text:
