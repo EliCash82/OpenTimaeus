@@ -209,7 +209,8 @@ start:
   - socrates says: reason '. I am here then ready for it in festal array, and never
   - socrates says: was there a more eager guest.
   - show socrates: AT CENTER WITH MOVE
-  - show hermocrates: talk AT LEFT WITH FADE
+  - show hermocrates: AT LEFT WITH FADE
+  - show hermocrates: talk AT LEFT
   - hermocrates says: Indeed, Socrates, as Timaeus said, there will
   - hermocrates says: be no lack of zeal on our part, nor can we attempt to excuse
   - hermocrates says: ourselves from performing the task. In fact yesterday imme-
@@ -220,6 +221,7 @@ start:
   - hermocrates says: better repeat now, Critias, to Socrates, that he may help us to
   - hermocrates says: judge whether it will answer the purpose for our present task or
   - hermocrates says: not.
+  - show hermocrates: AT LEFT
   - hide timaeus: WITH FADE
   - show socrates: AT RIGHT WITH MOVE
   - show hermocrates: AT CENTER WITH MOVE
@@ -229,12 +231,14 @@ start:
   - hide critias: WITH FADE
   - show hermocrates: AT LEFT WITH MOVE
   - show socrates: AT CENTER WITH MOVE
-  - show timaeus: talk AT RIGHT WITH FADE
+  - show timaeus: AT RIGHT WITH FADE
+  - show timaeus: talk AT RIGHT
   - timaeus says: I quite agree.
   - show timaeus: AT RIGHT
   - hide hermocrates: WITH FADE
   - show socrates: AT CENTER WITH MOVE
-  - show critias: talk AT LEFT WITH FADE
+  - show critias: AT LEFT WITH FADE
+  - show critias: talk AT LEFT
   - critias says: Listen then, Socrates, to a tale which, strange
   - critias says: though it be, is yet perfectly true, as Solon, the wisest of the
   - critias says: seven, once affirmed. He was a relation and dear friend of
@@ -446,7 +450,7 @@ start:
   - show act_four_bg: WITH FADE
   - show critias: talk AT CENTER
   - critias says: IV. You have heard this brief statement, Socrates, of what
-  - critias says: the ancient Kritias reported that he heard from Solon -- and
+  - critias says: the ancient Critias reported that he heard from Solon -- and
   - critias says: when you were speaking yesterday about the polity and the
   - critias says: men whom you described, I was amazed as I called to mind the
   - critias says: story I have just told you, remarking how by some miraculous
@@ -458,7 +462,7 @@ start:
   - critias says: I was quick to accept the task you imposed on us yesterday,
   - critias says: thinking that for the most arduous part of all such undertakings,
   - critias says: I mean supplying a story fitly corresponding to our intentions,
-  - critias says: we should be fairly well provided. So then, as Hermokrates
+  - critias says: we should be fairly well provided. So then, as Hermocrates
   - critias says: said, as soon as ever I departed hence yesterday, I began to
   - critias says: repeat the legend to our friends as I remembered it; and when
   - critias says: I got home I recovered nearly the whole of it by thinking it
@@ -488,7 +492,7 @@ start:
   - critias says: or whether we must look for another in its stead.
   - show critias: AT LEFT WITH MOVE
   - show socrates: happy AT CENTER WITH FADE
-  - socrates says: How could we change it for the better, Kritias ?
+  - socrates says: How could we change it for the better, Critias?
   - socrates says: It is specially appropriate to this festival of the goddess, owing
   - socrates says: to its connexion with her ; while the fact that it is no fictitious
   - socrates says: tale but a true history is surely a great point. How shall we
@@ -518,6 +522,1767 @@ start:
   - socrates says: banquet of discourse which I am to receive in my turn. So it
   - socrates says: would seem to be your business to speak next, Timaeus, after
   - socrates says: you have duly invoked the gods.
+  - hide critias: WITH FADE
+  - hide act_four_bg: WITH FADE
+  - show act_five_bg: WITH FADE
+  - show socrates: AT LEFT WITH MOVE
+  - show timaeus: AT RIGHT WITH FADE
+  - show timaeus: talk AT CENTER WITH MOVE
+  - timaeus says: Yes indeed, Socrates, that is what all do who
+  - timaeus says: possess the slightest share of judgment ; at the outset of every
+  - timaeus says: work, great or small, they always call upon a god - and seeing
+  - timaeus says: that we are going to enter on a discussion of the universe, how
+  - timaeus says: far it is created or perchance uncreate, unless we are altogether
+  - timaeus says: beside ourselves, we must needs invoke the gods and goddesses
+  - timaeus says: and pray above all that our discourse may be pleasing in their
+  - timaeus says: sight, next that it may be consistent with itself. Let it suffice
+  - timaeus says: then thus to have called upon the gods ; but we must call upon
+  - timaeus says: ourselves likewise to conduct the discourse in such a way that
+  - timaeus says: you will most readily comprehend me, and I shall most fully carry
+  - timaeus says: out my intentions in expounding the subject that is before us.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: First then in my judgment this distinction must be made.
+  - timaeus says: What is that which is eternally and has no becoming, and again
+  - timaeus says: what is that which comes to be but is never? The one is com-
+  - timaeus says: prehensible by thought with the aid of reason, ever changeless;
+  - timaeus says: the other opinable by opinion with the aid of reasonless sensa-
+  - timaeus says: tion, becoming and perishing, never truly existent. Now all
+  - timaeus says: that comes to be must needs be brought into being by some
+  - timaeus says: cause - for it is impossible for anything without a cause to
+  - timaeus says: attain to birth. Of whatsoever thing then the Artificer, looking
+  - timaeus says: ever to the changeless and using that as his model, works out
+  - timaeus says: the design and function, all that is so accomplished must needs
+  - timaeus says: be fair - but if he look to that which has come to be, using the
+  - timaeus says: created as his model, the work is not fair. Now as to the whole
+  - timaeus says: heaven or order of the universe for whatsoever name is most
+  - timaeus says: acceptable to it, be it so named by us we must first ask con-
+  - timaeus says: cerning it the question which lies at the outset of every inquiry,
+  - timaeus says: whether did it exist eternally, having no beginning of generation,
+  - timaeus says: or has it come into being, starting from some beginning? It
+  - timaeus says: has come into being - for it can be seen and felt and has body ;
+  - timaeus says: and all such things are sensible, and sensible things, apprehen-
+  - timaeus says: sible by opinion with sensation, belong, as we saw, to becoming
+  - timaeus says: and creation. We say that what has come to be must be
+  - timaeus says: brought into being by some cause. Now the maker and father
+  - timaeus says: of this All it were a hard task to find, and having found him, it
+  - timaeus says: were impossible to declare him to all men. However we must
+  - timaeus says: again inquire concerning him, after which of the models did the
+  - timaeus says: framer of it fashion the universe, after the changeless and abid-
+  - timaeus says: ing, or after that which has come into being? If now this
+  - timaeus says: niverse is fair and its Artificer good, it is plain that he looked
+  - timaeus says: to the eternal ; but if nay it may not even be uttered without
+  - timaeus says: impiety, then it was to that which has come into being. Now
+  - timaeus says: it is manifest to every one that he looked to the eternal - for the
+  - timaeus says: universe is fairest of all things that have come to be, and he is
+  - timaeus says: the most excellent of causes. And having come on this wise
+  - timaeus says: into being it has been created in the image of that which is
+  - timaeus says: comprehensible by reason and wisdom and changes never.
+  - timaeus says: Granting this, it must needs be that this universe is a likeness of
+  - timaeus says: something. Now it is all-important to make our beginning
+  - timaeus says: according to nature - and this affirmation must be laid down
+  - timaeus says: with regard to a likeness and its model, that the words must be
+  - timaeus says: akin to the subjects of which they are the interpreters - there-
+  - timaeus says: fore of that which is abiding and sure and discoverable by the
+  - timaeus says: aid of reason the words too must be abiding and unchanging,
+  - timaeus says: and so far as it lies in words to be incontrovertible and immova-
+  - timaeus says: ble, they must in no wise fall short of this ; but those which deal
+  - timaeus says: with that which is made in the image of the former and which is
+  - timaeus says: a likeness must be likely and duly corresponding with their
+  - timaeus says: subject - as being is to becoming, so is truth to belief. If then,
+  - timaeus says: Socrates, after so many men have said divers things concerning
+  - timaeus says: the gods and the generation of the universe, we should not prove
+  - timaeus says: able to render an account everywhere and in all respects con-
+  - timaeus says: sistent and accurate, let no one be surprised ; but if we can
+  - timaeus says: produce one as probable as any other, we must be content,
+  - timaeus says: remembering that I who speak and you my judges are but men -
+  - timaeus says: so that on these subjects we should be satisfied with the probable
+  - timaeus says: story and seek nothing further.
+  - show timaeus: AT RIGHT WITH MOVE
+  - show socrates: happy AT CENTER WITH MOVE
+  - socrates says: Quite right, Timaeus ; we must accept it exactly
+  - socrates says: as you say. Your prelude is exceedingly welcome to us, so
+  - socrates says: please proceed with the strain itself.
+  - hide act_five_bg: WITH FADE
+  - show act_six_bg: WITH FADE
+  - show socrates: AT LEFT WITH MOVE
+  - show timaeus: AT CENTER WITH MOVE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Let us declare then for what cause nature
+  - timaeus says: and this All was framed by him that framed it. He was good,
+  - timaeus says: and in none that is good can there arise jealousy of aught at
+  - timaeus says: any time. So being far aloof from this, he desired that all things
+  - timaeus says: should be as like unto himself as possible. This is that most
+  - timaeus says: sovereign cause of nature and the universe which we shall most
+  - timaeus says: surely be right in accepting from men of understanding. For
+  - timaeus says: God desiring that all things should be good, and that, so far as
+  - timaeus says: this might be, there should be nought evil, having received all
+  - timaeus says: that is visible not in a state of rest, but moving without harmony
+  - timaeus says: or measure, brought it from its disorder into order, thinking that
+  - timaeus says: this was in all ways better than the other. Now it neither has
+  - timaeus says: been nor is permitted to the most perfect to do aught but what
+  - timaeus says: is most fair. Therefore he took thought and perceived that of
+  - timaeus says: all things which are by nature visible, no work that is without
+  - timaeus says: reason will ever be fairer than that which has reason, setting
+  - timaeus says: whole against whole, and that without soul reason cannot dwell
+  - timaeus says: in anything. Because then he argued thus, in forming the
+  - timaeus says: universe he created reason in soul and soul in body, that he
+  - timaeus says: might be the maker of a work that was by nature most fair and
+  - timaeus says: perfect. In this way then we ought to affirm according to the
+  - timaeus says: probable account that this universe is a living creature in very
+  - timaeus says: truth possessing soul and reason by the providence of God.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Having attained thus far, we must go on to tell what follows -
+  - timaeus says: after the similitude of what animal its framer fashioned it. To
+  - timaeus says: none of these which naturally belong to the class of the partial
+  - timaeus says: must we deign to liken it - for nothing that is like to the im-
+  - timaeus says: perfect could ever become fair ; but that of which the other
+  - timaeus says: animals severally and in their kinds are portions, to this above
+  - timaeus says: all things we must declare that the universe is most like. For
+  - timaeus says: that comprehends and contains in itself all ideal animals, even as
+  - timaeus says: this universe contains us and all other creatures that have been
+  - timaeus says: formed to be visible. For since God desired to liken it most
+  - timaeus says: nearly to what is fairest of the objects of reason and in all respects
+  - timaeus says: perfect, he made it a single visible living being, containing within
+  - timaeus says: itself all animals that are by nature akin to it. Are we right
+  - timaeus says: then in affirming the universe to be one, or had it been more true
+  - timaeus says: to speak of a great and boundless number ? One it must be, if
+  - timaeus says: it is to be created according to its pattern. For that which
+  - timaeus says: comprehends all ideal animals that are could never be a second
+  - timaeus says: in company of another- for there must again exist another
+  - timaeus says: animal comprehending them, whereof the two would be parts,
+  - timaeus says: and no longer to them but to that which comprehended them
+  - timaeus says: should we more truly affirm the universe to have been likened.
+  - timaeus says: To the end then that in its solitude this universe might be like
+  - timaeus says: the all-perfect animal, the maker made neither two universes nor
+  - timaeus says: an infinite number ; but as it has come into being, this universe
+  - timaeus says: one and only-begotten, so it is and shall be for ever.
+  - show timaeus: AT CENTER
+  - hide act_six_bg: WITH FADE
+  - show act_seven_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now that which came into being must be material and
+  - timaeus says: such as can be seen and touched. Apart from fire nothing
+  - timaeus says: could ever become visible, nor without something solid could it
+  - timaeus says: be tangible, and solid cannot exist without earth - therefore did
+  - timaeus says: God when he set about to frame the body of the universe form
+  - timaeus says: it of fire and of earth. But it is not possible for two things
+  - timaeus says: to be fairly united without a third; for they need a bond between
+  - timaeus says: them which shall join them both. The best of bonds is that
+  - timaeus says: which makes itself and those which it binds as complete a unity
+  - timaeus says: as possible ; and the nature of proportion is to accomplish this
+  - timaeus says: most perfectly. For when of any three numbers, whether ex-
+  - timaeus says: pressing three or two dimensions, one is a mean term, so that as
+  - timaeus says: the first is to the middle, so is the middle to the last ; and con-
+  - timaeus says: versely as the last is to the middle, so is the middle to the first ; then
+  - timaeus says: since the middle becomes first and last, and the last and the first
+  - timaeus says: both become middle, of necessity all will come to be the same, and
+  - timaeus says: being the same with one another all will be a unity. Now if the
+  - timaeus says: body of the universe were to have been made a plane surface
+  - timaeus says: having no thickness, one mean would have sufficed to unify itself
+  - timaeus says: and the extremes ; but now since it behoved it to be solid,
+  - timaeus says: and since solids can never be united by one mean, but require two
+  - timaeus says: God accordingly set air and water betwixt fire and earth, and
+  - timaeus says: making them as far as possible exactly proportional, so that fire
+  - timaeus says: is to air as air to water, and as air is to water water is to earth,
+  - timaeus says: thus he compacted and constructed a universe visible and tangible.
+  - timaeus says: For these reasons and out of elements of this kind, four in
+  - timaeus says: number, the body of the universe was created, being brought
+  - timaeus says: into concord through proportion ; and from these it derived
+  - timaeus says: friendship, so that coming to unity with itself it became in-
+  - timaeus says: dissoluble by any force save the will of him who joined it.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now the making of the universe took up the whole bulk of
+  - timaeus says: each of these four elements. Of all fire and all water and air
+  - timaeus says: and earth its framer fashioned it, leaving over no part nor power
+  - timaeus says: without. Therein he had this intent - first that it might be
+  - timaeus says: that it might be one, seeing that nothing was left over whereof
+  - timaeus says: a creature perfect to the utmost with all its parts perfect; next
+  - timaeus says: another should be formed ; furthermore that it might be free
+  - timaeus says: from age and sickness ; for he reflected that when hot things
+  - timaeus says: and cold and all such as have strong powers gather round a
+  - timaeus says: composite body from without and fall unseasonably upon it,
+  - timaeus says: they undermine it, and bringing upon it sickness and age cause
+  - timaeus says: its decay. For such motives and reasons he fashioned it as one
+  - timaeus says: whole, with each of its parts whole in itself, so as to be perfect
+  - timaeus says: and free from age and sickness. And he assigned to it its
+  - timaeus says: proper and natural shape. To that which is to comprehend all
+  - timaeus says: animals in itself that shape seems proper which comprehends in
+  - timaeus says: itself all shapes that are. Wherefore he turned it of a rounded
+  - timaeus says: and spherical shape, having its bounding surface in all points at
+  - timaeus says: an equal distance from the centre - this being the most perfect
+  - timaeus says: and regular shape ; for he thought that a regular shape was
+  - timaeus says: infinitely fairer than an irregular. And all round about he
+  - timaeus says: finished off the outer surface perfectly smooth, for many
+  - timaeus says: reasons. It needed not eyes, for naught visible was left
+  - timaeus says: outside; nor hearing, for there was nothing to hear; and there
+  - timaeus says: was no surrounding air which made breathing needful. Nor
+  - timaeus says: must it have any organ whereby it should receive into itself its
+  - timaeus says: sustenance, and again reject that which was already digested ;
+  - timaeus says: for nothing went forth of it nor entered in from anywhere ; for
+  - timaeus says: there was nothing. For by design was it created to supply its
+  - timaeus says: own sustenance by its own wasting, and to have all its action
+  - timaeus says: and passion in itself and by itself - for its framer deemed that
+  - timaeus says: were it self-sufficing it would be far better than if it required
+  - timaeus says: aught else. And hands, wherewith it had no need to grasp
+  - timaeus says: aught nor to defend itself against another, he thought not fit idly
+  - timaeus says: to bestow upon it, nor yet feet, nor in a word anything to serve
+  - timaeus says: as the means of movement. For he assigned it that motion
+  - timaeus says: which was proper to its bodily form, of all the seven that which
+  - timaeus says: most belongs to reason and intelligence. Wherefore turning it
+  - timaeus says: about uniformly in the same spot on its own axis, he made it to
+  - timaeus says: revolve round and round ; but all the six motions he took away
+  - timaeus says: from it and left it without part in their wanderings. And since
+  - timaeus says: for this revolution there was no need of feet he made it without
+  - timaeus says: legs and without feet.
+  - show timaeus: AT CENTER
+  - hide act_seven_bg: WITH FADE
+  - show act_eight_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: So the universal design of the ever-living God, that
+  - timaeus says: he planned for the God that was some time to be, made its
+  - timaeus says: surface smooth and even, everywhere equally distant from the
+  - timaeus says: centre, a body whole and perfect out of perfect bodies. And
+  - timaeus says: God set soul in the midst thereof and spread her through all its
+  - timaeus says: body and even wrapped the body about with her from without,
+  - timaeus says: and he made it a sphere in a circle revolving, a universe one and
+  - timaeus says: alone ; but for its excellence it was able to be company to itself
+  - timaeus says: and needed no other, being sufficient for itself as acquaintance
+  - timaeus says: and friend. For all these things then he created it a happy god.
+  - timaeus says: But the soul was not made by God younger than the body,
+  - timaeus says: even as she comes later in this account we are essaying to give ;
+  - timaeus says: for he would not when he had joined them together have suffered
+  - timaeus says: the elder to be governed by the younger - but we are far too
+  - timaeus says: prone to a casual and random habit of mind which shows itself
+  - timaeus says: in our speech. God made soul in birth and in excellence
+  - timaeus says: earlier and elder than body, to be its mistress and governor ; and
+  - timaeus says: he framed her out of the following elements and in the following
+  - timaeus says: way. From the undivided and ever changeless substance and
+  - timaeus says: that which becomes divided in material bodies, of both these he
+  - timaeus says: mingled in the third place the form of Essence, in the midst
+  - timaeus says: between the Same and the Other; and this he composed on such
+  - timaeus says: wise between the undivided and that which is in material bodies
+  - timaeus says: divided ; and taking them, three in number, he blended them
+  - timaeus says: into one form, forcing the nature of the Other, hard as it was to
+  - timaeus says: mingle, into union with the Same. And mingling them with
+  - timaeus says: Essence and of the three making one, again he divided this into
+  - timaeus says: as many parts as was meet, each part mingled of Same and
+  - timaeus says: he took one portion from the whole ; then he went on to take a
+  - timaeus says: of Other and of Essence. And he began his dividing thus - first
+  - timaeus says: portion double of this ; and the third half as much again as the
+  - timaeus says: second and triple of the first; the fourth double of the second ;
+  - timaeus says: the fifth three times the third ; the sixth eight times the first,
+  - timaeus says: the seventh twenty-seven times the first. After that, he filled up
+  - timaeus says: the interval between the powers of two and of three by severing
+  - timaeus says: yet more from the original mass and placing it between them in
+  - timaeus says: such a manner that within each interval were two means, the
+  - timaeus says: first exceeding one extreme in the same proportion as it was
+  - timaeus says: exceeded by the other, the second by the same number exceed-
+  - timaeus says: ing the one as it was exceeded by the other. And whereas by
+  - timaeus says: these links there were formed in the original intervals new
+  - timaeus says: intervals of f and f and , he went on to fill up all the intervals
+  - timaeus says: of f with that of f, leaving in each a fraction over ; and the
+  - timaeus says: terms of the interval forming this fraction are in the numerical
+  - timaeus says: proportion of 2$6 to 243. By this time the mixture, whence he
+  - timaeus says: cut off these portions, was all used up. Next he cleft the
+  - timaeus says: structure so formed lengthwise into two halves, and laying the
+  - timaeus says: two so as to meet in the centre in the shape of the letter X, he
+  - timaeus says: bent them into a circle and joined them, causing them to meet
+  - timaeus says: themselves and each other at a point opposite to that of their
+  - timaeus says: original contact - and he comprehended them in the motion that
+  - timaeus says: revolves uniformly on the same axis, and one of the circles he
+  - timaeus says: made exterior and one interior. The exterior motion he named
+  - timaeus says: the motion of the Same, the interior that of the Other. And
+  - timaeus says: the circle of the Same he made revolve to the right by way of
+  - timaeus says: the side, that of the Other to the left by way of the diagonal.
+  - timaeus says: And he gave the supremacy to the motion of the same and
+  - timaeus says: uniform, for he left that single and undivided ; but the inner
+  - timaeus says: circle he cleft into seven unequal circles in the proportion of the
+  - timaeus says: double and triple intervals severally, each being three in number;
+  - timaeus says: and he appointed that the circles should move in opposite
+  - timaeus says: directions, three at the same speed, the other four differing
+  - timaeus says: in speed from the three and among themselves, yet moving in a
+  - timaeus says: due ratio.
+  - show timaeus: AT CENTER
+  - hide act_eight_bg: WITH FADE
+  - show act_nine_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now after that the framing of the soul was finished to
+  - timaeus says: the mind of him that framed her, next he fashioned within her
+  - timaeus says: all that is bodily, and he drew them together and fitted them
+  - timaeus says: middle to middle. And from the midst even unto the ends
+  - timaeus says: of heaven she was woven in everywhere and encompassed it
+  - timaeus says: around from without, and having her movement in herself
+  - timaeus says: she began a divine beginning of endless and reasonable life for
+  - timaeus says: ever and evermore. Now the body of the universe has been
+  - timaeus says: created visible ; but she is invisible, and she, even soul, has part
+  - timaeus says: in reason and in harmony. And whereas she is made by the
+  - timaeus says: best of all whereunto belong reason and eternal being, so she is
+  - timaeus says: the best of all that is brought into being. Therefore since she is
+  - timaeus says: formed of the nature of Same and of Other and of Being, of these
+  - timaeus says: three portions blended, in due proportion divided and bound
+  - timaeus says: together, and turns about and returns into herself, whenever she
+  - timaeus says: touches aught that has manifold existence or aught that has
+  - timaeus says: undivided, she is stirred through all her substance, and she tells
+  - timaeus says: that wherewith the thing is same and that wherefrom it is
+  - timaeus says: different, and in what relation or place or manner or time
+  - timaeus says: it comes to pass both in the region of the changing and in the
+  - timaeus says: region of the changeless that each thing affects another and
+  - timaeus says: is affected. This word of hers is true alike, whether it deal with
+  - timaeus says: Same or with Other, without voice or sound in the Self-moved
+  - timaeus says: arising ; and when she is busied with the sensible, and the circle
+  - timaeus says: of the Other, being true, announces it throughout all the soul,
+  - timaeus says: then are formed sure opinions and true beliefs ; and when she is
+  - timaeus says: busy with the rational, and the circle of the Same declares
+  - timaeus says: it, running smoothly, then reason and knowledge cannot but be
+  - timaeus says: made perfect. And in whatsoever existing thing these two are
+  - timaeus says: found, if a man affirm it is aught but soul, what he says will be
+  - timaeus says: anything rather than the truth.
+  - show timaeus: AT CENTER
+  - hide act_nine_bg: WITH FADE
+  - show act_ten_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: And when the father who begat it perceived the created
+  - timaeus says: image of the eternal gods, that it had motion and life, he re-
+  - timaeus says: joiced and was well pleased ; and he bethought him to make it
+  - timaeus says: yet more nearly like its pattern. Now whereas that is a living
+  - timaeus says: being eternally existent, even so he essayed to make this All the
+  - timaeus says: like to the best of his power. Now so it was that the nature of
+  - timaeus says: the ideal was eternal. But to bestow this attribute altogether
+  - timaeus says: upon a created thing was impossible ; so he bethought him to
+  - timaeus says: make a moving image of eternity, and while he was ordering
+  - timaeus says: the universe he made of eternity that abides in unity an eternal
+  - timaeus says: image moving according to number, even that which we have
+  - timaeus says: named time. For whereas days and nights and months and
+  - timaeus says: years were not before the universe was created, he then devised
+  - timaeus says: the generation of them along with the fashioning of the universe.
+  - timaeus says: Now all these are portions of time, and was and shall be are
+  - timaeus says: forms of time that have come to be, although we wrongly
+  - timaeus says: ascribe them unawares to the eternal essence. For we say that
+  - timaeus says: it was and is and shall be, but in verity is alone belongs to it -
+  - timaeus says: and was and shall be it is meet should be applied only to
+  - timaeus says: Becoming which moves in time ; for these are motions. But
+  - timaeus says: that which is ever changeless without motion must not become
+  - timaeus says: elder or younger in time, neither must it have become so in the
+  - timaeus says: past nor be so in the future ; nor has it to do with any attributes
+  - timaeus says: that Becoming attaches to the moving objects of sense - these
+  - timaeus says: have come into being as forms of time, which is the image of
+  - timaeus says: eternity and revolves according to number. Moreover we say
+  - timaeus says: that the become is the become, and the becoming is the be-
+  - timaeus says: coming, and that which shall become is that which shall become,
+  - timaeus says: and not-being is not-being. In all this we speak incorrectly.
+  - timaeus says: But concerning these things the present were perchance not the
+  - timaeus says: right season to inquire particularly.
+  - show timaeus: AT CENTER
+  - hide act_ten_bg: WITH FADE
+  - show act_eleven_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Time then has come into being along with the universe,
+  - timaeus says: that being generated together, together they may be dissolved,
+  - timaeus says: should a dissolution of them ever come to pass ; and it was
+  - timaeus says: made after the pattern of the eternal nature, that it might be as
+  - timaeus says: like to it as was possible. For the pattern is existent for all
+  - timaeus says: eternity ; but the copy has been and is and shall be throughout
+  - timaeus says: all time continually. So then this was the plan and intent of
+  - timaeus says: God for the generation of time ; the sun and the moon and five
+  - timaeus says: other stars which have the name of planets have been created
+  - timaeus says: for defining and preserving the numbers of time. And when
+  - timaeus says: God had made their several bodies, he set them in the orbits
+  - timaeus says: wherein the revolution of the Other was moving, in seven circles
+  - timaeus says: seven stars. The moon he placed in that nearest the earth, and
+  - timaeus says: in the second above the earth he set the sun ; and the morning-
+  - timaeus says: star and that which is held sacred to Hermes he assigned to
+  - timaeus says: those that moved in an orbit having equal speed with the sun,
+  - timaeus says: but having a contrary tendency - wherefore the sun and Hermes
+  - timaeus says: and the morning star in like manner overtake and are over-
+  - timaeus says: taken one by another. And as to the rest, were we to set forth
+  - timaeus says: all the orbits wherein he put them and the causes wherefore he
+  - timaeus says: did so, the account, though only by the way, would lay on us a
+  - timaeus says: heavier task than that which was our chief object in giving it.
+  - timaeus says: These things perhaps may hereafter, when we have leisure, find
+  - timaeus says: a fitting exposition.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: But when each of the beings which were to join in creating
+  - timaeus says: time had arrived in its proper orbit, and had been generated as
+  - timaeus says: animate creatures, their bodies secured with living bonds, and
+  - timaeus says: had learnt their appointed task ; then in the motion of the
+  - timaeus says: Other, which was slanting and crossed the motion of the Same
+  - timaeus says: and was thereby controlled, whereas one of these planets had a
+  - timaeus says: larger, another a smaller circuit, the lesser orbit was completed
+  - timaeus says: more swiftly, the larger more slowly - but because of the motion
+  - timaeus says: of the Same those which revolved most swiftly seemed to be
+  - timaeus says: overtaken by those that went more slowly, though really they
+  - timaeus says: overtook them. For the motion of the Same, twisting all their
+  - timaeus says: circles into spirals, because they have a separate and simul-
+  - timaeus says: taneous motion in the opposite way, being of all the swiftest
+  - timaeus says: displays closest to itself that which departs most slowly from
+  - timaeus says: it. And that there might be some clear measure of the relative
+  - timaeus says: swiftness and slowness with which they moved in their eight
+  - timaeus says: revolutions, God kindled a light in the second orbit from the
+  - timaeus says: earth, which we now have named the sun, in order that it might
+  - timaeus says: shine most brightly to the ends of heaven, and that living
+  - timaeus says: things, so many as was meet, should possess number, learning it
+  - timaeus says: from the motion of the same and uniform. Night then and day
+  - timaeus says: have been created in this manner and for these causes ; and
+  - timaeus says: this is one revolution of the undivided and most intelligent
+  - timaeus says: circuit ; and a month is fulfilled when the moon, after com-
+  - timaeus says: pleting her own orbit, overtakes the sun ; a year, when the sun
+  - timaeus says: has completed his own course. But the courses of the others
+  - timaeus says: men have not taken into account, save a few out of many ; and
+  - timaeus says: they neither give them names nor measure them against one
+  - timaeus says: another, comparing them by means of numbers nay I may
+  - timaeus says: say they do not know that time arises from the wanderings of
+  - timaeus says: these, which are incalculable in multitude and marvellously
+  - timaeus says: intricate. None the less however can we observe that the
+  - timaeus says: perfect number of time fulfils the perfect year at the moment
+  - timaeus says: when the relative swiftnesses of all the eight revolutions ac-
+  - timaeus says:   complish their course together and reach their starting-point,
+  - timaeus says: being measured by-the circle of the same and uniformly moving.
+  - timaeus says: In this way then and for these causes were created all such of
+  - timaeus says: the stars as wander through the heavens and turn about therein,
+  - timaeus says: in order that this universe may be most like to the perfect and
+  - timaeus says: ideal animal by its assimilation to the eternal being.
+  - hide act_eleven_bg: WITH FADE
+  - show act_twelve_bg: WITH FADE
+  - timaeus says: Now up to the generation of time all else had been
+  - timaeus says: accomplished in the likeness of that whereunto it was likened -
+  - timaeus says: but in that it did not yet contain all living creatures created
+  - timaeus says: within it, herein it was still unlike. So he went on to complete
+  - timaeus says: this that remained unfinished, moulding it after the nature of the
+  - timaeus says: pattern. So many forms then as Mind perceived to exist in the
+  - timaeus says: ideal animal, according to their variety and multitude, such
+  - timaeus says: kinds and such a number did he think fit that this universe
+  - timaeus says: should possess. These are fourfold - first the race of the
+  - timaeus says: heavenly gods, next the winged tribe whose path is in the air,
+  - timaeus says: third whatso dwells in the water, and fourth that which goes
+  - timaeus says: upon dry land. The visible form of the deities he created
+  - timaeus says: chiefly of fire, that it might be most radiant and most fair to
+  - timaeus says: behold ; and likening it to the All he shaped it like a sphere
+  - timaeus says: and assigned it to the intelligence of the supreme to follow after
+  - timaeus says: it ; and he disposed it throughout all the firmament of heaven,
+  - timaeus says: to be an adornment of it in very truth, wrought cunningly over
+  - timaeus says: the whole expanse. And he bestowed two movements upon
+  - timaeus says: each, one in the same spot and uniform, whereby it should be
+  - timaeus says: ever constant to its own thoughts concerning the same thing;
+  - timaeus says: the other forward, but controlled by the revolution of the same
+  - timaeus says: and uniform - but for the other five movements he made it
+  - timaeus says: motionless and still, that each star might attain the highest
+  - timaeus says: completeness of perfection. From which cause have been
+  - timaeus says: created all the stars that wander not but abide fast for ever,
+  - timaeus says: living beings divine and eternal and in one spot revolving -
+  - timaeus says: while those that move in a circle and wander as aforesaid have
+  - timaeus says: come into being on those principles which in the foregoing we
+  - timaeus says: have declared.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: And the earth our foster-mother, that is globed round the
+  - timaeus says: axis stretched from pole to pole of the universe, her he fashioned
+  - timaeus says: to be the guardian and creator of night and day, the first and
+  - timaeus says: most august of the gods that have been created within the
+  - timaeus says: heavens. But the circlings of them and their crossings one of
+  - timaeus says: another, and the manner of the returning of their orbits upon
+  - timaeus says: themselves and their approximations, and which of the deities
+  - timaeus says: meet in their conjunctions and which are in opposition, and how
+  - timaeus says: they pass before and behind each other, and at what times they
+  - timaeus says: are hidden from us and again reappearing send to them who
+  - timaeus says: cannot calculate their motions panics and portents of things to
+  - timaeus says: come to declare all this without visible illustrations of their
+  - timaeus says: very movements were labour lost. So let thus much suffice on
+  - timaeus says: this head and let our exposition concerning the nature of the
+  - timaeus says: gods visible and created be brought to an end.
+  - hide act_twelve_bg: WITH FADE
+  - show act_thirteen_bg: WITH FADE
+  - timaeus says: But concerning the other divinities, to declare and
+  - timaeus says: determine their generation were a task too mighty for us -
+  - timaeus says: therefore we must trust in those who have revealed it here-
+  - timaeus says: tofore, seeing that they are offspring, as they said, of gods, and
+  - timaeus says: without doubt know their own forefathers. We cannot then
+  - timaeus says: mistrust the children of gods, though they speak without pro-
+  - timaeus says: bable or inevitable demonstrations ; but since they profess to
+  - timaeus says: announce what pertains to their own kindred, we must conform
+  - timaeus says: to usage and believe them. Let us then accept on their word
+  - timaeus says: this account of the generation of these gods. Of Earth and
+  - timaeus says: Heaven were born children, Okeanos and Tethys ; of these
+  - timaeus says: Phorkys and Kronos and Rhea and all their brethren - and of
+  - timaeus says: Kronos and Rhea, Zeus and Hera and all whom we know to be
+  - timaeus says: called their brothers ; and they in their turn had children after
+  - timaeus says: them.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now when all the gods had come to birth, both those who
+  - timaeus says: revolve before our eyes and those who reveal themselves in so far
+  - timaeus says: as they will, he who begat this universe spake to them these words-
+  - timaeus says: Gods of gods, whose creator am I and father of works, which
+  - timaeus says: by me coming into being are indissoluble save by my will -
+  - timaeus says: Behold, all which hath been fastened may be loosed, yet to
+  - timaeus says: loose that which is well fitted and in good case were the will of
+  - timaeus says: an evil one. Wherefore, forasmuch as ye have come into being,
+  - timaeus says: immortal ye are not, nor indissoluble altogether ; nevertheless
+  - timaeus says: shall ye not be loosed nor meet with the doom of death, having
+  - timaeus says: found in my will a bond yet mightier and more sovereign than
+  - timaeus says: those that ye were bound withal when ye came into being.
+  - timaeus says: Now therefore hearken to the word that I declare unto you.
+  - timaeus says: Three kinds of mortal beings are yet uncreate. And if these
+  - timaeus says: be not created, the heaven will be imperfect; for it will not
+  - timaeus says: have within it all kinds of living things; yet these it must have,
+  - timaeus says: if it is to be perfect. But if these were created by my hands
+  - timaeus says: and from me received their life, they would be equal to gods.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Therefore in order that they may be mortal, and that this All
+  - timaeus says: may be truly all, turn ye according to nature unto the creation
+  - timaeus says: of living things, imitating my power that was put forth in the
+  - timaeus says: generation of you. Now such part of them as is worthy to
+  - timaeus says: share the name of the immortals, which is called divine and
+  - timaeus says: governs in the souls of those that are willing ever to follow
+  - timaeus says: after justice and after you, this I, having sown and provided it,
+  - timaeus says: will deliver unto you - and ye for the rest, weaving the mortal
+  - timaeus says: with the immortal, shall create living beings and bring them to
+  - timaeus says: birth, and giving them sustenance shall ye increase them, and
+  - timaeus says: when they perish receive them back again.
+  - show timaeus: AT CENTER
+  - hide act_thirteen_bg: WITH FADE
+  - show act_fourteen_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Thus spake he ; and again into the same bowl wherein
+  - timaeus says: he mingled and blended the universal soul he poured what was
+  - timaeus says: left of the former, mingling it somewhat after the same manner,
+  - timaeus says: yet no longer so pure as before but second and third in pure-
+  - timaeus says: ness. And when he had compounded the whole, he portioned
+  - timaeus says: off souls equal in number to the stars and distributed a soul to
+  - timaeus says: each star, and setting them in the stars as though in a chariot,
+  - timaeus says: he shewed them the nature of the universe and declared to
+  - timaeus says: them its fated laws; how that the first incarnation should be
+  - timaeus says: ordained to be the same for all, that none might suffer dis-
+  - timaeus says: advantage at his hands ; and how they must be sown into the
+  - timaeus says: instruments of time, each into that which was meet for it, and
+  - timaeus says: be born as the most god-fearing of all living creatures ; and
+  - timaeus says: whereas human nature was twofold, the stronger was that race
+  - timaeus says: which should hereafter be called man. When therefore they
+  - timaeus says: should be of necessity implanted in bodily forms, and of their
+  - timaeus says: bodies something should ever be coming in and other passing
+  - timaeus says: away, in the first place they must needs all have innate one and
+  - timaeus says: the same faculty of sense, arising from forcible affections ; next
+  - timaeus says: love mingled with pleasure and pain ; and besides these fear
+  - timaeus says: and wrath and all the feelings that accompany these and such
+  - timaeus says: as are of a contrary nature - and should they master these
+  - timaeus says: passions, they would live in righteousness ; if otherwise, in un-
+  - timaeus says: righteousness. And he who lived well throughout his allotted
+  - timaeus says: time should be conveyed once more to a habitation in his
+  - timaeus says: kindred star, and there should enjoy a blissful and congenial
+  - timaeus says: life- but failing of this, he should pass in the second incar-
+  - timaeus says: nation into the nature of a woman ; and if in this condition he
+  - timaeus says: still would not turn from the evil of his ways, then, according
+  - timaeus says: to the manner of his wickedness, he should ever be changed
+  - timaeus says: into the nature of some beast in such form of incarnation as
+  - timaeus says: fitted his disposition, and should not rest from the weariness of
+  - timaeus says: these transformations, until by following the revolution that is
+  - timaeus says: within him of the same and uniform, he should overcome by
+  - timaeus says: reason all that burden that afterwards clung around him of fire
+  - timaeus says: and water and air and earth, a troublous and senseless mass,
+  - timaeus says: and should return once more to the form of his first and best
+  - timaeus says: nature.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: And when he had ordained all these things for them, to the
+  - timaeus says: end that he might be guiltless of all the evil that should be in
+  - timaeus says: each of them, God sowed some in the earth, some in the moon,
+  - timaeus says: and some in the other instruments of time. And what came
+  - timaeus says: after the sowing he gave into the hands of the young gods, to
+  - timaeus says: mould mortal bodies, and having wrought all the residue of
+  - timaeus says: human soul that needed yet to be added, to govern and guide
+  - timaeus says: as nobly and perfectly as they could the mortal creature, in so
+  - timaeus says: far as it brought not evil upon its own head.
+  - hide socrates: WITH FADE
+  - show timaeus: AT CENTER
+  - hide act_fourteen_bg: WITH FADE
+  - show act_fifteen_bg: WITH FADE
+  - show hermocrates: AT LEFT WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: So when he had made all these ordinances for them
+  - timaeus says:  God was abiding after the manner of his own nature - and as he
+  - timaeus says: so abode, the children thinking on the command of their father
+  - timaeus says: were obedient to it, and having received the immortal principle
+  - timaeus says: of a mortal creature, imitating their own artificer, they bor-
+  - timaeus says: rowed from the universe portions of fire and of earth and of
+  - timaeus says: water and of air, on condition that they should be returned
+  - timaeus says: again, and they cemented together what they took, not with the
+  - timaeus says: indissoluble bonds wherewithal they themselves were held to-
+  - timaeus says: gether, but welding it with many rivets, invisible for smallness,
+  - timaeus says: and making of all the elements one body for each creature, they
+  - timaeus says: confined the revolutions of the immortal soul in a body in-
+  - timaeus says: flowing and out-flowing continually. And they, being confined
+  - timaeus says: in a great river, neither controlled it nor were controlled, but
+  - timaeus says: bore and were borne violently to and fro ; so that the whole
+  - timaeus says: creature moved, but advanced at random without order or
+  - timaeus says: method, having all the six motions - for they moved forward
+  - timaeus says: and backward and again to right and to left and downward and
+  - timaeus says: upward, and in every way went straying in the six directions.
+  - timaeus says: For great as was the tide sweeping over them and flowing off
+  - timaeus says: which brought them sustenance, a yet greater tumult was caused
+  - timaeus says: by the effects of the bodies that struck against them ; as when
+  - timaeus says: the body of any one came in contact with some alien fire that
+  - timaeus says: met it from without, or with solid earth, or with liquid glidings
+  - timaeus says: of water, or if he were caught in a tempest of winds borne on
+  - timaeus says: the air, and so the motions from all these elements rushing
+  - timaeus says: through the body penetrated to the soul. This is in fact the
+  - timaeus says: reason why these have all alike been called and still are called
+  - timaeus says: sensations (atcr^o-et?). Then too did they produce the most
+  - timaeus says: wide and vehement agitation for the time being, joining with the
+  - timaeus says: perpetually streaming current in stirring and violently shaking
+  - timaeus says: the revolutions of the soul, so that they altogether hindered the
+  - timaeus says: circle of the Same by flowing contrary to it, and they stopped
+  - timaeus says: it from governing and from going ; while the circle of the Other
+  - timaeus says: they displaced, so that the double and triple intervals, being
+  - timaeus says: three of each sort, and the means and junctures of f and f and ,
+  - timaeus says: since they could not be utterly undone save by him that joined
+  - timaeus says: them, were forced by them to turn in all kinds of ways and to
+  - timaeus says: admit all manner of breaking and twisting of the circles, in
+  - timaeus says: every possible form, so that they can barely hold to one another,
+  - timaeus says: and though they are in motion, it is motion without law, some-
+  - timaeus says: times reversed, now slanting, and now inverted. It is as though
+  - timaeus says: a man should stand on his head, resting it on the earth and
+  - timaeus says: supporting his feet against something aloft ; in this case the man
+  - timaeus says: in such condition and the spectators would reciprocally see right
+  - timaeus says: and left reversed in the persons of each other. The same and
+  - timaeus says: similar effects are produced with great intensity in the souls
+  - timaeus says: revolutions - and when from external objects there meets them
+  - timaeus says: anything that belongs to the class of the Same or to that of the
+  - timaeus says: Other, then they declare its relative sameness or difference quite
+  - timaeus says: contrariwise to the truth, and show themselves false and irra-
+  - timaeus says: tional ; and no circuit is governor or leader in them at that
+  - timaeus says: time. And whenever sensations from without rushing up and fall-
+  - timaeus says: ing upon them drag along with them the whole vessel of the soul,
+  - timaeus says: then the circuits seem to govern though they really are governed.
+  - show socrates: AT RIGHT
+  - timaeus says: On account then of all these experiences the soul is at first
+  - timaeus says: bereft of reason, now as in the beginning, when she is confined in
+  - timaeus says: a mortal body. But when the stream of growth and nutriment
+  - timaeus says: flows in with smaller volume, and the revolutions calming down
+  - timaeus says: go their own way and become settled as time passes on, then
+  - timaeus says: the orbits are reduced to the form that belongs to the several
+  - timaeus says: circles in their natural motion, and declaring accurately the
+  - timaeus says: Other and the Same, they set their possessor in the way to
+  - timaeus says: become rational. And if any just discipline of education help
+  - timaeus says: this process, he becomes whole altogether without a blemish,
+  - timaeus says: having made his escape from the most grievous of plagues ; but
+  - timaeus says: if he neglect it, he passes the days of his life halt and maimed,
+  - timaeus says: and unhallowed and unreasonable he comes again to Hades.
+  - timaeus says: These things however belong to a later time - we must discuss
+  - timaeus says: more exactly the subject immediately before us. And as to
+  - timaeus says: the matters which are previous to this, concerning the genera-
+  - timaeus says: tion of the body in all its parts and concerning soul, and the
+  - timaeus says: reasons and designs of the gods whereby they have come into
+  - timaeus says: being, we must cling to the most probable theory, and by pro-
+  - timaeus says: ceeding in this way so give an account of all.
+  - show timaeus: AT CENTER
+  - hide hermocrates: WITH FADE
+  - show critias: AT LEFT WITH FADE
+  - hide act_fifteen_bg: WITH FADE
+  - show act_sixteen_bg: WITH FADE
+  - show critias: AT LEFT
+  - show timaeus: talk AT CENTER
+  - timaeus says: Imitating the shape of the universe, which was sphe-
+  - timaeus says: rical, they confined the two divine revolutions in a globe-shaped
+  - timaeus says: body, the same that we now call the head, which is the divinest
+  - timaeus says: part of us and has dominion over all our members. To this the
+  - timaeus says: gods gave the whole body, when they had put it together, to
+  - timaeus says: minister to it, reflecting that it possessed all the motions that
+  - timaeus says: should be. In order then that it might not have to roll upon
+  - timaeus says: the earth, which has hills and hollows of all kinds, nor be at
+  - timaeus says: a loss to surmount the one and climb out of the other, they gave
+  - timaeus says: it the body for a conveyance and for ease of going - whence the
+  - timaeus says: body was endowed with length and grew four limbs that could
+  - timaeus says: be stretched and bent, which the god devised for it to go withal,
+  - timaeus says: and by means of which clinging and supporting itself it is
+  - timaeus says: enabled to pass through every place, bearing at the top of us
+  - timaeus says: the habitation of the most divine and sacred element. In this
+  - timaeus says: way then and for these reasons were legs and hands added to
+  - timaeus says: all mankind ; and the gods, deeming that the front was more
+  - timaeus says: honourable than the back and more fit to lead, made us to move
+  - timaeus says: for the most part in this direction. So it behoved man to have
+  - timaeus says: the front part distinguished and unlike the back. Therefore
+  - timaeus says: having set the face upon the globe of the head on that side, they
+  - timaeus says: attached to it organs for all the forethought of the soul, and
+  - timaeus says: they ordained that this which had the faculty of guidance should
+  - timaeus says: be by nature the front. And first of the organs they wrought light-
+  - timaeus says: giving eyes, which they fixed there on the plan I shall explain.
+  - timaeus says: Such sort of fire as had the property of yielding a gentle light
+  - timaeus says: but not of burning, they contrived to form into a substance akin
+  - timaeus says: to the light of every day. The fire within us, which is akin to
+  - timaeus says: the daylight, they made to flow pure smooth and dense through
+  - timaeus says: the eyes, having made close the whole fabric of the eyes and
+  - timaeus says: especially the pupils, so that they kept back all that was coarser
+  - timaeus says: and suffered only this to filter through unmixed and pure.
+  - timaeus says: Whenever then there is daylight surrounding the current of
+  - timaeus says: vision, then this issues forth as like into like, and coalescing with
+  - timaeus says: the light is formed into one uniform substance in the direct line
+  - timaeus says: of vision, wherever the stream issuing from within strikes upon
+  - timaeus says: some external object that falls in its way. So the whole from
+  - timaeus says: its uniformity becomes sympathetic ; and whenever it comes in
+  - timaeus says: contact with anything else, or anything with it, it passes on the
+  - timaeus says: motions thereof over the whole body until they reach the soul,
+  - timaeus says: and thus causes that sensation which we call seeing. But when
+  - timaeus says: its kindred fire departs into night, the visual current is cut off-
+  - timaeus says: for issuing into an alien element it is itself changed and quenched,
+  - timaeus says: having no longer a common nature with the surrounding air,
+  - timaeus says: which has in it no fire. Therefore it ceases from seeing and
+  - timaeus says: moreover becomes an allurement to sleep. For the gods had
+  - timaeus says: devised as a safeguard of the sight the structure of the eyelids ;
+  - timaeus says: and when these are closed, they shut up the force of fire within ;
+  - timaeus says: and this smoothes and calms the motions within ; and when
+  - timaeus says: these are calmed, quiet ensues. And if the quiet is profound,
+  - timaeus says: sleep with few dreams falls on us ; but if some of the stronger
+  - timaeus says: motions are left, according to their nature and the places where
+  - timaeus says: they remain, they engender visions corresponding in kind and in
+  - timaeus says: number; which are images within us, and when we awake are
+  - timaeus says: remembered as outside us. Now the explanation of reflections
+  - timaeus says: in mirrors and all bright smooth surfaces is no longer hard to
+  - timaeus says: discern. For because of the communion of the internal and
+  - timaeus says: external fire, which again is united on the smooth surface and in
+  - timaeus says: manifold ways deflected, all these reflections take place ; the fire
+  - timaeus says: that belongs to the face coalescing with the fire of the visual
+  - timaeus says: current upon the surface of the smooth bright object. And left
+  - timaeus says: appears right and right left, because mutually opposite particles
+  - timaeus says: of the visual current and of the object seen come into contact,
+  - timaeus says: contrary to the wonted mode of collision. On the other hand right
+  - timaeus says: appears as right and left as left, when in the act of combination
+  - timaeus says: with that wherewith it combines the ray changes sides. This
+  - timaeus says: happens when the smooth surface of the mirror is curved up-
+  - timaeus says: wards on each side and so throws the right portion of the visual
+  - timaeus says: current to the left side and the ccfoiverse. But if it is turned
+  - timaeus says: lengthwise to the face, it makes this same reflection appear
+  - timaeus says: completely upside down, thrusting the lower portion of the ray
+  - timaeus says: to the upper end and the upper to the lower.
+  - show timaeus: AT CENTER
+  - hide critias: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: All these things are among the secondary causes which God
+  - timaeus says: uses to serve him in carrying out the idea of the best so far
+  - timaeus says: as is possible. But the multitude regard them not as secondary
+  - timaeus says: but as primary causes, which act by cooling and heating, con-
+  - timaeus says: densing and rarefying, and all such processes. Yet they are
+  - timaeus says: incapable of all reason or thought for any purpose. For the
+  - timaeus says: only existing thing to which belongs the possession of reason
+  - timaeus says: we must affirm to be soul - and this is invisible, whereas fire
+  - timaeus says: and water and air and earth are all visible creations. Now
+  - timaeus says: the lover of reason and knowledge must first seek for the
+  - timaeus says: causes which belong to the rational order ; and only in the
+  - timaeus says: second place those which belong to the class of things which
+  - timaeus says: are moved by others and move others in turn. This then is
+  - timaeus says: what we must also do - we must declare both classes of causes,
+  - timaeus says: distinguishing between those which with the aid of reason are
+  - timaeus says: the creators of fair things and good, and those which being
+  - timaeus says: destitute of reason produce from time to time chance effects
+  - timaeus says: without design. Enough then of the auxiliary causes which
+  - timaeus says: combine in giving the eyes the power they now possess ; but
+  - timaeus says: the great result, for the sake of which God bestowed them on
+  - timaeus says: us, must be our next theme. Sight, according to my judgment,
+  - timaeus says: has been the cause of the greatest blessing to us, inasmuch
+  - timaeus says: as of our present discourse concerning the universe not one
+  - timaeus says: word would have been uttered had we never seen the stars and
+  - timaeus says: the sun and the heavens. But now day and night, being seen
+  - timaeus says: of us, and months and the revolution of the years have created
+  - timaeus says: number, and they gave us the notion of time and the power of
+  - timaeus says: searching into the nature of the All ; whence we have derived
+  - timaeus says: philosophy, than which no greater good has come neither shall
+  - timaeus says: come hereafter as the gift of heaven to mortal man. This I
+  - timaeus says: declare to be the chiefest blessing due to the eyes - on the rest
+  - timaeus says: that are meaner why should we descant ? let him who loves not
+  - timaeus says: wisdom, if he be blinded of these, lament with idle moan. But
+  - timaeus says: on our part let this be affirmed to be the cause of vision, for
+  - timaeus says: these ends - God discovered and bestowed sight upon us in
+  - timaeus says: order that we might observe the orbits of reason which are
+  - timaeus says: in heaven and make use of them for the revolutions of thought
+  - timaeus says: in our own souls, which are akin to them, the troubled to the
+  - timaeus says: serene; and that learning them and acquiring natural truth
+  - timaeus says: of reasoning we might imitate the divine movements that are
+  - timaeus says: ever unerring and bring into order those within us which are
+  - timaeus says: all astray. And of sound and hearing again the same account
+  - timaeus says: must be given - to the same ends and with the same intent
+  - timaeus says: they have been bestowed on us by the gods. For not only
+  - timaeus says: has speech been appointed for this same purpose, whereto it
+  - timaeus says: contributes the largest share, but all such music as is expressed
+  - timaeus says: in sound has been granted, for the sake of harmony - and
+  - timaeus says: harmony, having her motions akin to the revolutions in our
+  - timaeus says: own souls, has been bestowed by the Muses on him who with
+  - timaeus says: reason seeks their help, not for any senseless pleasure, such
+  - timaeus says: as is now supposed to be its chiefest use, but as an ally against
+  - timaeus says: the discord which has grown up in the revolution of our soul,
+  - timaeus says: to bring her into order and into unison with herself- and
+  - timaeus says: rhythm too, because our habit of mind is mostly so faulty
+  - timaeus says: of measure and lacking in grace, is a succour bestowed on us
+  - timaeus says: by the same givers for the same ends.
+  - show timaeus: AT CENTER
+  - hide socrates: WITH FADE
+  - hide act_sixteen_bg: WITH FADE
+  - show act_seventeen_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now in our foregoing discourse, with few exceptions,
+  - timaeus says: we have been declaring the creations wrought through mind -
+  - timaeus says: we must now set by their side those things which come into
+  - timaeus says: being through necessity. For the generation of this universe
+  - timaeus says: was a mixed creation by a combination of necessity and reason.
+  - timaeus says: And whereas reason governed necessity, by persuading her
+  - timaeus says: to guide the greatest part of created things to the best end,
+  - timaeus says: on such conditions and principles, through necessity overcome
+  - timaeus says: by reasonable persuasion, this universe was fashioned in the
+  - timaeus says: beginning. If then we would really declare its creation in
+  - timaeus says: the manner whereby it has come to be, we must add also the
+  - timaeus says: nature of the Errant Cause, and its moving power. Thus then
+  - timaeus says: let us return upon our steps, and when we have found a second
+  - timaeus says: fitting cause for the things aforesaid, let us once more, pro-
+  - timaeus says: ceeding in the present case as we did in the former, begin over
+  - timaeus says: again from the beginning. Now we must examine what came
+  - timaeus says: before the creation of the heavens, the very origin of fire and
+  - timaeus says: water and air and earth, and the conditions that were before
+  - timaeus says: them. For now no one has declared the manner of their
+  - timaeus says: generation ; but we speak as if men knew what is fire and
+  - timaeus says: each of the others, and we treat them as beginnings, as elements
+  - timaeus says: of the whole ; whereas by one who has ever so little intelligence
+  - timaeus says: they could not plausibly be represented as belonging even to
+  - timaeus says: the class of syllables. Now however let our say thus be said.
+  - timaeus says: The first principle or principles or whatever we may hold it
+  - timaeus says: to be which underlies all things we must not declare at present,
+  - timaeus says: for no other reason but that it is difficult according to the
+  - timaeus says: present method of our exposition to make clear our opinion.
+  - timaeus says: You must not then deem that I ought to discourse of this,
+  - timaeus says: nor could I persuade myself that I should be right in essaying
+  - timaeus says: so mighty a task. But holding fast the principle we laid down
+  - timaeus says: at the outset, the value of a probable account, I will strive to
+  - timaeus says: give an explanation that is no less probable than another, but
+  - timaeus says: more so ; returning back to describe from the beginning each
+  - timaeus says: and all things. So now again at the outset of our quest let
+  - timaeus says: us call upon God to pilot us safe through a strange and un-
+  - timaeus says: familiar discourse to the haven of probability ; and thus let
+  - timaeus says: us begin once more.
+  - show timaeus: AT CENTER
+  - hide act_seventeen_bg: WITH FADE
+  - show act_eighteen_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Our new exposition of the universe then must be
+  - timaeus says: founded on a fuller classification than the former. Then we
+  - timaeus says: distinguished two forms, but now a third kind must be disclosed.
+  - timaeus says: The two were indeed enough for our former discussion, when
+  - timaeus says: we laid down one form as the pattern, intelligible and change-
+  - timaeus says: less, the second as a copy of the pattern, which comes into
+  - timaeus says: being and is visible. A third we did not then distinguish,
+  - timaeus says: deeming that the two would suffice - but now, it seems, by
+  - timaeus says: constraint of our discourse we must try to express and make
+  - timaeus says: manifest a form obscure and dim. What power then must we
+  - timaeus says: conceive that nature has given it ? something like this. It is
+  - timaeus says: the receptacle, and as it were the nurse, of all becoming. This
+  - timaeus says: saying is true, but we must put it in clearer language - and this
+  - timaeus says: is hard ; especially as for the sake of it we must needs inquire
+  - timaeus says: into fire and the substances that rank with fire. For it is hard
+  - timaeus says: to say which of all these we ought to call water any more than
+  - timaeus says: fire, or indeed which we ought to call by any given name,
+  - timaeus says: rather than all and each severally, in such a way as to employ
+  - timaeus says: any truthful and trustworthy mode of speech. How then are we
+  - timaeus says: to deal with this point, and what is the question that we should
+  - timaeus says: properly raise concerning it ? In the first place, what we now have
+  - timaeus says: named water, by condensation, as we suppose, we see turning
+  - timaeus says: to stones and earth ; and by rarefying and expanding this same
+  - timaeus says: element becomes wind and air ; and air when inflamed becomes
+  - timaeus says: fire - and conversely fire contracted and quenched returns again
+  - timaeus says: to the form of air; also air concentrating and condensing
+  - timaeus says: becomes cloud and mist ; and from these yet further com-
+  - timaeus says: pressed comes flowing water ; and from water earth and stones
+  - timaeus says: once more - and so, it appears, they hand on one to another
+  - timaeus says: the cycle of generation. Thus then since these several bodies
+  - timaeus says: never assume one constant form, which of them can we posi-
+  - timaeus says: tively affirm to be really this and not another without being
+  - timaeus says: shamed in our own eyes ? It cannot be - it is far the safest
+  - timaeus says: course when we make a statement concerning them to speak
+  - timaeus says: as follows. What we see in process of perpetual transmutation,
+  - timaeus says: as for instance fire, we must not call this, but such-tike is the
+  - timaeus says: appellation we must confer on fire ; nor must we call water
+  - timaeus says: this, but always such; nor must we apply to anything, as if
+  - timaeus says: it had any stability, such predicates as we express by the
+  - timaeus says: use of the terms this and that and suppose that we signify
+  - timaeus says: something thereby. For it flees and will not abide such
+  - timaeus says: terms as this and that and relative to this, and every phrase
+  - timaeus says: which represents it as stable. The word this we must not
+  - timaeus says: use of any of them; but such, applying in the same sense to
+  - timaeus says: all their mutations, we must predicate of each and all - fire we
+  - timaeus says: must call that which universally has that appearance ; and so
+  - timaeus says: must we name all things such as come into being. That
+  - timaeus says: wherein they come to be severally and show themselves, and
+  - timaeus says: from whence again they perish, in naming that alone must
+  - timaeus says: we use the words that and this; but whatever has any quality,
+  - timaeus says: such as white or hot or any of two opposite attributes, and all
+  - timaeus says: combinations of these, we must denote by no such term.
+  - show timaeus: AT CENTER
+  - show socrates: AT LEFT WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: But we must try to speak yet more clearly on this matter.
+  - timaeus says: Suppose a man having moulded all kinds of figures out of
+  - timaeus says: gold should unceasingly remould them, interchanging them
+  - timaeus says: all with one another, it were much the safest thing in view
+  - timaeus says: of truth to say that it is gold ; but as to the triangles or any
+  - timaeus says: other shapes that were impressed on it, never to speak of
+  - timaeus says: them as existing, seeing that they change even as we are in
+  - timaeus says: the act of defining them ; but if it will admit the term such with
+  - timaeus says: any tolerable security, we must be content. The same lan-
+  - timaeus says: guage must be applied to the nature which receives into it
+  - timaeus says: all material things - we must call it always the same ; for it
+  - timaeus says: never departs from its own function at all. It ever receives
+  - timaeus says: all things into it and has nowhere any form in any wise like
+  - timaeus says: to aught of the shapes that enter into it. For it is as the
+  - timaeus says: substance wherein all things are naturally moulded, being
+  - timaeus says: stirred and informed by the entering shapes ; and owing to
+  - timaeus says: them it appears different from time to time. But the shapes
+  - timaeus says: which pass in and out are likenesses of the eternal existences,
+  - timaeus says: being copied from them in a fashion wondrous and hard to
+  - timaeus says: declare, which we will follow up later on. For the present how-
+  - timaeus says: ever we must conceive three kinds - first that which comes
+  - timaeus says: to be, secondly that wherein it comes to be, third that from
+  - timaeus says: which the becoming is copied when it is created. And we
+  - timaeus says: may liken the recipient to a mother, the model to a father,
+  - timaeus says: and that which is between them to a child ; and we must
+  - timaeus says: remember that if a moulded copy is to present to view
+  - timaeus says: all varieties of form, the matter in which it is moulded cannot
+  - timaeus says: be rightly prepared unless it be entirely bereft of all those
+  - timaeus says: forms which it is about to receive from without. For were
+  - timaeus says: it like any one of the entering shapes, whenever that of an op-
+  - timaeus says: posite or entirely different nature came upon it, it would in
+  - timaeus says: receiving it give the impression badly, intruding its own form.
+  - timaeus says: Wherefore that which shall receive all forms within itself must
+  - timaeus says: be utterly without share in any of the forms ; just as in the
+  - timaeus says: making of sweet unguents, men purposely contrive, as the
+  - timaeus says: beginning of the work, to make the fluids that are to receive
+  - timaeus says: the perfumes perfectly scentless - and those who set about
+  - timaeus says: moulding figures in any soft substance do not suffer any shape
+  - timaeus says: to show itself therein at the beginning, but they first knead it
+  - timaeus says: smooth and make it as uniform as they can. In the same way
+  - timaeus says: it behoves that which is fitly to receive many times over its
+  - timaeus says: whole extent likenesses of all things, that is of all eternal ex-
+  - timaeus says: istences, to be itself naturally without part or lot in any of the
+  - timaeus says: forms. Therefore the mother and recipient of creation which is
+  - timaeus says: visible and by any sense perceptible we must call neither earth
+  - timaeus says: nor air nor fire nor water, nor the combinations of these nor the
+  - timaeus says: elements of which they are formed - but we shall not err in
+  - timaeus says: affirming it to be a viewless nature and formless, all-receiving,
+  - timaeus says: in some manner most bewildering and hard to comprehend par-
+  - timaeus says: taking of the intelligible. But so far as from what has been said
+  - timaeus says: we may arrive at its nature, this would be the most just account
+  - timaeus says: of it. That part of it which is enkindled from time to time
+  - timaeus says: appears as fire, and that which is made liquid as water, and as
+  - timaeus says: earth and air such part of it as receives the likenesses of these.
+  - show timaeus: AT CENTER
+  - hide socrates: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: But in our inquiry concerning these we must deliver a
+  - timaeus says: stricter statement. Is there an absolute idea of fire, and do all
+  - timaeus says: those absolute ideas exist to which in every case we always
+  - timaeus says: ascribe absolute being ? Or do those things which we actually
+  - timaeus says: see or perceive with any other bodily sense alone possess such
+  - timaeus says: reality ? and is it true that there are no manner of real existences
+  - timaeus says: beyond these at all, but we talk idly when we speak of an in-
+  - timaeus says: telligible idea as actually existent, whereas it was nothing but a
+  - timaeus says: conception ? Now it does not become us either to dismiss the
+  - timaeus says: present question unjudged and undecided, simply asserting that
+  - timaeus says: the ideas exist, nor yet must we add to our already long dis-
+  - timaeus says: course another as long which is subordinate. But if we could
+  - timaeus says: see our way to a great definition couched in brief words, that
+  - timaeus says: would be most seasonable for our present purpose. Thus then
+  - timaeus says: do I give my own verdict - if reason and true opinion are of two
+  - timaeus says: different kinds, then the ideas do surely exist, forms not per-
+  - timaeus says: ceptible by our senses, the objects of thought alone ; but if, as
+  - timaeus says: some hold, true opinion differs nothing from reason, then all
+  - timaeus says: that we apprehend by our bodily organs we must affirm to be
+  - timaeus says: the most real existence. Now we must declare them to be two,
+  - timaeus says: because they are different in origin and unlike in nature. The
+  - timaeus says: one is engendered in us by instruction, the other by persuasion ;
+  - timaeus says: the one is ever accompanied by right understanding, the other is
+  - timaeus says: without understanding; the one is not to be moved by per-
+  - timaeus says: suasion, the other yields to persuasion ; true opinion we must
+  - timaeus says: admit is shared by all men, but reason by the gods alone and a
+  - timaeus says: very small portion of mankind. This being so, we must agree
+  - timaeus says: that there is first the unchanging idea, unbegotten and imperish-
+  - timaeus says: able, neither receiving aught into itself from without nor itself
+  - timaeus says: entering into aught else, invisible, nor in any wise perceptible
+  - timaeus says: even that whereof the contemplation belongs to thought. Second
+  - timaeus says: is that which is named after it and is like to it, sensible, created,
+  - timaeus says: ever in motion, coming to be in a certain place and again from
+  - timaeus says: thence perishing, apprehensible by opinion with sensation. And
+  - timaeus says: the third kind is space everlasting, admitting not destruction, but
+  - timaeus says: affording place for all things that come into being, itself appre-
+  - timaeus says: hensible without sensation by a sort of bastard reasoning, hardly
+  - timaeus says: matter of belief. It is with this in view that dreaming we say
+  - timaeus says: that all which exists must be in some place and rilling some
+  - timaeus says: space, and that what is neither on earth nor in heaven anywhere
+  - timaeus says: is nought. All these and many kindred fancies have we even
+  - timaeus says: concerning that unsleeping essence and truly existing, for that
+  - timaeus says: by reason of this dreaming state we become impotent to arouse
+  - timaeus says: ourselves and affirm the truth ; namely, that to an image it
+  - timaeus says: belongs, seeing that it is not the very model of itself, on which
+  - timaeus says: itself has been created, but is ever the fleeting semblance of
+  - timaeus says: another, in another to come into being, clinging to existence as
+  - timaeus says: best it may, on pain of being nothing at all ; but to the really
+  - timaeus says: existent essence reason in all exactness true comes as an ally,
+  - timaeus says: declaring that so long as one thing is one and another thing
+  - timaeus says: is other, neither of them shall come to be in the other, so that
+  - timaeus says: the same becomes at once one and two.
+  - show timaeus: AT CENTER
+  - hide act_eighteen_bg: WITH FADE
+  - show act_nineteen_bg: WITH FADE
+  - show socrates: AT RIGHT WITH FADE
+  - show critias: AT LEFT WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Such then is the statement for which I give my
+  - timaeus says: sentence, as we have briefly reasoned it out- that there are
+  - timaeus says: Being and Space and Becoming, three in number with threefold
+  - timaeus says: nature, even before the heavens were created. And the nurse
+  - timaeus says: of becoming, being made liquid and fiery and putting on the
+  - timaeus says: forms of earth and air, and undergoing all the conditions that
+  - timaeus says: attend thereupon, displays to view all manner of semblances ;
+  - timaeus says: and because she is filled with powers that are not similar nor
+  - timaeus says: equivalent, she is at no part of her in even balance, but being
+  - timaeus says: swayed in all directions unevenly, she is herself shaken by the
+  - timaeus says: entering forms, and by her motion shakes them again in turn -
+  - timaeus says: and they, being thus stirred, are carried in different directions
+  - timaeus says: and separated, just as by sieves and instruments for winnowing
+  - timaeus says: corn the grain is shaken and sifted, and the dense and heavy
+  - timaeus says: parts go one way, and the rare and light are carried to a different
+  - timaeus says: place and settle there. Even so when the four kinds are shaken
+  - timaeus says: by the recipient, which by the motion she has received acts as
+  - timaeus says: an instrument for shaking, she separates the most dissimilar
+  - timaeus says: elements furthest apart from one another, and the most similar
+  - timaeus says: she draws chiefly together ; for which cause these elements had
+  - timaeus says: different regions even before the universe was ordered out of
+  - timaeus says: them and created. Before that came to pass all these things
+  - timaeus says: were without method or measure ; but when an essay was being
+  - timaeus says: made to order the universe, first fire and water and earth and air,
+  - timaeus says: which had certain vestiges of their own nature, yet were alto-
+  - timaeus says: gether in such a condition as we should expect for everything
+  - timaeus says: when God is not in it, being by nature in the state we have said,
+  - timaeus says: were then first by the creator fashioned forth with forms and
+  - timaeus says: numbers. And that God formed them to be most fair and perfect,
+  - timaeus says: not having been so heretofore, must above all things be the
+  - timaeus says: foundation whereon our account is for ever based. But now the
+  - timaeus says: disposition of each and their generation is what I must strive to
+  - timaeus says: make known to you in speech unwonted - but seeing ye are no
+  - timaeus says: strangers to the paths of learning, through which my sayings
+  - timaeus says: must be revealed to you, ye will follow me.
+  - show timaeus: AT CENTER
+  - hide critias: WITH FADE
+  - hide act_nineteen_bg: WITH FADE
+  - show act_twenty_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: In the first place, that fire and earth and water and air
+  - timaeus says: are material bodies is evident to all. Every form of body has
+  - timaeus says: depth- and depth must be bounded by plane surfaces. Now
+  - timaeus says: every rectilinear plane is composed of triangles. And all
+  - timaeus says: triangles are derived from two triangles, each having one right
+  - timaeus says: angle and the others acute- and one triangle has on each side a
+  - timaeus says: moiety of a right angle marked off by equal sides, the other
+  - timaeus says: has it divided into unequal parts by unequal sides. These
+  - timaeus says: we conceive to be the basis of fire and the other bodies, follow-
+  - timaeus says: ing up the probable account which is concerned with necessity-
+  - timaeus says: but the principles yet more remote than these are known but to
+  - timaeus says: God and to whatsoever man is a friend of God. Now we must
+  - timaeus says: declare what are the four fairest bodies that could be created,
+  - timaeus says: unlike one another, but capable, some of them, of being gene-
+  - timaeus says: rated out of each other by their dissolution - for if we succeed in
+  - timaeus says: this, we have come at the truth concerning earth and fire
+  - timaeus says: and the intermediate proportionals. For we will concede to
+  - timaeus says: no one that there exist any visible bodies fairer than these, each
+  - timaeus says: after its own kind. We must do our diligence then to put
+  - timaeus says: together these four kinds of bodies most excellent in beauty,
+  - timaeus says: and so we shall say that we have a full comprehension of their
+  - timaeus says: nature.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now of the two triangles the isosceles has but one kind,
+  - timaeus says: but the scalene an endless number. Out of this infinite multi-
+  - timaeus says: tude then we must choose the fairest, if we are to begin upon
+  - timaeus says: our own principles. If then any man can tell of a fairer kind
+  - timaeus says: that he has selected for the composition of these bodies, it
+  - timaeus says: is no enemy but a friend who vanquishes us - however of
+  - timaeus says: all these triangles we declare one to be the fairest, passing
+  - timaeus says: over the rest; that namely of which two conjoined form an
+  - timaeus says: equilateral triangle. The reason it were too long to tell - but if
+  - timaeus says: any man convict us in this and find that it is not so, the
+  - timaeus says: palm is ready for him with our right good will. Let then
+  - timaeus says: two triangles be chosen whereof the substance of fire and of the
+  - timaeus says: other elements has been wrought ; the one isosceles, the other
+  - timaeus says: always having the square on the greater side three times
+  - timaeus says: the square on the lesser. And now we must more strictly define
+  - timaeus says: something which we expressed not quite clearly enough before.
+  - timaeus says: For it appeared as though all the four classes had generation
+  - timaeus says: through each other and into each other, but this appearance was
+  - timaeus says: delusive. For out of the triangles we have chosen arise four
+  - timaeus says: kinds, three from one of them, that which has unequal sides,
+  - timaeus says: and the fourth one alone composed of the isosceles triangle. It
+  - timaeus says: is not then possible for all of them by dissolution to pass
+  - timaeus says: one into another, a few large bodies being formed of many
+  - timaeus says: small, and the converse- but for three of them it is possible.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: For since they all arise from one basis, when the larger bodies
+  - timaeus says: are broken up, a number of small ones will be formed from
+  - timaeus says: the same elements, putting on the shapes proper to them;
+  - timaeus says: and again when a number of small bodies are resolved into
+  - timaeus says: their triangles, they will become one in number and constitute a
+  - timaeus says: single large body of a different form. So much for their gene-
+  - timaeus says: ration into one another - the next thing will be to say what
+  - timaeus says: is the form in which each has been created, and by the com-
+  - timaeus says: bination of what numbers. We will begin with the form which
+  - timaeus says: is simplest and smallest in its construction. Its element is the
+  - timaeus says: triangle which has the hypotenuse double of the shorter side
+  - timaeus says: in length. If a pair of these are put together so that their
+  - timaeus says: hypotenuses coincide, and this is done three times, in such
+  - timaeus says: a way that the hypotenuses and the shorter sides meet in
+  - timaeus says: one point as a centre, thus one equilateral triangle has been
+  - timaeus says: formed out of the other six triangles- and if four equilateral
+  - timaeus says: triangles are combined, so that three plane angles meet in
+  - timaeus says: a point, they make at each point one solid angle, that which
+  - timaeus says: comes immediately next to the most obtuse of plane angles;
+  - timaeus says: and when four such angles are produced there is formed the first
+  - timaeus says: solid figure, dividing its whole surface into four equal and similar
+  - timaeus says: parts. The second is formed of the same triangles in sets of
+  - timaeus says: eight equilateral triangles, bounding every single solid angle by
+  - timaeus says: four planes ; and with the formation of six such solid angles the
+  - timaeus says: second figure is also complete. The third is composed of 120
+  - timaeus says: of the elementary triangles united, and of twelve solid angles,
+  - timaeus says: each contained by five plane equilateral triangles ; and it has
+  - timaeus says: twenty equilateral surfaces. And the first element, when it had
+  - timaeus says: generated these figures, had done its part - the isosceles triangle
+  - timaeus says: generated the fourth, combined in sets of four, with the right
+  - timaeus says: angles meeting at the centre, thus forming a single square. Six
+  - timaeus says: of these squares joined together formed eight solid angles, each
+  - timaeus says: produced by three plane right angles - and the shape of the
+  - timaeus says: body thus formed was cubical, having six square planes for its
+  - timaeus says: surfaces. And whereas a fifth figure yet alone remained, God
+  - timaeus says: used it for the universe in embellishing it with signs.
+  - hide socrates: WITH FADE
+  - show timaeus: AT CENTER
+  - hide act_twenty_bg: WITH FADE
+  - show act_twentyone_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now if any man, reflecting upon all these things,
+  - timaeus says: should fairly ask himself whether the number of cosmic systems
+  - timaeus says: is indefinite or definite, he would deem that to believe them in-
+  - timaeus says: definite was the opinion of one who thought very indefinitely on
+  - timaeus says: a matter where he ought to be most definitely informed - but
+  - timaeus says: whether we ought to say that there is but one, or that there are
+  - timaeus says: really in nature five, he might, if he stopped short there, with
+  - timaeus says: more justice feel doubtful. Our verdict declares that according
+  - timaeus says: to the probable theory it is by nature one ; another however,
+  - timaeus says: looking to some other guide, may have a different view. But
+  - timaeus says: no more of him ; let us assign the figures that have come into
+  - timaeus says: being in our theory to fire and earth and water and air. To
+  - timaeus says: earth let us give the cubical form ; for earth is least mobile
+  - timaeus says: of the four and most plastic of bodies - and that substance must
+  - timaeus says: possess this nature in the highest degree which has its bases
+  - timaeus says: most stable. Now of the triangles which we assumed as our
+  - timaeus says: starting-point that with equal sides is more stable than that
+  - timaeus says: with unequal ; and of the surfaces composed of the two triangles
+  - timaeus says: the equilateral quadrangle necessarily is more stable than the
+  - timaeus says: equilateral triangle, both in its parts and as a whole. There-
+  - timaeus says: fore in assigning this to earth we preserve the probability of our
+  - timaeus says: account ; and also in giving to water the least mobile and to fire
+  - timaeus says: the most mobile of those which remain ; while to air we give
+  - timaeus says: that which is intermediate. Again we shall assign the smallest
+  - timaeus says: figure to fire, and the largest to water and the intermediate to
+  - timaeus says: air- and the keenest to fire, the next to air, and the third to
+  - timaeus says: water. Now among all these that which has the fewest bases
+  - timaeus says: must naturally in all respects be the most cutting and keen of
+  - timaeus says: all, and also the most nimble, seeing it is composed of the small-
+  - timaeus says: est number of similar parts; and the second must have these
+  - timaeus says: same qualities in the second degree, and the third in the third
+  - timaeus says: degree. Let it be determined then, according to the right ac-
+  - timaeus says: count and the probable, that the solid body which has taken
+  - timaeus says: the form of the pyramid is the element and seed of fire ; and
+  - timaeus says: the second in order of generation let us say to be that of air, and
+  - timaeus says: the third that of water. Now all these bodies we must conceive
+  - timaeus says: as being so small that each single body in the several kinds
+  - timaeus says: cannot for its smallness be seen by us at all ; but when many
+  - timaeus says: are heaped together, their united mass is seen - and we must
+  - timaeus says: suppose that the due proportion in respect of their multitude
+  - timaeus says: and motions and all their other powers, when God had com-
+  - timaeus says: pleted them with all perfection, in so far as the nature of neces-
+  - timaeus says: sity, consenting and yielding to persuasion, suffered, were every-
+  - timaeus says: where by him ordained in fitting measure.
+  - show timaeus: AT LEFT WITH MOVE
+  - show timaeus: AT CENTER WITH MOVE
+  - hide act_twentyone_bg: WITH FADE
+  - show act_twentytwo_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: From all that we have already said in the matter of
+  - timaeus says: these four kinds, the facts would seem to be as follows. When
+  - timaeus says: earth meets with fire and is dissolved by the keenness of it, it
+  - timaeus says: would drift about, whether it were dissolved in fire itself, or in
+  - timaeus says: some mass of air or water, until the parts of it meeting and again
+  - timaeus says: being united became earth once more ; for it never could pass
+  - timaeus says: into any other kind. But when water is divided by fire or by
+  - timaeus says: air, it may be formed again and become one particle of fire and
+  - timaeus says: two of air - and the divisions of air may become for every particle
+  - timaeus says: broken up two particles of fire. And again when fire is caught
+  - timaeus says: in air or in waters or in earth, a little in a great bulk, moving
+  - timaeus says: amid a rushing body, and contending with it is vanquished and
+  - timaeus says: broken up, two particles of fire combine into one figure of
+  - timaeus says: air- and when air is vanquished and broken small, from two
+  - timaeus says: whole and one half particle one whole figure of water will be
+  - timaeus says: composed. Let us also reckon it once again thus - when any
+  - timaeus says: of the other kinds is intercepted in fire and is divided by it
+  - timaeus says: through the sharpness of its angles and its sides, if it forms into
+  - timaeus says: the shape of fire, it at once ceases from being divided - for a
+  - timaeus says: kind which is uniform and identical, of whatever sort it be, can
+  - timaeus says: neither be the cause of any change nor can it suffer any from
+  - timaeus says: that which is identical and uniform with itself; but so long as
+  - timaeus says: passing into another kind a lesser bulk contends with the
+  - timaeus says: greater, it ceases never from being broken. And when the
+  - timaeus says: smaller figures few in number are caught in a multitude of
+  - timaeus says: larger figures and are being broken in pieces and quenched, if
+  - timaeus says: they consent to combine into the form of the stronger they
+  - timaeus says: then and there cease from being quenched ; and from fire arises
+  - timaeus says: air, from air water. But if they assail the others, and another
+  - timaeus says: sort meet and contend with them, they cease not from being
+  - timaeus says: shattered until, being entirely repelled and dissolved, they find
+  - timaeus says: refuge with some of their own kind, or being overcome, form
+  - timaeus says: from many of their own figures one similar to the victorious
+  - timaeus says: element, and there remain and abide with it. Moreover on
+  - timaeus says: account of these conditions they all are changing their places ;
+  - timaeus says: for the bulk of every kind are sorted into separate regions of
+  - timaeus says: their own through the motion of the recipient - and those which
+  - timaeus says: are altered from their own nature and made like some other
+  - timaeus says: are carried by reason of this movement to the region proper to
+  - timaeus says: the element to which they are assimilated.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: All unmixed and primary bodies have thus come into being
+  - timaeus says: through the causes we have described - but for the fact that
+  - timaeus says: within the several classes different kinds exist we must assign as
+  - timaeus says: its cause the structure of the elementary triangles ; it does not
+  - timaeus says: originally produce in each kind of triangle one and the same
+  - timaeus says: size only, but some greater and some less ; and there are just so
+  - timaeus says: many sizes as there are kinds in the classes - and when these
+  - timaeus says: are mixed up with themselves or with one another, an endless
+  - timaeus says: diversity arises, which must be examined by those who would
+  - timaeus says: put forward a probable theory concerning nature.
+  - show timaeus: AT CENTER
+  - hide act_twentytwo_bg: WITH FADE
+  - show act_twentythree_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now concerning rest and motion, how they arise
+  - timaeus says: and under what conditions, we must come to an agreement, else
+  - timaeus says: many difficulties will stand in the way of our argument that is
+  - timaeus says: to follow. This has been already in part set forth, but we have
+  - timaeus says: yet to add that in uniformity no movement will ever exist. For
+  - timaeus says: that what is to be moved should exist without that which is to
+  - timaeus says: move it, or what is to move without that which is to be moved,
+  - timaeus says: is difficult or rather impossible - but without these there can be
+  - timaeus says: no motion, and for these to be uniform is not possible. So
+  - timaeus says: then let us always assign rest to uniformity and motion to its
+  - timaeus says: opposite. Now the opposite of uniformity is caused by in-
+  - timaeus says: equality ; and of inequality we have discussed the origin. But
+  - timaeus says: how it comes to pass that all bodies are not sorted off into
+  - timaeus says: their several kinds and cease from passing through one another
+  - timaeus says: and changing their place, this we have not explained. Let us
+  - timaeus says: put it again in this way. The revolution of the whole, when it
+  - timaeus says: had embraced the four kinds, being circular, with a natural
+  - timaeus says: tendency to return upon itself, compresses everything and suffers
+  - timaeus says: no vacant space to be left. Therefore fire penetrates most of
+  - timaeus says: all through all things, and in the second degree air, since it is
+  - timaeus says: second in fineness, and the rest in proportion. For the sub-
+  - timaeus says: stances which are formed of the largest parts have the most
+  - timaeus says: void left in their structure, and those made of the smallest have
+  - timaeus says: the least. Now the constriction of this contracting force thrusts
+  - timaeus says: the small particles into the interspaces between the larger - so
+  - timaeus says: that when small are set side by side with great, and the lesser
+  - timaeus says: particles divide the greater, while the greater compress the
+  - timaeus says: smaller, all things keep rushing backwards and forwards to their
+  - timaeus says: own region; since in changing its bulk each changes its proper
+  - timaeus says: position in space. Thus owing to these causes a perpetual dis-
+  - timaeus says: turbance of uniformity is always kept up and so preserves the
+  - timaeus says: perpetual motion of matter now and henceforth without cessation.
+  - show timaeus: AT CENTER
+  - hide act_twentythree_bg: WITH FADE
+  - show act_twentyfour_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Next we must remember that of fire there are many
+  - timaeus says: kinds- for instance flame and that effluence from flame, which
+  - timaeus says: burns not but gives light to the eyes, and that which remains in
+  - timaeus says: the embers when the flame is out And so with air - the purest
+  - timaeus says: is that which is called by the name of aether, and the most
+  - timaeus says: turbid is mist and gloom ; and there are other kinds which have
+  - timaeus says: no name, arising from the inequality of the triangles. Of water
+  - timaeus says: there are two primary divisions, the liquid and the fusible kind.
+  - timaeus says: The liquid sort owes its nature to possessing the smaller kinds
+  - timaeus says: of watery atoms, unequal in size ; and so it can readily either
+  - timaeus says: move of itself or be moved by something else, owing to its lack
+  - timaeus says: of uniformity and the peculiar shape of its atoms. But that
+  - timaeus says: which consists of larger and uniform particles is more stable
+  - timaeus says: than the former and heavy, being stiffened by its uniformity-
+  - timaeus says: but when fire enters into it and breaks it up, it loses its uni-
+  - timaeus says: formity and gains more power of motion - and as soon as it has
+  - timaeus says: become mobile, it is thrust by the surrounding air and spread
+  - timaeus says: out upon the earth- and it has received names descriptive of
+  - timaeus says: either process, melting of the dissolution of the mass, flowing
+  - timaeus says: of the extension on the ground. But when the fire goes forth
+  - timaeus says: from it again, seeing that it does not issue into empty space, the
+  - timaeus says: neighbouring air receives a thrust, and while the liquid mass is
+  - timaeus says: still mobile, it forces it to fill up the vacant places of the fire and
+  - timaeus says: unites it with itself. And being thus compressed and recovering
+  - timaeus says: its uniformity, seeing that fire the creator of inequality is
+  - timaeus says: quitting it, it settles into its normal state. And the departure of
+  - timaeus says: fire we call cooling, and the contraction that ensues on its with-
+  - timaeus says: drawal we class as solidification. Of all the substances which
+  - timaeus says: we have ranked as fusible kinds of water, that which is densest
+  - timaeus says: and formed of the finest and most uniform particles, a unique
+  - timaeus says: kind, combining brightness with a yellow hue, is gold, a most
+  - timaeus says: precious treasure, which has filtered through rocks and there
+  - timaeus says: congealed - and the ' offspring of gold ', which is extremely hard
+  - timaeus says: owing to its density and has turned black, is called adamant.
+  - timaeus says: Another has particles resembling those of gold, but more than
+  - timaeus says: one kind; in density it even surpasses gold and has a small
+  - timaeus says: admixture of fine earth, so that it is harder, but lighter, because
+  - timaeus says: it has large interstices within ; this formation is one of the
+  - timaeus says: shining and solid kinds of water and is called bronze. The
+  - timaeus says: earth which is mingled with it, when the two through age begin
+  - timaeus says: to separate again, becomes visible by itself and is named rust.
+  - timaeus says: And it were no intricate task to explain all the other substances
+  - timaeus says: of this kind, following the outline of our probable account.
+  - timaeus says: For if we pursue this as a recreation, and while laying down the
+  - timaeus says: principles of eternal being find in plausible theories of becoming
+  - timaeus says: a pleasure that brings no remorse in its train, we may draw from
+  - timaeus says: it a sober and sensible amusement during our life. Now there-
+  - timaeus says: fore setting out in this way let us go on to discuss the proba-
+  - timaeus says: bilities that lie next on the same subject.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Water mingled with fire, such as is rare and liquid (owing to
+  - timaeus says: its mobility and its way of rolling along the ground, which gets
+  - timaeus says: it the name of liquid), and is also soft, because its bases give way,
+  - timaeus says: being less stable than those of earth, when relinquished by fire
+  - timaeus says: and deserted of air, becomes more uniform and is compressed
+  - timaeus says: by the outgoing elements ; thus it is congealed, and when above
+  - timaeus says: the earth this process takes place in an extreme degree, the result
+  - timaeus says: is hail ; if upon the earth, it is ice - but when the process has not
+  - timaeus says: gone so far but leaves it half-congealed, above the earth it is snow,
+  - timaeus says: and when congealed from dew upon the earth, it is called hoar-
+  - timaeus says: frost. Most forms of water, which are intermingled with one
+  - timaeus says: another, filtered through the plants of the earth, are called by the
+  - timaeus says: class-name of saps ; but owing to their intermixture they are all of
+  - timaeus says: diverse natures and the great multitude of them are accordingly
+  - timaeus says: unnamed - four kinds however which are of a fiery nature, being
+  - timaeus says: more conspicuous, have obtained names - one that heats the soul
+  - timaeus says: and body together, namely wine ; next a kind which is smooth
+  - timaeus says: and divides the visual current and therefore appears bright and
+  - timaeus says: shining to view and glistening, I mean the class of oils, resin
+  - timaeus says: and castor oil and olive oil itself and all others that have the
+  - timaeus says: same properties ; thirdly that which expands the contracted
+  - timaeus says: pores of the mouth to their natural condition, and by this
+  - timaeus says: property produces sweetness to the taste, of this honey is the
+  - timaeus says: most general appellation ; lastly that which corrodes the flesh
+  - timaeus says: by burning, a sort of frothy substance, distinct from all the other
+  - timaeus says: saps, which has been named verjuice.
+  - show timaeus: AT CENTER
+  - hide act_twentyfour_bg: WITH FADE
+  - show act_twentyfive_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Of the different kinds of earth, that which is strained
+  - timaeus says: through water becomes a stony mass in the following way.
+  - timaeus says: When the commingled water is broken up in the mixing, it
+  - timaeus says: changes into the form of air ; and having become air it darts up
+  - timaeus says: to its own region. Now there was no void surrounding it ; ac-
+  - timaeus says: cordingly it gives a thrust to the neighbouring air. And the air,
+  - timaeus says: being weighty, when it is thrust and poured around the mass of
+  - timaeus says: earth, presses it hard and squeezes it into the spaces which the
+  - timaeus says: new-made air quitted. Thus earth, when compressed by air
+  - timaeus says: into a mass that will not dissolve in water, forms stone ; of
+  - timaeus says: which the transparent sort made of equal and uniform particles
+  - timaeus says: is fairer, while that of the opposite kind is less fair. But that
+  - timaeus says: which is suddenly deprived of all its moisture by the rapid
+  - timaeus says: action of fire and is become more brittle than the first forms
+  - timaeus says: the class to which we have given the name of earthenware.
+  - timaeus says: Again when some moisture is left behind, earth, after having
+  - timaeus says: been fused by fire and again cooled, becomes a certain stone
+  - timaeus says: of a black colour. There are also two sorts which in the
+  - timaeus says: same manner after the admixture are robbed of a great part
+  - timaeus says: of the water, being formed of the finer particles of earth with
+  - timaeus says: a saline taste, and becoming only half solid and soluble
+  - timaeus says: again by water; of these what purifies from oil and earth is
+  - timaeus says: alkali ; while that which easily blends with all the combinations
+  - timaeus says: of tastes on the palate is, in the words of the ordinance, the god-
+  - timaeus says: beloved substance of salt. The bodies which are composed of
+  - timaeus says: earth and water combined cannot be dissolved by water, but
+  - timaeus says: by fire alone for the following reason. A mass of earth is
+  - timaeus says: resolved neither by fire nor by air, because their atoms are
+  - timaeus says: smaller than the interstices in its structure, so that they have
+  - timaeus says: abundant room to move in and do not force their way, wherefore
+  - timaeus says: instead of breaking it up they leave it undissolved - but whereas
+  - timaeus says: the parts of water are larger, they make their passage by force
+  - timaeus says: and dissolve the mass by breaking it up. Earth then, when it
+  - timaeus says: is not forcibly solidified, is thus dissolved by water only; but
+  - timaeus says: when it is solidified, only by fire, for no entrance is left except
+  - timaeus says: to fire. And of water the most forcible congelation is melted by
+  - timaeus says: fire alone, but the more feeble both fire and air break up ; the
+  - timaeus says: latter by the interstices, the former by the triangles as well. Air,
+  - timaeus says: when forcibly condensed, can only be resolved into the ele-
+  - timaeus says: mentary triangles, and when uncondensed fire alone dissolves
+  - timaeus says: it. In the case of a substance formed of water and earth com-
+  - timaeus says: bined, so long as water occupies the spaces in it that are
+  - timaeus says: forcibly compressed, the particles of water arriving from without
+  - timaeus says: find no entrance but simply flow round and leave the whole
+  - timaeus says: bulk undissolved; but those of fire enter into the interstices of the
+  - timaeus says: water, and acting upon it as water does upon earth, can alone
+  - timaeus says: cause the combined mass to melt and become liquid. In this
+  - timaeus says: class those which have less water than earth are all kinds of glass
+  - timaeus says: and all stones that are called fusible; and those which contain
+  - timaeus says: more water include all formations like wax and frankincense.
+  - show timaeus: AT CENTER
+  - hide act_twentyfive_bg: WITH FADE
+  - show act_twentysix_bg: WITH FADE
+  - show socrates: AT LEFT WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now all the manifold forms that arise from diverse
+  - timaeus says: shapes and combinations and changes from one to another have
+  - timaeus says: been pretty fully set forth; next we must try to explain their
+  - timaeus says: affections and the causes that lead to them. First we must
+  - timaeus says: assign to all the substances we have described the property of
+  - timaeus says: causing sensation. But the origin of flesh and all that belongs
+  - timaeus says: to it and of the mortal part of soul we have not yet discussed.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now this cannot be adequately dealt with apart from the
+  - timaeus says: affections of sense, nor yet can the latter without the former
+  - timaeus says: yet to treat them both at once is hardly possible. We must
+  - timaeus says: assume one side then, and afterwards we will return to examine
+  - timaeus says: what we assumed. In order then that the properties of the
+  - timaeus says: several elements may be discussed in due order, let us first as-
+  - timaeus says: sume the nature of body and soul. First then let us see what
+  - timaeus says: we mean by calling fire hot ; which we must consider in the
+  - timaeus says: following way, remembering the power of dividing and cutting
+  - timaeus says: which fire exercises upon our body. That the sensation is a
+  - timaeus says: sharp one we are all well enough aware - and the fineness of
+  - timaeus says: the edges and sharpness of the angles, besides the smallness
+  - timaeus says: of its particles and the swiftness of its motion, all of which
+  - timaeus says: qualities combine to render it so vehement and piercing as
+  - timaeus says: keenly to cut whatever meets it all this we must take into
+  - timaeus says: account, remembering the nature of its figure, that this more
+  - timaeus says: than any other kind penetrates our body and minutely divides
+  - timaeus says: it, whence the sensation that we now call heat justly derives
+  - timaeus says: its quality and its name. The opposite condition, though
+  - timaeus says: obvious enough, still must not lack an explanation. When
+  - timaeus says: the larger particles of moisture which surround the body enter
+  - timaeus says: into it, they displace the smaller, and because they are not
+  - timaeus says: able to pass into their places, they compress the moisture within
+  - timaeus says: us; and whereas it was irregular and mobile, they render it
+  - timaeus says: immovable owing to uniformity and contraction, and so it
+  - timaeus says: becomes rigid. And what is against nature contracted in
+  - timaeus says: obedience to nature struggles and thrusts itself apart ; and to
+  - timaeus says: this struggling and quaking has been given the name of
+  - timaeus says: trembling and shivering - and both the effect and the cause
+  - timaeus says: of it are in all cases termed ' cold '.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Hard is the name given to all things to which our flesh
+  - timaeus says: yields; and ' soft ' to those which yield to the flesh ; and so also
+  - timaeus says: they are termed in their relation to each other. Those which
+  - timaeus says: yield are such as have a small base of support; and the figure
+  - timaeus says: with square surfaces, as it is most firmly based, is the most
+  - timaeus says: stubborn form ; so too is whatever from the intensity of its com-
+  - timaeus says: pression offers the strongest resistance.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: Of 'heavy' and 'light' we shall find the clearest explanation
+  - timaeus says: if we examine them together with the so-called 'below' and
+  - timaeus says: above. That there are naturally two opposite regions, dividing
+  - timaeus says: the universe between them, one the lower, to which sink all
+  - timaeus says: things that have material bulk, the other upper, to which every-
+  - timaeus says: thing rises against its will, is altogether a false opinion. For
+  - timaeus says: since the form of the universe is spherical, all the extreme points,
+  - timaeus says: being equally distant from the centre, are by their very nature
+  - timaeus says: equally extreme ; and the centre, being equally distant from
+  - timaeus says: all the extremes, ought to be regarded as opposite to all such
+  - timaeus says: points. This being the nature of the universe, how can one
+  - timaeus says: describe any of the said points as upper or lower, without justly
+  - timaeus says: being censured for using irrelevant terms ? For the centre
+  - timaeus says: cannot properly be described as being above or below, but
+  - timaeus says: simply at the centre ; while the circumference is neither itself
+  - timaeus says: central nor has any difference between the points on its sur-
+  - timaeus says: face, so that one has a different relation to the centre from
+  - timaeus says: an opposite point. Since then it is everywhere uniform, how
+  - timaeus says: and in what sense can we suppose we are speaking correctly
+  - timaeus says: if we use terms which imply opposition ? For suppose in the
+  - timaeus says: midst of the universe there were a solid body in equilibrium,
+  - timaeus says: it would have no tendency towards any point in the circum-
+  - timaeus says: ference, owing to the absolute uniformity of the whole - indeed
+  - timaeus says: if we were to walk round the sphere, frequently, as we stood
+  - timaeus says: at the antipodes of our former position, we should call the
+  - timaeus says: same point on its surface successively 'above' and 'below'. For
+  - timaeus says: this universe being spherical, as we just now said, no rational
+  - timaeus says: man can speak of one region as upper, of another as lower- how-
+  - timaeus says: ever whence these names were derived and under what conditions
+  - timaeus says: we use them to express this division of the entire universe,
+  - timaeus says: we may explain on the following hypothesis. In that region
+  - timaeus says: of the universe which is specially allotted to the element of
+  - timaeus says: fire, where indeed the greatest mass would be collected of that
+  - timaeus says: to which it is attracted, if one should attain to this place, and,
+  - timaeus says: acquiring the needful power, should separate portions of fire
+  - timaeus says: and weigh them in scales, when he raises the balance and
+  - timaeus says: forcibly drags the fire into the alien air, evidently he overpowers
+  - timaeus says: the smaller portion more easily than the larger - for when two
+  - timaeus says: masses are raised at once by the same force, necessarily the
+  - timaeus says: smaller yields more readily to the force, the larger, owing to
+  - timaeus says: its resistance, less readily - hence the larger mass is said to be
+  - timaeus says: heavy and to tend downwards, the smaller to be light and
+  - timaeus says: to tend upwards. This is exactly what we ought to detect
+  - timaeus says: ourselves doing in our own region. Moving as we do on the
+  - timaeus says: earth, we separate portions of earthy substances or sometimes
+  - timaeus says: earth itself, and drag them into the alien air with unnatural
+  - timaeus says: force, for each portion clings to its own kind. Now the smaller
+  - timaeus says: mass yields more readily to our force than the larger and follows
+  - timaeus says: quicker into the alien element ; therefore we call it ' light ', and
+  - timaeus says: the place into which we force it ' above ' ; while to the opposite
+  - timaeus says: conditions we apply the terms 'heavy' and 'below'. Now
+  - timaeus says: that these mutual relations should vary is inevitable, because
+  - timaeus says: the bulk of the several elements occupy contrary positions in
+  - timaeus says: space. For as between a body that is light in one region and
+  - timaeus says: a body that is light in the opposite region, or as between two
+  - timaeus says: that are heavy, as well as upper and lower, all the lines of
+  - timaeus says: attraction will be found to become and remain relatively con-
+  - timaeus says: trary and transverse and different in every possible way. But
+  - timaeus says: with all of them this one principle is to be borne in mind, that
+  - timaeus says: in every case it is the tendency towards the kindred element
+  - timaeus says: that makes us call the falling body heavy, and the place to
+  - timaeus says: which it falls, below ; while to the reverse relations we apply
+  - timaeus says: the opposite names. So much then for the causes of these
+  - timaeus says: conditions. Of the qualities of smooth and rough any one
+  - timaeus says: could perceive the cause and explain it to another- the latter
+  - timaeus says: is produced by a combination of hardness and irregularity, the
+  - timaeus says: former by a combination of uniformity and density.
+  - show timaeus: AT CENTER
+  - hide socrates: WITH FADE
+  - hide act_twentysix_bg: WITH FADE
+  - show act_twentyseven_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: We have yet to consider the most important point
+  - timaeus says: relating to the affections which concern the whole body in com-
+  - timaeus says: mon ; that is, the cause of pleasure and pain accompanying
+  - timaeus says: the sensations we have discussed - and also the affections which
+  - timaeus says: produce sensation by means of the separate bodily organs and
+  - timaeus says: which involve attendant pains and pleasures. This then is how
+  - timaeus says: we must conceive the causes in the case of every affection,
+  - timaeus says: sensible or insensible, recollecting how we defined above the
+  - timaeus says: source of mobility and immobility - for this is the way we must
+  - timaeus says: seek the explanation we hope to find. When that which is
+  - timaeus says: naturally mobile is impressed by even a slight affection, it spreads
+  - timaeus says: abroad the motion, the particles one upon another producing
+  - timaeus says: the same effect, until coming to the sentient part it announces
+  - timaeus says: the property of the agent - but a substance that is immobile
+  - timaeus says: is too stable to spread the motion round about, and thus merely
+  - timaeus says: receives the affection but does not stir any neighbouring part;
+  - timaeus says: so that as the particles do not pass on one to another the
+  - timaeus says: original impulse which affected them, they keep it untransmitted
+  - timaeus says: to the entire creature and thus leave the recipient of the af-
+  - timaeus says: fection without sensation. This takes place with our bones and
+  - timaeus says: hair and all the parts we have which are formed mostly of
+  - timaeus says: earth - while the former conditions apply in the highest degree
+  - timaeus says: to sight and hearing, because they contain the greatest pro-
+  - timaeus says: portion of fire and air. The nature of pleasure and pain must
+  - timaeus says: be conceived thus - an affection contrary to nature, when it takes
+  - timaeus says: place forcibly and suddenly within us, is painful ; a sudden
+  - timaeus says: return to the natural state is pleasant; a gentle and gradual
+  - timaeus says: process is imperceptible; and one of an opposite character is per-
+  - timaeus says: ceptible. Now a process which takes place with perfect facility
+  - timaeus says: is perceptible in a high degree, but is accompanied neither by
+  - timaeus says: pleasure nor by pain. An example will be found in the affec-
+  - timaeus says: tions of the visual current, which we said above was in the day-
+  - timaeus says: time a material body cognate with ourselves. In this cutting and
+  - timaeus says: burning and any other affection cause no, pain; nor does pleasure
+  - timaeus says: ensue when it returns to its normal state - but its perceptions
+  - timaeus says: are most vivid and accurate of whatsoever impresses it or what-
+  - timaeus says: soever itself meets and touches. For its dilation and contraction
+  - timaeus says: are entirely free from violence. On the other hand bodies
+  - timaeus says: formed of larger particles, reluctantly yielding to the agent, and
+  - timaeus says: spreading the motions through the whole frame, cause pleasure
+  - timaeus says: and pain ; when they are disturbed giving pain, and pleasure
+  - timaeus says: in being restored to their proper state. Those things which
+  - timaeus says: suffer a gradual withdrawing and emptying, but have their
+  - timaeus says: replenishment sudden and on a large scale, are insensible to
+  - timaeus says: the emptying but sensible of the replenishment ; so that while
+  - timaeus says: they cause no pain to the mortal part of the soul, they produce
+  - timaeus says: very intense pleasure. This is to be observed in the case of
+  - timaeus says: sweet smells. But when the parts are disturbed suddenly, but
+  - timaeus says: gradually and laboriously restored to their- former condition,
+  - timaeus says: they afford exactly the opposite result to the former - this may
+  - timaeus says: be seen in the case of burns and cuts on the body.
+  - show timaeus: AT CENTER
+  - hide act_twentyseven_bg: WITH FADE
+  - show act_twentyeight_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Now the affections common to the body as a
+  - timaeus says: whole and the names that have been given to the agents which
+  - timaeus says: produce them have been well-nigh expounded - next we must
+  - timaeus says: try to explain, if we can, what takes place in the separate parts
+  - timaeus says: of us, both as to the affections of them and the causes on the
+  - timaeus says: part of the agents. First then we must set forth to the best
+  - timaeus says: of our p3wer all that we left unsaid concerning tastes, which
+  - timaeus says: are affections peculiar to the tongue. It appears that these,
+  - timaeus says: like most other things, are brought about by contraction and
+  - timaeus says: dilation, besides which they have more to do than other sen-
+  - timaeus says: sations with roughness and smoothness in the agents. For
+  - timaeus says: whenever earthy particles enter in by the little veins which are
+  - timaeus says: a kind of testing instruments of the tongue, stretched to the
+  - timaeus says: heart, and strike upon the moist and soft parts of the flesh,
+  - timaeus says: these particles as they are being dissolved contract and dry
+  - timaeus says: the small veins ; and if they are very rough, they are termed
+  - timaeus says: astringent; if less so 'harsh'. Such substances again as are
+  - timaeus says: detergent and rinse the whole surface of the tongue, if they
+  - timaeus says: do this to an excessive degree and encroach so as to dissolve
+  - timaeus says: part of the structure of the flesh, as is the property of alka-
+  - timaeus says: lies all such are termed 'bitter'- but those which fall short of
+  - timaeus says: the alkaline quality and rinse the tongue only to a moderate
+  - timaeus says: extent are saline without bitterness and seem to us agreeable
+  - timaeus says: rather than the reverse. Those which share the warmth of
+  - timaeus says: the mouth and are softened by it, being simultaneously in-
+  - timaeus says: flamed and themselves in turn scorching that which heated
+  - timaeus says: them, and which owing to their lightness fly upward to the
+  - timaeus says: senses of the head, penetrating all that is in their path owing
+  - timaeus says: to these properties all such substances are called ' pungent '.
+  - timaeus says: But sometimes these same substances, having been already
+  - timaeus says: refined by decomposition, enter into the narrow veins, being
+  - timaeus says: duly proportioned to the earthy particles and the particles of
+  - timaeus says: air which are there, so that they set them in motion and mingle
+  - timaeus says: them together, and thereby cause them to jostle against one
+  - timaeus says: another and taking up other positions to form new hollows
+  - timaeus says: extended round the entering particles which hollows consist
+  - timaeus says: of a film of moisture, sometimes earthy, sometimes pure, em-
+  - timaeus says: bracing a volume of air ; and thus they form moist capsules con-
+  - timaeus says: taining air - in some cases the films are of pure moisture and
+  - timaeus says: transparent and are called bubbles ; in others they are of earthy
+  - timaeus says: liquid which effervesces and rises all together, when the name
+  - timaeus says: of seething and fermentation is given to it - and the cause
+  - timaeus says: of all these conditions is termed ' acid '. The opposite affection
+  - timaeus says: to all those which have been described is produced by an oppo-
+  - timaeus says: site cause - when the structure of the entering particles amid
+  - timaeus says: the moisture, having a natural affinity to the tongue's normal
+  - timaeus says: condition, smooths it by mollifying the roughened parts, and
+  - timaeus says: relaxes or contracts what is unnaturally contracted or expanded,
+  - timaeus says: and settles everything as much as possible in its natural state.
+  - timaeus says: Every such remedy of violent affections is to all of us pleasant
+  - timaeus says: and agreeable, and has received the name of ' sweet '.
+  - show timaeus: AT CENTER
+  - hide act_twentyeight_bg: WITH FADE
+  - show act_twentynine_bg: WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: Enough of this subject. As regards the faculty
+  - timaeus says: of the nostrils no classification can be made. For smells are
+  - timaeus says: of a half-formed nature - and no class of figure has the adap-
+  - timaeus says: tation requisite for producing any smell, but our veins in this
+  - timaeus says: part are formed too narrow for earth and water, and too wide
+  - timaeus says: for fire and air- for which cause no one ever perceived any
+  - timaeus says: smell of these bodies ; but smells arise from substances which
+  - timaeus says: are being either liquefied or decomposed or dissolved or evapo-
+  - timaeus says: rated - for when water is changing into air and air into water,
+  - timaeus says: odours arise in the intermediate condition ; and all odours are
+  - timaeus says: vapour or mist, mist being the conversion of air into water, and
+  - timaeus says: vapour the conversion of water into air ; whence all smells are
+  - timaeus says: subtler than water and coarser than air. This is proved when
+  - timaeus says: any obstacle is placed before the passages of respiration, and
+  - timaeus says: then one forcibly inhales the air - for then no smell filters through
+  - timaeus says: with it, but the air bereft of all scent alone follows the inhala-
+  - timaeus says: tion. For this reason the complex varieties of odour are un-
+  - timaeus says: named, and are ranked in classes neither numerous nor simple -
+  - timaeus says: only two conspicuous kinds are in fact here distinguished, plea-
+  - timaeus says: sant and unpleasant. The latter roughens and irritates all the
+  - timaeus says: cavity of the body that is between the head and the navel ; the
+  - timaeus says: former soothes this same region and restores it with contentment
+  - timaeus says: to its own natural condition.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: A third organ of sensation in us which we have to examine
+  - timaeus says: is that of hearing, and we must state the causes whence arise the
+  - timaeus says: affections connected with it. Let us in general terms define
+  - timaeus says: sound as a stroke transmitted through the ears by the air and
+  - timaeus says: passed through the brain and the blood to the soul; while the
+  - timaeus says: motion produced by it, beginning in the head and ending in the
+  - timaeus says: region of the liver, is hearing. A rapid motion produces a shrill
+  - timaeus says: sound, a slower one a deeper sound; regular vibration gives an
+  - timaeus says: even and smooth sound, and the opposite a harsh one; if the
+  - timaeus says: movement is large, the sound is loud; if otherwise, it is slight.
+  - timaeus says: Concerning accords of sound we must speak later on in our
+  - timaeus says: discourse.
+  - show timaeus: AT CENTER
+  - hide act_twentynine_bg: WITH FADE
+  - show act_thirty_bg: WITH FADE
+  - show socrates: AT LEFT WITH FADE
+  - show timaeus: talk AT CENTER
+  - timaeus says: A fourth faculty of sense yet remains, the intricate
+  - timaeus says: varieties of which it is our part to classify. To these we have
+  - timaeus says: given the name of colours, which consist of a flame streaming off
+  - timaeus says: from every object, having its particles so adjusted to those of
+  - timaeus says: the visual current as to excite sensation. We have already set
+  - timaeus says: forth the causes which gave origin to vision- thus therefore it
+  - timaeus says: will be most natural and fitting for a rational theory to treat of
+  - timaeus says: the question of colours. The particles which issue from outward
+  - timaeus says: objects and meet the visual stream are some of them smaller,
+  - timaeus says: some larger, and some equal in size to the particles of that
+  - timaeus says: stream. Those of equal size cause no sensation, and these we
+  - timaeus says: call transparent; but the larger and smaller, in the one case by
+  - timaeus says: contracting, in the other by dilating it, produce effects akin to
+  - timaeus says: the action of heat and cold on the flesh, and to the action on
+  - timaeus says: the tongue of astringent tastes and the heating sensations which
+  - timaeus says: we termed pungent. These are white and black, affections
+  - timaeus says: identical with those just mentioned, but occurring in a different
+  - timaeus says: class and seeming to be different for the causes aforesaid. We
+  - timaeus says: must then classify them as follows. What dilates the visual
+  - timaeus says: stream is white, and the opposite thereof is black. A swifter
+  - timaeus says: motion belonging to a different kind of fire, which meets and
+  - timaeus says: penetrates the visual stream quite up to the eyes, and forcibly
+  - timaeus says: displaces and decomposes the pores of the eyes themselves,
+  - timaeus says: draws from thence a combined body of fire and water, which
+  - timaeus says: we call a tear- and whereas this agent is itself fire, meeting
+  - timaeus says: the other from the opposite direction, and one fire leaps forth
+  - timaeus says: as lightning from the eyes, while the other enters in and is
+  - timaeus says: quenched in the moisture, all manner of colours arise in this
+  - timaeus says: commixture; and to the sensation we give the name of dazzling,
+  - timaeus says: and the agent which produces it we call bright and shining. A
+  - timaeus says: kind of fire which is intermediate between the two former, when
+  - timaeus says: it reaches the moisture of the eye and is mingled with it, but
+  - timaeus says: does not flash, produces a blood-like colour by the mixture of
+  - timaeus says: fire with the gleam of the moisture, and the name we give it
+  - timaeus says: is red. Bright combined with red and white makes yellow. In
+  - timaeus says: what proportion they are mingled, it were not reasonable to say,
+  - timaeus says: even if we knew; for there is neither any inevitable law nor any
+  - timaeus says: probable account thereof which we might properly declare. Red
+  - timaeus says: mingled with black and white becomes purple, which turns to
+  - timaeus says: dark violet when these ingredients are more burnt and a greater
+  - timaeus says: quantity of black is added. Chestnut arises from the mixture
+  - timaeus says: of yellow and grey, and grey from white and black - pale buff is
+  - timaeus says: from white mixed with yellow. When bright meets white and
+  - timaeus says: is steeped in intense black, a deep blue colour is the result; and
+  - timaeus says: deep blue mingled with white produces pale blue; and chestnut
+  - timaeus says: with black makes green. And for the remaining colours, it is
+  - timaeus says: pretty clear from the foregoing to what combinations we ought
+  - timaeus says: to assign them so as to preserve the probability of our account-
+  - timaeus says: but if a man endeavour to make practical trial of these theories
+  - timaeus says: he will prove himself ignorant of the difference between divine
+  - timaeus says: and human intelligence - that God has sufficient understanding
+  - timaeus says: and power to blend the many into one and again to resolve the
+  - timaeus says: one into many; but no man is able to do either of these, now or
+  - timaeus says: henceforth for ever.
+  - show timaeus: AT CENTER
+  - show timaeus: talk AT CENTER
+  - timaeus says: All these things being thus constituted by necessity, the
+  - timaeus says: creator of the most fair and perfect in the realm of becoming
+  - timaeus says: took them over, when he was generating the self-sufficing and
+  - timaeus says: most perfect god, using the forces in them as subservient causes,
+  - timaeus says: but himself working out the good in all things that come into
+  - timaeus says: being. Wherefore we must distinguish two kinds of causes, one
+  - timaeus says: of necessity and one of God- and the divine we must seek in all
+  - timaeus says: things for the sake of winning a happy life, so far as our nature
+  - timaeus says: admits of it; and the necessary for the sake of the divine, reflect-
+  - timaeus says: ing that without these we cannot apprehend by themselves the
+  - timaeus says: other truths, which are the object of our serious study, nor grasp
+  - timaeus says: them nor in any other way attain to them.
   - effect ROLLINGCREDITS:
     endGame: true
     text:

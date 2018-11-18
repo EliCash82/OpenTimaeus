@@ -24,6 +24,14 @@ Currently 3/45ths of Plato's Timaeus in Visual Novel form.
 * Character Bodies
 * Full cast alternative characters with talk expressions
 
+11/17/2018
+
+* 10/45ths of Plato's Timaeus in Visual Novel form.
+* Altered some character behavior formatting.
+
+11/18/2018
+* 30/45ths of Plato's Timaeus in Visual Novel form.
+
 ---
 
 ***Timaeus*** by **PLATO** written 360 B.C.

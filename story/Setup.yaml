@@ -7,6 +7,32 @@ backgrounds:
   act_two_bg: assets/backgrounds/tim-alpha3.jpg
   act_three_bg: assets/backgrounds/act-3-bg.jpg
   act_four_bg: assets/backgrounds/act-4-bg.jpg
+  act_five_bg: assets/backgrounds/act-5-bg.jpg
+  act_six_bg: assets/backgrounds/act-6-bg.jpg
+  act_seven_bg: assets/backgrounds/act-7-bg.jpg
+  act_eight_bg: assets/backgrounds/act-8-bg.jpg
+  act_nine_bg: assets/backgrounds/act-9-bg.jpg
+  act_ten_bg: assets/backgrounds/act-10-bg.jpg
+  act_eleven_bg: assets/backgrounds/act-11-bg.jpg
+  act_twelve_bg: assets/backgrounds/act-12-bg.jpg
+  act_thirteen_bg: assets/backgrounds/act-13-bg.jpg
+  act_fourteen_bg: assets/backgrounds/act-14-bg.jpg
+  act_fifteen_bg: assets/backgrounds/act-15-bg.jpg
+  act_sixteen_bg: assets/backgrounds/act-16-bg.jpg
+  act_seventeen_bg: assets/backgrounds/act-17-bg.jpg
+  act_eighteen_bg: assets/backgrounds/act-18-bg.jpg
+  act_nineteen_bg: assets/backgrounds/act-19-bg.jpg
+  act_twenty_bg: assets/backgrounds/act-20-bg.jpg
+  act_twentyone_bg: assets/backgrounds/act-21-bg.jpg
+  act_twentytwo_bg: assets/backgrounds/act-22-bg.jpg
+  act_twentythree_bg: assets/backgrounds/act-23-bg.jpg
+  act_twentyfour_bg: assets/backgrounds/act-24-bg.jpg
+  act_twentyfive_bg: assets/backgrounds/act-25-bg.jpg
+  act_twentysix_bg: assets/backgrounds/act-26-bg.jpg
+  act_twentyseven_bg: assets/backgrounds/act-27-bg.jpg
+  act_twentyeight_bg: assets/backgrounds/act-28-bg.jpg
+  act_twentynine_bg: assets/backgrounds/act-29-bg.jpg
+  act_thirty_bg: assets/backgrounds/act-30-bg.jpg
   school_afternoon: assets/backgrounds/tim-alpha3.jpg
   street_morning: assets/backgrounds/school_front_morning.jpg
   street_afternoon: assets/backgrounds/school_front_afternoon.jpg
