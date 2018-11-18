@@ -1,3 +1,5 @@
+![TimLogo](TimLogo.png)
+
 # OpenTimaeus
 
 ## Developed by Anderson Evans
@@ -30,7 +32,7 @@ Currently 3/45ths of Plato's Timaeus in Visual Novel form.
 * Altered some character behavior formatting.
 
 11/18/2018
-* 30/45ths of Plato's Timaeus in Visual Novel form.
+* 45/45ths of Plato's Timaeus in Visual Novel form.
 
 ---
 

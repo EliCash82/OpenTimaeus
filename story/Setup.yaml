@@ -33,10 +33,20 @@ backgrounds:
   act_twentyeight_bg: assets/backgrounds/act-28-bg.jpg
   act_twentynine_bg: assets/backgrounds/act-29-bg.jpg
   act_thirty_bg: assets/backgrounds/act-30-bg.jpg
-  school_afternoon: assets/backgrounds/tim-alpha3.jpg
-  street_morning: assets/backgrounds/school_front_morning.jpg
-  street_afternoon: assets/backgrounds/school_front_afternoon.jpg
-  store: assets/backgrounds/store.jpg
+  act_thirtyone_bg: assets/backgrounds/act-31-bg.jpg
+  act_thirtytwo_bg: assets/backgrounds/act-32-bg.jpg
+  act_thirtythree_bg: assets/backgrounds/act-33-bg.jpg
+  act_thirtyfour_bg: assets/backgrounds/act-34-bg.jpg
+  act_thirtyfive_bg: assets/backgrounds/act-35-bg.jpg
+  act_thirtysix_bg: assets/backgrounds/act-36-bg.jpg
+  act_thirtyseven_bg: assets/backgrounds/act-37-bg.jpg
+  act_thirtyeight_bg: assets/backgrounds/act-38-bg.jpg
+  act_thirtynine_bg: assets/backgrounds/act-39-bg.jpg
+  act_forty_bg: assets/backgrounds/act-40-bg.jpg
+  act_fortyone_bg: assets/backgrounds/act-41-bg.jpg
+  act_fortytwo_bg: assets/backgrounds/act-42-bg.jpg
+  act_fortythree_bg: assets/backgrounds/act-43-bg.jpg
+  act_fortyfour_bg: assets/backgrounds/act-44-bg.jpg
 characters:
   socrates:
     displayName: Socrates
@@ -82,47 +92,7 @@ characters:
       normalC: assets/characters/CritChar2.png
       happyC: assets/characters/CritChar2.png
       angryC: assets/characters/CritChar2.png
-  deuzi:
-    displayName: Deuzilene
-    speechColour: "#ca90cf"
-    looks:
-      normal: assets/characters/Char3NormalSchool.png
-      happy: assets/characters/SocChar.png
-      angry: assets/characters/Char3AngrySchool.png
-      normalC: assets/characters/Char3Normal.png
-      happyC: assets/characters/Char3Happy.png
-      angryC: assets/characters/Char3Angry.png
-  liz:
-    displayName: Liz
-    speechColour: "#d5e6e7"
-    looks:
-      normal: assets/characters/Char2NormalSchool.png
-      happy: assets/characters/Char2HappySchool.png
-      angry: assets/characters/Char2AngrySchool.png
-      normalC: assets/characters/Char2Normal.png
-      happyC: assets/characters/Char2Happy.png
-      angryC: assets/characters/Char2Angry.png
-  marco:
-    displayName: Marco
-    speechColour: "#123022"
-    looks:
-      normal: assets/characters/Char1NormalSchool.png
-      happy: assets/characters/Char1HappySchool.png
-      angry: assets/characters/Char1AngrySchool.png
-      worry: assets/characters/Char1WorrySchool.png
-      normalC: assets/characters/Char1Normal.png
-      happyC: assets/characters/Char1Happy.png
-      angryC: assets/characters/Char1Angry.png
-  jair:
-    displayName: Jair
-    speechColour: "#6a2b2b"
-    looks:
-      normal: assets/characters/Char4NormalSchool.png
-      happy: assets/characters/Char4HappySchool.png
-      angry: assets/characters/Char4AngrySchool.png
-      normalC: assets/characters/Char4Normal.png
-      happyC: assets/characters/Char4Happy.png
-      angryC: assets/characters/Char4Angry.png
+
 cgs:
   phone1: assets/objects/phone1.png
   phone2: assets/objects/phone2.png
@@ -156,14 +126,7 @@ cgs:
   lessonGUISliders: assets/lessons/lessonGUISliders.png
 music:
   rollingCredits: assets/audio/littlebroth.mp3
-  morningBGM: assets/audio/Evan_Schaeffer_-_03_-_Glow.mp3
-  storeBGM: assets/audio/Evan_Schaeffer_-_18_-_Big_Tree.mp3
-  cicadas: assets/audio/Cicada.mp3
-  rain: assets/audio/Rain.mp3
 sfx:
-  ringtoneSFX: assets/audio/nokia6210-24-elise.mp3
-  ringtoneSFX2: assets/audio/alcatel-top_secret.mp3
-  thunderSFX: assets/audio/thunder_strike_1.mp3
 extra:
   image:
     title: assets/gui/titles.png
